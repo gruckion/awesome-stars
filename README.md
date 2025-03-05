@@ -1051,6 +1051,7 @@
 
 ## TypeScript 
 
+- [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [microsoft/vscode-prompt-tsx](https://github.com/microsoft/vscode-prompt-tsx) - 
 - [taishikato/supavec](https://github.com/taishikato/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
