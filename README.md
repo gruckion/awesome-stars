@@ -192,7 +192,7 @@
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
 - [hiett/serverless-redis-http](https://github.com/hiett/serverless-redis-http) - HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits!
 
 ## F# # 
@@ -632,6 +632,7 @@
 
 ## Others 
 
+- [x1xhlol/v0-system-prompts](https://github.com/x1xhlol/v0-system-prompts) - 
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -720,6 +721,7 @@
 
 ## Python 
 
+- [ALucek/ppt2desc](https://github.com/ALucek/ppt2desc) - Convert PowerPoint files into semantically rich text using vision language models
 - [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandab
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
@@ -1051,6 +1053,9 @@
 
 ## TypeScript 
 
+- [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
+- [hipstersmoothie/jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) - Report jest test errors directly in pull requests
+- [lucas-barake/effect-monorepo](https://github.com/lucas-barake/effect-monorepo) - 
 - [linear/linear](https://github.com/linear/linear) - Tools, SDK's and plugins for Linear
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [microsoft/vscode-prompt-tsx](https://github.com/microsoft/vscode-prompt-tsx) - 
@@ -1059,7 +1064,7 @@
 - [hayes/pothos](https://github.com/hayes/pothos) - Pothos GraphQL is library for creating GraphQL schemas in typescript using a strongly typed code first approach
 - [philschmid/nextjs-gemini-2-0-pdf-structured-data](https://github.com/philschmid/nextjs-gemini-2-0-pdf-structured-data) - 
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
-- [ShenSeanChen/yt-stripe-nextjs-supabase](https://github.com/ShenSeanChen/yt-stripe-nextjs-supabase) - Welcome to Sean's Open Source Template for Production-Ready NextJS+Stripe+Supabase App.
+- [ShenSeanChen/launch-kit-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-kit-stripe-nextjs-supabase) - Welcome to Sean's Open Source Template for Production-Ready NextJS+Stripe+Supabase App.
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -1124,7 +1129,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) - TypeScript declaration (.d.ts) bundler
 - [turbostarter/cli](https://github.com/turbostarter/cli) - Create your TurboStarter app with one command.
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
