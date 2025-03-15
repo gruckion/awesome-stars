@@ -26,6 +26,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MDX](#mdx)
+- [MLIR](#mlir)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
@@ -192,7 +193,7 @@
 
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Realtime sync for Postgres.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [hiett/serverless-redis-http](https://github.com/hiett/serverless-redis-http) - HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits!
 
 ## F# # 
@@ -355,7 +356,6 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [i18next/i18next-gettext-converter](https://github.com/i18next/i18next-gettext-converter) - converts gettext .mo or .po to 18next json format and vice versa
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
-- [shinich39/node-nllb-200](https://github.com/shinich39/node-nllb-200) - nllb-200 nodejs wrapper
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [pgvector/pgvector-node](https://github.com/pgvector/pgvector-node) - pgvector support for Node.js, Deno, and Bun (and TypeScript)
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -583,6 +583,7 @@
 
 ## Jupyter Notebook 
 
+- [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
@@ -615,6 +616,10 @@
 - [dubinc/docs](https://github.com/dubinc/docs) - Official docs for Dub.co
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
+## MLIR 
+
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+
 ## Makefile 
 
 - [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
@@ -638,6 +643,7 @@
 
 ## Others 
 
+- [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
@@ -727,14 +733,42 @@
 
 ## Python 
 
+- [welltop-cn/ComfyUI-TeaCache](https://github.com/welltop-cn/ComfyUI-TeaCache) - 
+- [chengzeyi/Comfy-WaveSpeed](https://github.com/chengzeyi/Comfy-WaveSpeed) - [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
+- [alimama-creative/FLUX-Controlnet-Inpainting](https://github.com/alimama-creative/FLUX-Controlnet-Inpainting) - 
+- [XLabs-AI/x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui) - 
+- [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
+- [theUpsider/ComfyUI-Logic](https://github.com/theUpsider/ComfyUI-Logic) - Logic nodes to perform conditional renders based on an input or comparision
+- [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) - 
+- [konstmish/prodigy](https://github.com/konstmish/prodigy) - The Prodigy optimizer and its variants for training neural networks.
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff.
+- [cocktailpeanut/fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
+- [RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-](https://github.com/RPG-fan/Cline-Recursive-Chain-of-Thought-System-CRCT-) - A framework designed to manage context, dependencies, and tasks in large-scale Cline projects within VS Code
+- [comfyanonymous/ComfyUI_bitsandbytes_NF4](https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4) - 
+- [rainlizard/EasyQuantizationGUI](https://github.com/rainlizard/EasyQuantizationGUI) - 
+- [BlenderNeko/ComfyUI_TiledKSampler](https://github.com/BlenderNeko/ComfyUI_TiledKSampler) - Tiled samplers for ComfyUI
+- [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
+- [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+- [cartesia-ai/edge](https://github.com/cartesia-ai/edge) - On-device intelligence.
+- [OpenManus/OpenManus-RL](https://github.com/OpenManus/OpenManus-RL) - A live stream development of RL tunning for LLM agents
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A Python library powered by Language Models (LLMs) for conversational data discovery and analysis.
+- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+- [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+- [bakhti-ai/Wan2.1](https://github.com/bakhti-ai/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
+- [manzt/anywidget](https://github.com/manzt/anywidget) - reusable widgets made easy
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [Oxen-AI/GRPO-With-Cargo-Feedback](https://github.com/Oxen-AI/GRPO-With-Cargo-Feedback) - This repository has code for fine-tuning LLMs with GRPO specifically for Rust Programming using cargo as feedback
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native post-training library
 - [OpenPipe/deductive-reasoning](https://github.com/OpenPipe/deductive-reasoning) - Train your own SOTA deductive reasoning model
-- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Supabase MCP Server enabling Cursor & Windsurf to use any method from Management API and query your database
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Query MCP (previously Supabase MCP Server) enabling Cursor & Windsurf to use any method from Management API and query your database
 - [amy-hyunji/RouterRetriever](https://github.com/amy-hyunji/RouterRetriever) - 
 - [hamishivi/tess-2](https://github.com/hamishivi/tess-2) - Repository for "TESS-2: A Large-Scale, Generalist Diffusion Language Model"
-- [bakhti-ai/Wan2.1](https://github.com/bakhti-ai/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ALucek/ppt2desc](https://github.com/ALucek/ppt2desc) - Convert PowerPoint files into semantically rich text using vision language models
 - [microsoft/prompty](https://github.com/microsoft/prompty) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandab
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -755,6 +789,7 @@
 - [alvin-r/databonsai](https://github.com/alvin-r/databonsai) - clean & curate your data with LLMs.
 - [mwojnars/chatgpt-name-parser](https://github.com/mwojnars/chatgpt-name-parser) - Experimental parser of person names using ChatGPT API.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -850,7 +885,7 @@
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
@@ -899,7 +934,6 @@
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [google/autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [outscraper/outscraper-python](https://github.com/outscraper/outscraper-python) - The library provides convenient access to the Outscraper API from applications written in the Python language. Allows using Outscraper's services from your code.
@@ -1067,6 +1101,8 @@
 
 ## TypeScript 
 
+- [Dankovk/browser-use-node](https://github.com/Dankovk/browser-use-node) - a typescript rewrite of the great python lib
+- [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
 - [mattpocock/node-DeepResearch](https://github.com/mattpocock/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
@@ -1086,13 +1122,11 @@
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [instructor-ai/instructor-js](https://github.com/instructor-ai/instructor-js) - structured extraction for llms
-- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [gingerhendrix/cf-mcp-durable-object](https://github.com/gingerhendrix/cf-mcp-durable-object) - MCP over Websockets on Cloudflare Durable Objects
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
 - [exa-labs/answer-chat-app](https://github.com/exa-labs/answer-chat-app) - Open source chat app using Exa's Answer endpoint
 - [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
-- [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
@@ -1161,7 +1195,7 @@
 - [prisma/prisma-client-extensions](https://github.com/prisma/prisma-client-extensions) - Examples of Prisma Client extensions.
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [rudrodip/asyncr](https://github.com/rudrodip/asyncr) - Async Select component built with React & ShadCN UI
-- [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+- [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [formml/formml](https://github.com/formml/formml) - A DSL-based solution for building enterprise-level forms (like Prisma but for forms)
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
@@ -1580,6 +1614,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [williamlmao/chimera-ui](https://github.com/williamlmao/chimera-ui) - A beautiful, accessible, and fully customizable Tailwind UI library for React. Maybe the easiest themeing experience ever? Free and open source.
 - [pappasam/coc-jedi](https://github.com/pappasam/coc-jedi) - coc.nvim wrapper for https://github.com/pappasam/jedi-language-server
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
