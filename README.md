@@ -270,7 +270,6 @@
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [whatwg/streams](https://github.com/whatwg/streams) - Streams Standard
 - [WordPress/Security-White-Paper](https://github.com/WordPress/Security-White-Paper) - The WordPress Security White Paper, available directly on the WordPress.org site at https://wordpress.org/about/security/
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 - [snyk/actions](https://github.com/snyk/actions) - A set of GitHub actions for checking your projects for vulnerabilities
 - [maizzle/maizzle](https://github.com/maizzle/maizzle) - Quickly build HTML emails with Tailwind CSS.
 - [goldstack/goldstack](https://github.com/goldstack/goldstack) - Templates and boilerplates for fullstack projects customised to your needs.
@@ -306,11 +305,11 @@
 
 ## JavaScript 
 
+- [zsodur/chatgpt-api-by-browser-script](https://github.com/zsodur/chatgpt-api-by-browser-script) - This project runs on users' browsers through the Tampermonkey script and converts the web version of ChatGPT operations into an API interface. This way, you can use GPT-4 in chatgpt web pages to play 
 - [JoakimCh/grok-archiver](https://github.com/JoakimCh/grok-archiver) - Just an archiver for X's Grok image generator.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 - [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
@@ -318,9 +317,8 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [yjs/yjs-demos](https://github.com/yjs/yjs-demos) - A collection of demos for Yjs
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss
-- [zsodur/chatgpt-api-by-browser-script](https://github.com/zsodur/chatgpt-api-by-browser-script) - This project runs on users' browsers through the Tampermonkey script and converts the web version of ChatGPT operations into an API interface. This way, you can use GPT-4 in chatgpt web pages to play 
 - [replicate/paint-by-text](https://github.com/replicate/paint-by-text) - A microsite for InstructPix2Pix
-- [flybayer/twitter-bookmarks-search](https://github.com/flybayer/twitter-bookmarks-search) - WebExtension that adds ability search all your bookmarked tweets!
+- [twillot-app/twitter-bookmarks-search](https://github.com/twillot-app/twitter-bookmarks-search) - WebExtension that adds ability search all your bookmarked tweets!
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime) - Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
@@ -586,7 +584,7 @@
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 - [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [AmeerArsala/LLM-Data-Cleaner](https://github.com/AmeerArsala/LLM-Data-Cleaner) - Data Cleaning using LLMs
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -612,9 +610,11 @@
 
 ## MDX 
 
+- [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [dubinc/docs](https://github.com/dubinc/docs) - Official docs for Dub.co
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 
 ## MLIR 
 
@@ -733,6 +733,18 @@
 
 ## Python 
 
+- [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [google-research/kauldron](https://github.com/google-research/kauldron) - Modular, scalable library to train ML models
+- [1rgs/claude-code-openai](https://github.com/1rgs/claude-code-openai) - Run Claude Code on OpenAI models
+- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one for AI generative image
+- [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
+- [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+- [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - [CVPR 2025] MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation
+- [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [if-ai/ComfyUI-IF_LLM](https://github.com/if-ai/ComfyUI-IF_LLM) - Run Local and API LLMs, Features Gemini2 image generation, DEEPSEEK R1, QwenVL2.5, QWQ32B, Ollama, LlamaCPP LMstudio, Koboldcpp, TextGen, Transformers or via APIs Anthropic, Groq, OpenAI, Google Gemin
+- [YunQiAI/OpenManusWeb](https://github.com/YunQiAI/OpenManusWeb) - A Web-app for OpenManus
 - [welltop-cn/ComfyUI-TeaCache](https://github.com/welltop-cn/ComfyUI-TeaCache) - 
 - [chengzeyi/Comfy-WaveSpeed](https://github.com/chengzeyi/Comfy-WaveSpeed) - [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 - [alimama-creative/FLUX-Controlnet-Inpainting](https://github.com/alimama-creative/FLUX-Controlnet-Inpainting) - 
@@ -766,7 +778,7 @@
 - [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native post-training library
 - [OpenPipe/deductive-reasoning](https://github.com/OpenPipe/deductive-reasoning) - Train your own SOTA deductive reasoning model
-- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Query MCP (previously Supabase MCP Server) enabling Cursor & Windsurf to use any method from Management API and query your database
+- [alexander-zuev/supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) - Query MCP enables end-to-end management of Supabase via chat interface: read & write query executions, management API support, automatic migration versioning, access to logs and much more.
 - [amy-hyunji/RouterRetriever](https://github.com/amy-hyunji/RouterRetriever) - 
 - [hamishivi/tess-2](https://github.com/hamishivi/tess-2) - Repository for "TESS-2: A Large-Scale, Generalist Diffusion Language Model"
 - [ALucek/ppt2desc](https://github.com/ALucek/ppt2desc) - Convert PowerPoint files into semantically rich text using vision language models
@@ -789,7 +801,6 @@
 - [alvin-r/databonsai](https://github.com/alvin-r/databonsai) - clean & curate your data with LLMs.
 - [mwojnars/chatgpt-name-parser](https://github.com/mwojnars/chatgpt-name-parser) - Experimental parser of person names using ChatGPT API.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -799,7 +810,7 @@
 - [daniel-lxs/mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity) - MCP Server for the Perplexity API.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench [Multimodal]: Can Language Models Resolve Real-world Github Issues?
 - [superagent-ai/reag](https://github.com/superagent-ai/reag) - Reasoning Augmented Generation
 - [slimslenderslacks/mcp-hello-world](https://github.com/slimslenderslacks/mcp-hello-world) - 
@@ -824,7 +835,7 @@
 - [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 an
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The most advanced AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -1101,9 +1112,17 @@
 
 ## TypeScript 
 
+- [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [e2b-dev/surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
+- [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
+- [supabase-community/vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - A full-featured, Supabaseified Next.js AI chatbot built by Vercel Labs & Supabase
+- [nickscamara/extract-chat](https://github.com/nickscamara/extract-chat) - Extract information from any website by chatting with AI - Fork of Vercel AI Chatbot w/ Firecrawl Integrated
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [Dankovk/browser-use-node](https://github.com/Dankovk/browser-use-node) - a typescript rewrite of the great python lib
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
-- [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
+- [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [mattpocock/node-DeepResearch](https://github.com/mattpocock/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
 - [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
 - [hipstersmoothie/jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) - Report jest test errors directly in pull requests
@@ -1122,6 +1141,7 @@
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [instructor-ai/instructor-js](https://github.com/instructor-ai/instructor-js) - structured extraction for llms
+- [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [gingerhendrix/cf-mcp-durable-object](https://github.com/gingerhendrix/cf-mcp-durable-object) - MCP over Websockets on Cloudflare Durable Objects
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
 - [cucumber/cucumber-js](https://github.com/cucumber/cucumber-js) - Cucumber for JavaScript
@@ -1137,7 +1157,7 @@
 - [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [codehz/bun_python](https://github.com/codehz/bun_python) - Ported from deno_python
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
-- [mangosqueezy/mangosqueezy](https://github.com/mangosqueezy/mangosqueezy) - AI agent to find and onboard affiliates for SaaS businesses 🤖
+- [mangosqueezy/mangosqueezy](https://github.com/mangosqueezy/mangosqueezy) - AI agent to find and manage affiliates for SaaS businesses 🤖
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
@@ -1402,7 +1422,6 @@
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
-- [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [coryhouse/react-switchboard](https://github.com/coryhouse/react-switchboard) - Quickly create custom DevTools for your React app
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1433,7 +1452,7 @@
 - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work!
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-- [n1ru4l/envelop](https://github.com/n1ru4l/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
+- [graphql-hive/envelop](https://github.com/graphql-hive/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -1596,7 +1615,7 @@
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
-- [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
+- [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -1616,7 +1635,6 @@
 - [pappasam/coc-jedi](https://github.com/pappasam/coc-jedi) - coc.nvim wrapper for https://github.com/pappasam/jedi-language-server
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
