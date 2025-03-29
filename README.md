@@ -204,6 +204,7 @@
 
 ## Go 
 
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - Model Context Protocol (MCP) server that interacts with a Language Server
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -645,8 +646,10 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - 
 - [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models.
 - [microsoft/prompt-engineering](https://github.com/microsoft/prompt-engineering) - Learn how to use AI models with prompt engineering
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -735,6 +738,7 @@
 
 ## Python 
 
+- [langchain-ai/langgraph-bigtool](https://github.com/langchain-ai/langgraph-bigtool) - Build LangGraph agents with large numbers of tools
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
 - [xinntao/facexlib](https://github.com/xinntao/facexlib) - FaceXlib aims at providing ready-to-use face-related functions based on current STOA open-source methods.
@@ -753,7 +757,7 @@
 - [if-ai/ComfyUI-IF_LLM](https://github.com/if-ai/ComfyUI-IF_LLM) - Run Local and API LLMs, Features Gemini2 image generation, DEEPSEEK R1, QwenVL2.5, QWQ32B, Ollama, LlamaCPP LMstudio, Koboldcpp, TextGen, Transformers or via APIs Anthropic, Groq, OpenAI, Google Gemin
 - [YunQiAI/OpenManusWeb](https://github.com/YunQiAI/OpenManusWeb) - A Web-app for OpenManus
 - [welltop-cn/ComfyUI-TeaCache](https://github.com/welltop-cn/ComfyUI-TeaCache) - 
-- [chengzeyi/Comfy-WaveSpeed](https://github.com/chengzeyi/Comfy-WaveSpeed) - [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
+- [chengzeyi/Comfy-WaveSpeed](https://github.com/chengzeyi/Comfy-WaveSpeed) - https://wavespeed.ai/ [WIP] The all in one inference optimization solution for ComfyUI, universal, flexible, and fast.
 - [alimama-creative/FLUX-Controlnet-Inpainting](https://github.com/alimama-creative/FLUX-Controlnet-Inpainting) - 
 - [XLabs-AI/x-flux-comfyui](https://github.com/XLabs-AI/x-flux-comfyui) - 
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
@@ -1120,6 +1124,8 @@
 
 ## TypeScript 
 
+- [Tritlo/lsp-mcp](https://github.com/Tritlo/lsp-mcp) - An MCP server that lets you interact with LSP servers
+- [jonrad/lsp-mcp](https://github.com/jonrad/lsp-mcp) - An Model Context Protocol (MCP) server that provides LLMs/AI Agents with the capabilities of a language server protocol (LSP) server. This gives the AI the ability to get language aware context from t
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -1311,7 +1317,7 @@
 - [fdarian/prisma-generator-drizzle](https://github.com/fdarian/prisma-generator-drizzle) - A Prisma generator for generating Drizzle schema with ease
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [Blobscan/blobscan](https://github.com/Blobscan/blobscan) - The pioneer blockchain explorer dedicated to navigate and visualize shard blob transactions.
 - [ajmnz/prisma-enum-generator](https://github.com/ajmnz/prisma-enum-generator) - Automatically generate enums with your Prisma model names
