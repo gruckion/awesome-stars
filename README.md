@@ -355,6 +355,7 @@
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [i18next/i18next-gettext-converter](https://github.com/i18next/i18next-gettext-converter) - converts gettext .mo or .po to 18next json format and vice versa
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -524,10 +525,10 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
-- [rawify/Angles.js](https://github.com/rawify/Angles.js) - Angles.js is a collection of functions to work with angles
-- [rawify/Quaternion.js](https://github.com/rawify/Quaternion.js) - A JavaScript Quaternion library
-- [rawify/Polynomial.js](https://github.com/rawify/Polynomial.js) - A JavaScript library to work with polynomials
-- [rawify/Complex.js](https://github.com/rawify/Complex.js) - Complex.js is a com numbers library written in JavaScript
+- [rawify/Angles.js](https://github.com/rawify/Angles.js) - The RAW Angles.js is a collection of functions to work with angles
+- [rawify/Quaternion.js](https://github.com/rawify/Quaternion.js) - The RAW JavaScript Quaternion library
+- [rawify/Polynomial.js](https://github.com/rawify/Polynomial.js) - The RAW JavaScript library to work with polynomials
+- [rawify/Complex.js](https://github.com/rawify/Complex.js) - The RAW Complex.js is a complex numbers library written in JavaScript
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js) - Fraction is a rational numbers library written in JavaScript
 - [bguiz/handwriting](https://github.com/bguiz/handwriting) - Handwriting and stroke recognition library
 - [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js) - An arbitrary length integer library for Javascript
@@ -666,7 +667,6 @@
 - [corrmatrix/nlp-transformers-llm](https://github.com/corrmatrix/nlp-transformers-llm) - 
 - [dbt-labs/jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 - [nodemailer/addressparser](https://github.com/nodemailer/addressparser) - Parse e-mail address fields with node.js
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
@@ -1184,7 +1184,7 @@
 - [eastlondoner/cursor-tools](https://github.com/eastlondoner/cursor-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [codehz/bun_python](https://github.com/codehz/bun_python) - Ported from deno_python
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
-- [mangosqueezy/mangosqueezy](https://github.com/mangosqueezy/mangosqueezy) - AI agent to find and manage affiliates for SaaS businesses 🤖
+- [mangosqueezy/mangosqueezy](https://github.com/mangosqueezy/mangosqueezy) - AI agent to find and manage affiliates for businesses 🤖
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
@@ -1641,7 +1641,7 @@
 - [shadcn/next-contentlayer](https://github.com/shadcn/next-contentlayer) - A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [graphql-hive/graphql-yoga](https://github.com/graphql-hive/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
