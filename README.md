@@ -1392,13 +1392,13 @@
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Workflow automation with 280+ MCP servers (MCP tools) • AI automation & workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
-- [irsyadadl/justd](https://github.com/irsyadadl/justd) - Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
+- [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [hatemhosny/racing-bars](https://github.com/hatemhosny/racing-bars) - Bar chart race made easy 🎉
 - [kndwin/hevel](https://github.com/kndwin/hevel) - tech role application
 - [bramus/style-observer](https://github.com/bramus/style-observer) - MutationObserver for CSS. Get notified when the computed value of a CSS property changes.
