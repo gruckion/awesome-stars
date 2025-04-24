@@ -1138,6 +1138,9 @@
 
 ## TypeScript 
 
+- [mahdavipanah/keyv-upstash](https://github.com/mahdavipanah/keyv-upstash) - Upstash Redis adapter for Keyv.
+- [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
+- [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - a robust, scalable, and maintained set of caching packages
 - [t3dotgg/drive-tutorial](https://github.com/t3dotgg/drive-tutorial) - 
 - [overengineeringstudio/genie](https://github.com/overengineeringstudio/genie) - Write your config files in TypeScript (e.g. package.json)
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
