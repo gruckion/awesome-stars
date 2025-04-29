@@ -1052,7 +1052,7 @@
 ## Ruby 
 
 - [theodi/parse-uk-addresses](https://github.com/theodi/parse-uk-addresses) - Code for parsing UK addresses
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source composable CDP -  alternative to hightouch and census.
 - [infrablocks/terraform-aws-ecs-cluster](https://github.com/infrablocks/terraform-aws-ecs-cluster) - Terraform module for building an ECS cluster in AWS
 - [markdownlint/markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
