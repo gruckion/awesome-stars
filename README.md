@@ -1383,7 +1383,7 @@
 - [ErikDakoda/zenstack-prisma-nextjs-monorepo](https://github.com/ErikDakoda/zenstack-prisma-nextjs-monorepo) - ZenStack Monorepo Demo
 - [shuding/next-ts-plugin-vscode](https://github.com/shuding/next-ts-plugin-vscode) - Always-on Next.js TypeScript Plugin in VSCode
 - [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - A playground for tanstack-table
-- [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium (x86-64) for Serverless Platforms
+- [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [Codehagen/propdock](https://github.com/Codehagen/propdock) - En omfattende plattform for finansiell analyse, verdivurdering og leiekontrakter for næringseiendom
