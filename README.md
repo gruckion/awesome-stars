@@ -210,7 +210,7 @@
 
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Codex, Claude Code, and Aider. 10x your productivity
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
-- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server helps MCP enabled clients navigate codebases more easily by giving them access semantic tools like get definition, references, rename, and diagnostics.
+- [isaacphi/mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -831,7 +831,7 @@
 - [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
 - [octotools/octotools](https://github.com/octotools/octotools) - OctoTools: An agentic framework with extensible tools for complex reasoning
 - [VIDA-NYU/openclean](https://github.com/VIDA-NYU/openclean) - openclean - Data Cleaning and data profiling library for Python
-- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+- [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
 - [alvin-r/databonsai](https://github.com/alvin-r/databonsai) - clean & curate your data with LLMs.
 - [mwojnars/chatgpt-name-parser](https://github.com/mwojnars/chatgpt-name-parser) - Experimental parser of person names using ChatGPT API.
@@ -853,7 +853,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ant-research/MagicQuill](https://github.com/ant-research/MagicQuill) - [CVPR'25] Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
@@ -1149,6 +1149,8 @@
 
 ## TypeScript 
 
+- [g-todorov/xstate-validation-example](https://github.com/g-todorov/xstate-validation-example) - Form validation with xState and react-hook-form
+- [kianbazza/ui](https://github.com/kianbazza/ui) - bazza/ui is a React component library with hand-crafted, powerful, modern components.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [mahdavipanah/keyv-upstash](https://github.com/mahdavipanah/keyv-upstash) - Upstash Redis adapter for Keyv.
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -1305,7 +1307,7 @@
 - [jacobparis/underkill-stack](https://github.com/jacobparis/underkill-stack) - A react router 7 stack for simple projects
 - [leerob/next-self-host](https://github.com/leerob/next-self-host) - An example deploying Next / Postgres / Nginx to a Ubuntu Linux server.
 - [salvinoto/nextjs-better-auth-prisma](https://github.com/salvinoto/nextjs-better-auth-prisma) - A web app template to make SaaS development easy
-- [TinsFox/shadcnui-boilerplate](https://github.com/TinsFox/shadcnui-boilerplate) - A boilerplate built with shadcn/ui for rapid development of modern web applications.
+- [TinsFox/poketto-stack](https://github.com/TinsFox/poketto-stack) - A boilerplate built with shadcn/ui for rapid development of modern web applications.
 - [jawills/top-trailblazers](https://github.com/jawills/top-trailblazers) - See the top trailblazers in Salesforce
 - [colbyfayock/my-invoicing-app](https://github.com/colbyfayock/my-invoicing-app) - 
 - [typeonce-dev/effect-react-19-project-template](https://github.com/typeonce-dev/effect-react-19-project-template) - Learn how to organize Effect services, layers, and runtime to execute both client and server code in React 19
@@ -1338,7 +1340,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
 - [simbathesailor/use-what-changed](https://github.com/simbathesailor/use-what-changed) - A React hook and an easy to use babel-pugin to debug various React official hooks
-- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Welcome to the Supabase Auth using the SSR package repository! This project showcases how to effortlessly integrate authentication in your Next.js projects using the power of Supabase and its new serv
+- [ElectricCodeGuy/SupabaseAuthWithSSR](https://github.com/ElectricCodeGuy/SupabaseAuthWithSSR) - Supabase Auth + AI Stack for Next.js 15 with SSR and React Server Components (RSC),  Welcome to a production-ready template combining Supabase SSR authentication with AI capabilities: document chat (R
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [mcnaveen/liny](https://github.com/mcnaveen/liny) - Privacy First, Open Source Customer Feedback Management Platform
 - [codinginflow/nextjs-15-social-media-app](https://github.com/codinginflow/nextjs-15-social-media-app) - 
@@ -1481,7 +1483,7 @@
 - [coryhouse/react-switchboard](https://github.com/coryhouse/react-switchboard) - Quickly create custom DevTools for your React app
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [sadmann7/skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js.
