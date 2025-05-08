@@ -1149,6 +1149,7 @@
 
 ## TypeScript 
 
+- [ixahmedxi/unverceled-nextjs](https://github.com/ixahmedxi/unverceled-nextjs) - A Next.js 15 Starter Kit Deployed to Cloudflare
 - [g-todorov/xstate-validation-example](https://github.com/g-todorov/xstate-validation-example) - Form validation with xState and react-hook-form
 - [kianbazza/ui](https://github.com/kianbazza/ui) - bazza/ui is a React component library with hand-crafted, powerful, modern components.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
@@ -1197,7 +1198,7 @@
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
-- [instructor-ai/instructor-js](https://github.com/instructor-ai/instructor-js) - structured extraction for llms
+- [567-labs/instructor-js](https://github.com/567-labs/instructor-js) - structured extraction for llms
 - [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [gingerhendrix/cf-mcp-durable-object](https://github.com/gingerhendrix/cf-mcp-durable-object) - MCP over Websockets on Cloudflare Durable Objects
 - [vitalets/playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner
