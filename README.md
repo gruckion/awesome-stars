@@ -315,6 +315,8 @@
 
 ## JavaScript 
 
+- [bedouijesser/next-plugin-devtools-json](https://github.com/bedouijesser/next-plugin-devtools-json) - 
+- [hashicorp/nextjs-bundle-analysis](https://github.com/hashicorp/nextjs-bundle-analysis) - A github action that provides detailed bundle analysis on PRs for next.js apps
 - [smeijer/spin-delay](https://github.com/smeijer/spin-delay) - Smart spinner helper for React, to manage the duration of loading states.
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
@@ -628,6 +630,7 @@
 
 ## MDX 
 
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [crowdin/docs](https://github.com/crowdin/docs) - Crowdin Knowledge Base and Dev Portal
 - [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
@@ -662,6 +665,7 @@
 
 ## Others 
 
+- [paolotiu/tailwind-intellisense-regex-list](https://github.com/paolotiu/tailwind-intellisense-regex-list) - 
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
@@ -933,7 +937,7 @@
 - [ikergarcia1996/Easy-Translate](https://github.com/ikergarcia1996/Easy-Translate) - Easy-Translate is a script for translating large text files with a SINGLE COMMAND. Easy-Translate is designed to be as easy as possible for beginners and as seamlesscustomizable and  as possible for a
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Serverless AI Workflows for Data & ML Teams
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
@@ -1000,7 +1004,7 @@
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [jupyter-server/jupyter_server](https://github.com/jupyter-server/jupyter_server) - The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
@@ -1159,6 +1163,19 @@
 
 ## TypeScript 
 
+- [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
+- [paulwer/prisma-extension-cache-manager](https://github.com/paulwer/prisma-extension-cache-manager) - 
+- [c15t/c15t](https://github.com/c15t/c15t) - Full Stack Consent Framework in typescript
+- [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi) - A library that generates OpenAPI (Swagger) docs from Zod schemas
+- [RobinTail/zod-sockets](https://github.com/RobinTail/zod-sockets) - Socket.IO solution with I/O validation and the ability to generate AsyncAPI specification and a contract for consumers.
+- [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
+- [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
+- [google/schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary
+- [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
+- [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+- [vercel/react-transition-progress](https://github.com/vercel/react-transition-progress) - Show a progress bar while React Transitions run
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
+- [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [TommyBez/stagewise-animation-plugin](https://github.com/TommyBez/stagewise-animation-plugin) - 
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
@@ -1547,7 +1564,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [AirLabsTeam/react-drag-to-select](https://github.com/AirLabsTeam/react-drag-to-select) - A react library which adds drag to select to your app
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [mickasmt/next-auth-roles-template](https://github.com/mickasmt/next-auth-roles-template) - Open-source Nextjs 14 Template Starter with Auth.js v5, User Roles & Admin Panel. Remove blog or docs parts with one cli.
 - [47ng/cloak](https://github.com/47ng/cloak) - Serialized AES-GCM 256 encryption, decryption and key management in the browser & Node.js
 - [47ng/prisma-field-encryption](https://github.com/47ng/prisma-field-encryption) - Transparent field-level encryption at rest for Prisma
@@ -1571,7 +1588,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [zustandjs/zustand-slices](https://github.com/zustandjs/zustand-slices) - A slice utility for Zustand
 - [IdoPesok/zsa](https://github.com/IdoPesok/zsa) - 
-- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano)
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
