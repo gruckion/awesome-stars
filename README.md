@@ -264,6 +264,7 @@
 
 ## HTML 
 
+- [docker/labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - Your trusted home for discovering MCP tools – seamlessly integrated into Docker
 - [ampproject/amp-toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
 - [mlfoundations/evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic evals for LLMs
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
@@ -318,6 +319,7 @@
 
 ## JavaScript 
 
+- [isaacs/tshy](https://github.com/isaacs/tshy) - 
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [publint/publint](https://github.com/publint/publint) - Lint packaging errors
@@ -338,7 +340,6 @@
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 - [e2b-dev/mcp-server](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
-- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A robust linting preset for modern TypeScript apps.
 - [tus/tus-js-client](https://github.com/tus/tus-js-client) - A pure JavaScript client for the tus resumable upload protocol
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [yjs/yjs-demos](https://github.com/yjs/yjs-demos) - A collection of demos for Yjs
@@ -1173,6 +1174,10 @@
 
 ## TypeScript 
 
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - 
 - [mkosir/frontend-monorepo-boilerplate](https://github.com/mkosir/frontend-monorepo-boilerplate) - ⚡ Frontend monorepo boilerplate. TypeScript, vanilla CSS/Tailwind/MUI with focus on best practices and painless developer experience.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
@@ -1314,6 +1319,7 @@
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
 - [mattzcarey/mcp-thinking](https://github.com/mattzcarey/mcp-thinking) - thinking tool for claude desktop/mcp clients using Deepseek reasoner
 - [g-todorov/xstate-persistent-state-example](https://github.com/g-todorov/xstate-persistent-state-example) - Example of using xState 4 along with Next.js 13 to create web app with the ability to persist and rehydrate global state.
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [lucas-barake/effect-t3-trpc](https://github.com/lucas-barake/effect-t3-trpc) - 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
