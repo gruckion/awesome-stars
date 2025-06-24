@@ -279,6 +279,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
+- [udecode/dotai](https://github.com/udecode/dotai) - Ultimate AI development stack: Claude Code + Task Master + Cursor
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
@@ -1109,6 +1110,7 @@
 
 ## eslint 
 
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [karmaniverous/npm-package-template-ts](https://github.com/karmaniverous/npm-package-template-ts) - A feature-rich NPM package template for TypeScript projects.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
@@ -1331,6 +1333,7 @@
 
 ## hacktoberfest 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
@@ -2259,6 +2262,7 @@
 
 ## nodejs 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
@@ -2728,7 +2732,6 @@
 - [shuding/next-ts-plugin-vscode](https://github.com/shuding/next-ts-plugin-vscode) - Always-on Next.js TypeScript Plugin in VSCode
 - [transitive-bullshit/lqip-modern](https://github.com/transitive-bullshit/lqip-modern) - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.
 - [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json) - Sort an Object or package.json based on the well-known package.json keys
-- [udecode/dotai](https://github.com/udecode/dotai) - 
 - [Codehagen/propdock](https://github.com/Codehagen/propdock) - En omfattende plattform for finansiell analyse, verdivurdering og leiekontrakter for næringseiendom
 - [mindtown-ai/dynamic-prompt](https://github.com/mindtown-ai/dynamic-prompt) - This component allows you to dynamically render text fields and select inputs based on the provided data.
 - [trpc/examples-next-app-dir](https://github.com/trpc/examples-next-app-dir) - 
@@ -2773,7 +2776,7 @@
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
-- [launchql/libpg-query-node](https://github.com/launchql/libpg-query-node) - libpg_query PG port for node.js
+- [launchql/libpg-query-node](https://github.com/launchql/libpg-query-node) - 🐘 libpg_query PG port for node.js
 - [MeltanoLabs/meltano-map-transform](https://github.com/MeltanoLabs/meltano-map-transform) - A map transformer which implements the `Stream Maps` capability from Meltano's tap and target SDK: https://sdk.meltano.com/
 - [coryhouse/react-switchboard](https://github.com/coryhouse/react-switchboard) - Quickly create custom DevTools for your React app
 - [SWE-bench/experiments](https://github.com/SWE-bench/experiments) - Open sourced predictions, execution logs, trajectories, and results from model inference + evaluation runs on the SWE-bench task.
@@ -3435,6 +3438,7 @@
 
 ## react 
 
+- [chambits/storybook-interaction-test](https://github.com/chambits/storybook-interaction-test) - A demonstration project showcasing Storybook component testing capabilities with React, TypeScript, and Vite
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [mkosir/frontend-monorepo-boilerplate](https://github.com/mkosir/frontend-monorepo-boilerplate) - ⚡ Frontend monorepo boilerplate. TypeScript, vanilla CSS/Tailwind/MUI with focus on best practices and painless developer experience.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -3965,6 +3969,7 @@
 
 ## storybook 
 
+- [chambits/storybook-interaction-test](https://github.com/chambits/storybook-interaction-test) - A demonstration project showcasing Storybook component testing capabilities with React, TypeScript, and Vite
 - [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
