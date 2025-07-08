@@ -8,7 +8,6 @@
 - [AppleScript](#applescript)
 - [Astro](#astro)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -60,10 +59,6 @@
 ## Batchfile 
 
 - [sbalnojan/meltano-example-el-db](https://github.com/sbalnojan/meltano-example-el-db) - 
-
-## Blade 
-
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 
 ## C 
 
@@ -208,6 +203,7 @@
 
 ## Go 
 
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
@@ -680,6 +676,7 @@
 
 ## Others 
 
+- [boxabirds/awesome-claude-hooks](https://github.com/boxabirds/awesome-claude-hooks) - THIS HAS MOVED to https://github.com/boxabirds/awesome-hooks
 - [experianplc/Experian-BIS-Postman-Collection](https://github.com/experianplc/Experian-BIS-Postman-Collection) - Experian BIS Postman Collection
 - [ThatGuySam/nasa-biome](https://github.com/ThatGuySam/nasa-biome) - Biome Config Inspired by Gerard J. Holzmann's "Rules for Developing Safety Critical Code"
 - [ThatGuySam/node-upgrade-checklist](https://github.com/ThatGuySam/node-upgrade-checklist) - Handy checklist for everywhere and anywhere you might need to set the version when upgrading to the latest Node.
@@ -700,7 +697,6 @@
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [InfuseAI/awesome-public-dbt-projects](https://github.com/InfuseAI/awesome-public-dbt-projects) - A curated list of awesome public DBT projects
 - [campsite/examples](https://github.com/campsite/examples) - Code samples showcasing what you can build with the Campsite API.
-- [udecode/dotai](https://github.com/udecode/dotai) - Ultimate AI development stack: Claude Code + Task Master + Cursor
 - [reactwg/react-native-new-architecture](https://github.com/reactwg/react-native-new-architecture) - Workgroup for the New React Native Architecture
 - [corrmatrix/nlp-transformers-llm](https://github.com/corrmatrix/nlp-transformers-llm) - 
 - [dbt-labs/jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
@@ -743,6 +739,7 @@
 
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [Decodo/SERP-Scraping-API](https://github.com/Decodo/SERP-Scraping-API) - SERP Scraping API code examples for Python, PHP and Node.js
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
@@ -1070,7 +1067,6 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [whywhs/Pytorch-Handwritten-Mathematical-Expression-Recognition](https://github.com/whywhs/Pytorch-Handwritten-Mathematical-Expression-Recognition) - This program uses Attention and Coverage to realize HMER and this program is based on Pytorch.
 - [serverlesspub/cloudformation-deploy-to-s3](https://github.com/serverlesspub/cloudformation-deploy-to-s3) - Deploy your Frontend to S3 using CloudFormation
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [tonybaloney/azure-pipelines-python-examples](https://github.com/tonybaloney/azure-pipelines-python-examples) - Example configurations for Azure Build Pipelines for Python
 - [karan1149/crohme-data-extractor](https://github.com/karan1149/crohme-data-extractor) - A modified extractor for the CROHME handwritten math symbols dataset.
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
@@ -1143,8 +1139,10 @@
 
 ## Shell 
 
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [gokulkrishh/dotfiles](https://github.com/gokulkrishh/dotfiles) - Setup your MacOS for web development in few minutes.
+- [udecode/dotai](https://github.com/udecode/dotai) - Ultimate AI development stack: Claude Code + Task Master + Cursor
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [SWE-bench/experiments](https://github.com/SWE-bench/experiments) - Open sourced predictions, execution logs, trajectories, and results from model inference + evaluation runs on the SWE-bench task.
 - [calogica/dbt-expectations](https://github.com/calogica/dbt-expectations) - Port(ish) of Great Expectations to dbt test macros
@@ -1185,6 +1183,20 @@
 
 ## TypeScript 
 
+- [chromaui/chromatic-e2e](https://github.com/chromaui/chromatic-e2e) - Archive end-to-end tests to be replayed in Storybook and Chromatic
+- [checkly/checkly-cli](https://github.com/checkly/checkly-cli) - TS/JS native Monitoring as Code workflow
+- [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
+- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+- [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
+- [epicweb-dev/full-stack-testing](https://github.com/epicweb-dev/full-stack-testing) - Confidently ship your full-stack app with automated tests
+- [kettanaito/playwright-persona](https://github.com/kettanaito/playwright-persona) - Authentication in Playwright using personas.
 - [experianplc/Experian-Address-Validation](https://github.com/experianplc/Experian-Address-Validation) - International address capture optimized for your use case
 - [lucas-barake/building-an-app-with-effect](https://github.com/lucas-barake/building-an-app-with-effect) - 
 - [epicweb-dev/testing-fundamentals](https://github.com/epicweb-dev/testing-fundamentals) - Learn the fundamentals of automated testing in TypeScript.
@@ -1526,7 +1538,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [hatemhosny/racing-bars](https://github.com/hatemhosny/racing-bars) - Bar chart race made easy 🎉
 - [kndwin/hevel](https://github.com/kndwin/hevel) - tech role application
@@ -1693,7 +1705,7 @@
 - [deepgram/deepgram-js-sdk](https://github.com/deepgram/deepgram-js-sdk) - Official JavaScript SDK for Deepgram.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [nitedani/zustand-querystring](https://github.com/nitedani/zustand-querystring) - A Zustand middleware that syncs the store with the querystring.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -1880,6 +1892,7 @@
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [Flipkart/recyclerlistview](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 - [editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode) - EditorConfig extension for Visual Studio Code
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [saltyshiomix/ark](https://github.com/saltyshiomix/ark) - An easiest authentication system on top of NestJS, TypeORM, NEXT.js(v9.3) and Material UI(v4).
 - [ericwooley/graphql-typeorm-passport-boilerplate](https://github.com/ericwooley/graphql-typeorm-passport-boilerplate) - A boilerplate for passport, typeorm, and graphql
