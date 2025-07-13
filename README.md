@@ -46,6 +46,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [Zig](#zig)
+- [sed](#sed)
 
 ## AppleScript 
 
@@ -317,6 +318,7 @@
 
 ## JavaScript 
 
+- [nodejs/import-in-the-middle](https://github.com/nodejs/import-in-the-middle) - Like `require-in-the-middle`, but for ESM import
 - [code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -1008,6 +1010,7 @@
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [google/autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [outscraper/outscraper-python](https://github.com/outscraper/outscraper-python) - The library provides convenient access to the Outscraper API from applications written in the Python language. Allows using Outscraper's services from your code.
@@ -1183,6 +1186,9 @@
 
 ## TypeScript 
 
+- [rphlmr/drizzle-supabase-rls](https://github.com/rphlmr/drizzle-supabase-rls) - 
+- [getsentry/spotlight](https://github.com/getsentry/spotlight) - Debuggability Elevated
+- [supabase-community/pg-gateway](https://github.com/supabase-community/pg-gateway) - Postgres wire protocol for the server-side
 - [chromaui/chromatic-e2e](https://github.com/chromaui/chromatic-e2e) - Archive end-to-end tests to be replayed in Storybook and Chromatic
 - [checkly/checkly-cli](https://github.com/checkly/checkly-cli) - TS/JS native Monitoring as Code workflow
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
@@ -1200,7 +1206,6 @@
 - [experianplc/Experian-Address-Validation](https://github.com/experianplc/Experian-Address-Validation) - International address capture optimized for your use case
 - [lucas-barake/building-an-app-with-effect](https://github.com/lucas-barake/building-an-app-with-effect) - 
 - [epicweb-dev/testing-fundamentals](https://github.com/epicweb-dev/testing-fundamentals) - Learn the fundamentals of automated testing in TypeScript.
-- [ronin-co/codegen](https://github.com/ronin-co/codegen) - Generates TypeScript types based on RONIN models.
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
 - [chambits/storybook-interaction-test](https://github.com/chambits/storybook-interaction-test) - A demonstration project showcasing Storybook component testing capabilities with React, TypeScript, and Vite
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
@@ -1684,7 +1689,7 @@
 - [daniel-nagy/transporter](https://github.com/daniel-nagy/transporter) - Typesafe distributed computing in TypeScript.
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
@@ -1805,7 +1810,6 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [williamlmao/chimera-ui](https://github.com/williamlmao/chimera-ui) - A beautiful, accessible, and fully customizable Tailwind UI library for React. Maybe the easiest themeing experience ever? Free and open source.
 - [pappasam/coc-jedi](https://github.com/pappasam/coc-jedi) - coc.nvim wrapper for https://github.com/pappasam/jedi-language-server
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
@@ -1940,6 +1944,10 @@
 ## Zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## sed 
+
+- [vlajos/misspell-fixer](https://github.com/vlajos/misspell-fixer) - Simple tool for fixing common misspellings, typos in source code
 
 
 ## License
