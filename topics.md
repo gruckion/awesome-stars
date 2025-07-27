@@ -192,6 +192,7 @@
 - [shell](#shell)
 - [sketch](#sketch)
 - [software](#software)
+- [spring](#spring)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -201,6 +202,7 @@
 - [support](#support)
 - [svelte](#svelte)
 - [swift](#swift)
+- [symfony](#symfony)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -235,6 +237,7 @@
 
 ## ai 
 
+- [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
@@ -403,7 +406,7 @@
 - [axiomhq/axiom-js](https://github.com/axiomhq/axiom-js) - Official language bindings and library extensions for Axiom
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [graphql-hive/envelop](https://github.com/graphql-hive/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Full-Stack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
@@ -460,7 +463,7 @@
 
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [e2b-dev/surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 - [test-zeus-ai/testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, enabling UI, API, Security, Accessibility, and Visual validations – all without code or maintenance. Automate testing effortlessly and let Herc
@@ -678,6 +681,7 @@
 
 ## cli 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [checkly/checkly-cli](https://github.com/checkly/checkly-cli) - TS/JS native Monitoring as Code workflow
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
 - [mmkal/trpc-cli](https://github.com/mmkal/trpc-cli) - Turn a tRPC router into a type-safe, fully-functional, documented CLI
@@ -990,7 +994,7 @@
 
 ## devops 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -1014,6 +1018,9 @@
 
 ## docker 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A Python library powered by Language Models (LLMs) for conversational data discovery and analysis.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1215,9 +1222,9 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 - [Slicejack/bojler](https://github.com/Slicejack/bojler) - Bojler is an email framework
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -1264,6 +1271,7 @@
 
 ## go 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1288,6 +1296,7 @@
 
 ## golang 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
@@ -1345,7 +1354,7 @@
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [octokit/graphql.js](https://github.com/octokit/graphql.js) - GitHub GraphQL API client for browsers and Node
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL-first approach
 - [graphql-hive/envelop](https://github.com/graphql-hive/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
@@ -1365,6 +1374,7 @@
 
 ## hacktoberfest 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
@@ -1546,7 +1556,7 @@
 
 ## java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -1738,7 +1748,7 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
-- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 
 ## jekyll 
 
@@ -1760,6 +1770,7 @@
 
 ## json 
 
+- [arthurfiorette/prisma-json-types-generator](https://github.com/arthurfiorette/prisma-json-types-generator) - ⚒️ Changes JsonValues to your custom typescript type.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1806,6 +1817,7 @@
 
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 
 ## latex 
 
@@ -1842,6 +1854,7 @@
 
 ## llm 
 
+- [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1920,7 +1933,7 @@
 
 ## low-code 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -2034,7 +2047,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 - [n1nj4t4nuk1/python-ddd-example](https://github.com/n1nj4t4nuk1/python-ddd-example) - 🐍 Example of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
 - [cezerin/cezerin](https://github.com/cezerin/cezerin) - Cezerin is React and Node.js based eCommerce platform.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -2100,7 +2113,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2114,6 +2127,9 @@
 
 ## nextjs 
 
+- [KevinVandy/react-data-fetching](https://github.com/KevinVandy/react-data-fetching) - The same app, built multiple times in different React frameworks for apples to apples comparisons.
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [intentuilabs/next.js](https://github.com/intentuilabs/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
@@ -2208,7 +2224,7 @@
 - [nolly-studio/cult-directory-template](https://github.com/nolly-studio/cult-directory-template) - A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admi
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [brijr/components](https://github.com/brijr/components) - Next.js components built with Tailwind, Typescript, brijr/craft, shadcn/ui, and more.
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
 - [huuquyet/translator-tamagui](https://github.com/huuquyet/translator-tamagui) - Translator demo app built with Transformers.js + Tamagui + Next.js
@@ -2353,7 +2369,7 @@
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal) - node's assert.deepEqual algorithm
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
@@ -2368,7 +2384,7 @@
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
 - [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor) - Feature flags, experiments, and remote config management with version control
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 - [antoine-coulon/skott](https://github.com/antoine-coulon/skott) - All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)
 - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -2545,6 +2561,7 @@
 
 ## others 
 
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [ethanniser/terpc](https://github.com/ethanniser/terpc) - 
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) - A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective 
@@ -2616,7 +2633,7 @@
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [changesets/action](https://github.com/changesets/action) - 
 - [Effect-TS/effect-days-2025-workshop](https://github.com/Effect-TS/effect-days-2025-workshop) - 
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [g-todorov/xstate-validation-example](https://github.com/g-todorov/xstate-validation-example) - Form validation with xState and react-hook-form
 - [deepseek-ai/DeepSeek-Prover-V2](https://github.com/deepseek-ai/DeepSeek-Prover-V2) - 
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!
@@ -2722,7 +2739,7 @@
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [mlfoundations/evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic evals for LLMs
-- [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+- [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 - [anthwlock/untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
@@ -3041,7 +3058,7 @@
 - [zekenie/d2-erd-from-postgres](https://github.com/zekenie/d2-erd-from-postgres) - Create a D2 ERD Diagram from your existing postgres schema
 - [terrastruct/TALA](https://github.com/terrastruct/TALA) - A diagram layout engine designed specifically for software architecture diagrams
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
 - [docker-library/wordpress](https://github.com/docker-library/wordpress) - Docker Official Image packaging for WordPress
 - [WordPress/gutenberg-starter-theme](https://github.com/WordPress/gutenberg-starter-theme) - A simple theme for testing Gutenberg.
@@ -3493,7 +3510,7 @@
 ## pytorch 
 
 - [duedil-ltd/address-parser](https://github.com/duedil-ltd/address-parser) - Parse UK addresses to extract structured components using RNNs
-- [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
+- [bytedance/InfiniteYou](https://github.com/bytedance/InfiniteYou) - 🔥 [ICCV 2025 Highlight] InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity
 - [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) - Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup
 - [xinntao/facexlib](https://github.com/xinntao/facexlib) - FaceXlib aims at providing ready-to-use face-related functions based on current STOA open-source methods.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -3529,6 +3546,8 @@
 
 ## react 
 
+- [KevinVandy/react-data-fetching](https://github.com/KevinVandy/react-data-fetching) - The same app, built multiple times in different React frameworks for apples to apples comparisons.
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [tigerabrodi/eiwaal](https://github.com/tigerabrodi/eiwaal) - A lightweight animation library for React. Built on top of the View Transitions API.
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [chambits/storybook-interaction-test](https://github.com/chambits/storybook-interaction-test) - A demonstration project showcasing Storybook component testing capabilities with React, TypeScript, and Vite
@@ -3735,6 +3754,7 @@
 
 ## react-native 
 
+- [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
@@ -3891,7 +3911,7 @@
 - [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [kristerkari/react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Use Sass to style your React Native apps.
 - [vikpe/react-webpack-typescript-starter](https://github.com/vikpe/react-webpack-typescript-starter) - (DEPRECATED) Minimal starter with hot module replacement (HMR) for rapid development.
-- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 
 ## scikit-learn 
 
@@ -3900,6 +3920,7 @@
 
 ## security 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -4000,6 +4021,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+
+## spring 
+
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 
 ## sql 
 
@@ -4106,6 +4131,10 @@
 - [orazz/CalendarPopUp](https://github.com/orazz/CalendarPopUp) - CalendarPopUp - JTAppleCalendar library
 - [alimir1/Eureka-StripeRow](https://github.com/alimir1/Eureka-StripeRow) - A Eureka Row for Stripe's STPPaymentCardTextField
 
+## symfony 
+
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
+
 ## tailwind 
 
 - [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense) - Intelligent Tailwind CSS tooling for Visual Studio Code
@@ -4167,7 +4196,7 @@
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
 - [nolly-studio/cult-directory-template](https://github.com/nolly-studio/cult-directory-template) - A full stack Next.js, Shadcn, and Supabase directory template. Build your startup directory effortlessly with features like user authentication, product filters, and customizable themes. Advanced admi
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [SyntaxUI/syntaxui](https://github.com/SyntaxUI/syntaxui) - Get free access to pre-built, Tailwind CSS-powered components, animations and effects - brought to life using Framer Motion. Just copy, paste and you're ready to go!
 - [Georgegriff/react-dnd-kit-tailwind-shadcn-ui](https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui) - Drag and drop Accessible kanban board implementing using React, @dnd-kit, tailwind and shadcn/ui
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
@@ -4271,6 +4300,9 @@
 
 ## typescript 
 
+- [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
+- [arthurfiorette/prisma-json-types-generator](https://github.com/arthurfiorette/prisma-json-types-generator) - ⚒️ Changes JsonValues to your custom typescript type.
+- [intentuilabs/next.js](https://github.com/intentuilabs/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [checkly/checkly-cli](https://github.com/checkly/checkly-cli) - TS/JS native Monitoring as Code workflow
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -4379,7 +4411,7 @@
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [marchaos/jest-mock-extended](https://github.com/marchaos/jest-mock-extended) - Type safe mocking extensions for Jest https://www.npmjs.com/package/jest-mock-extended
-- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) - Customizable Commerce Platform Built for Scale
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
@@ -4392,7 +4424,7 @@
 - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source.
 - [Fredkiss3/gh-next](https://github.com/Fredkiss3/gh-next) - A minimal Github clone built on nextjs app router.
 - [UretzkyZvi/planner](https://github.com/UretzkyZvi/planner) - Planner Component: A React component for dynamic appointment management. Features drag-and-drop, date range selections, and integrates with shadcn/ui. Perfect for developers enhancing apps with effici
-- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source composable CDP -  alternative to hightouch and census.
 - [eoin-obrien/prisma-extension-kysely](https://github.com/eoin-obrien/prisma-extension-kysely) - Drop down to raw SQL in Prisma without sacrificing type safety!
@@ -4425,7 +4457,7 @@
 - [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) - Create and modify PDF documents in any JavaScript environment
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - modular enterprise framework for TypeScript
 - [antoine-coulon/skott](https://github.com/antoine-coulon/skott) - All-in-one devtool to automatically analyze, search and visualize project modules and dependencies from JavaScript, TypeScript (JSX/TSX) and Node.js (ES6, CommonJS)
 - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
