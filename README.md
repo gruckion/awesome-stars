@@ -791,6 +791,7 @@
 
 ## Python 
 
+- [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [Doriandarko/make-it-heavy](https://github.com/Doriandarko/make-it-heavy) - A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective 
 - [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 - [honeycombio/stdlib](https://github.com/honeycombio/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
@@ -1263,7 +1264,7 @@
 - [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - Effect Language Service Plugin (LSP)
 - [Effect-TS/vscode-extension](https://github.com/Effect-TS/vscode-extension) - Tools to assist development with the Effect Typescript framework
 - [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - 
-- [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
+- [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [paulwer/prisma-extension-cache-manager](https://github.com/paulwer/prisma-extension-cache-manager) - 
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
