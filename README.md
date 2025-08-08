@@ -506,7 +506,7 @@
 - [mifi/cognito-backup](https://github.com/mifi/cognito-backup) - CLI for backing up AWS Cogntito User Pools
 - [juliankrispel/typescript-aws-lambda-terraform](https://github.com/juliankrispel/typescript-aws-lambda-terraform) - Boilerplate for a serverless application on AWS using typescript, webpack and terraform.
 - [jjangga0214/ts-yarn-lerna-boilerplate](https://github.com/jjangga0214/ts-yarn-lerna-boilerplate) - Monorepo boilerplate of typescript, yarn workspace, and lerna. Configurations of path mapping and subpath import as module alias, project references, jest(ts-jest vs @swc/jest), eslint, prettier, mark
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [callstack/react-native-builder-bob](https://github.com/callstack/react-native-builder-bob) - 👷‍♂️ Simple set of CLIs to scaffold and build React Native libraries for different targets
 - [arithmetric/aws-lambda-ses-forwarder](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless email forwarding using AWS Lambda and SES
 - [eleven41/aws-lambda-send-ses-email](https://github.com/eleven41/aws-lambda-send-ses-email) - AWS Lambda function to send emails using Amazon SES
@@ -954,7 +954,7 @@
 - [meltano/jaffle-shop-template](https://github.com/meltano/jaffle-shop-template) - Template for a DuckDB-based, Codespace-oriented sandbox project that is also dbt Cloud compatible, and includes code-first BI tooling via Evidence.
 - [meltano/airflow-ext](https://github.com/meltano/airflow-ext) - Meltano Airflow utility extension
 - [vye16/shape-of-motion](https://github.com/vye16/shape-of-motion) - 
-- [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos) - Run your dbt Core projects as Apache Airflow DAGs and Task Groups with a few lines of code
+- [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos) - Run your dbt Core or dbt Fusion projects as Apache Airflow DAGs and Task Groups with a few lines of code
 - [manmeetkaur/etl-airflow](https://github.com/manmeetkaur/etl-airflow) - 
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -1246,7 +1246,7 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [tim-smart/effect-rx](https://github.com/tim-smart/effect-rx) - 
+- [tim-smart/effect-atom](https://github.com/tim-smart/effect-atom) - 
 - [mkosir/frontend-monorepo-boilerplate](https://github.com/mkosir/frontend-monorepo-boilerplate) - ⚡ Frontend monorepo boilerplate. TypeScript, vanilla CSS/Tailwind/MUI with focus on best practices and painless developer experience.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
@@ -1575,7 +1575,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [hatemhosny/racing-bars](https://github.com/hatemhosny/racing-bars) - Bar chart race made easy 🎉
 - [kndwin/hevel](https://github.com/kndwin/hevel) - tech role application
