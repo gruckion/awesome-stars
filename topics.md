@@ -601,7 +601,7 @@
 ## chatbot 
 
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [nickscamara/extract-chat](https://github.com/nickscamara/extract-chat) - Extract information from any website by chatting with AI - Fork of Vercel AI Chatbot w/ Firecrawl Integrated
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
@@ -1216,7 +1216,6 @@
 - [SashenJayathilaka/Project-Management-App](https://github.com/SashenJayathilaka/Project-Management-App) - This repository provides a guide to building a full-stack Project Management Dashboard. The frontend uses Next.js, Tailwind CSS, and Material UI Data Grid. The backend is powered by Node.js, Express, 
 - [serverless-components/express](https://github.com/serverless-components/express) - ⚡ Take existing Express.js apps and host them easily on cheap, auto-scaling, serverless infrastructure (AWS Lambda and AWS HTTP API).
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
-- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 
 ## facebook 
 
@@ -1763,7 +1762,6 @@
 - [dabit3/awesome-aws-amplify](https://github.com/dabit3/awesome-aws-amplify) - Curated list of AWS Amplify Resources
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [istanbuljs/nyc](https://github.com/istanbuljs/nyc) - the Istanbul command line interface
 - [NewOrbit/not-valid](https://github.com/NewOrbit/not-valid) - Extensible and flexible TypeScript validation
@@ -1902,7 +1900,7 @@
 
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -2057,7 +2055,7 @@
 
 ## markdown 
 
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [NullVoxPopuli/markdown-table-viewer](https://github.com/NullVoxPopuli/markdown-table-viewer) - Viewer / interactive table sorting / filtering for any markdown table that is publicly accessible
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2179,7 +2177,7 @@
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 - [intentuilabs/next.js](https://github.com/intentuilabs/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
 - [mkosir/frontend-monorepo-boilerplate](https://github.com/mkosir/frontend-monorepo-boilerplate) - ⚡ Frontend monorepo boilerplate. TypeScript, vanilla CSS/Tailwind/MUI with focus on best practices and painless developer experience.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -2372,7 +2370,6 @@
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
-- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [60frames/webpack-hot-server-middleware](https://github.com/60frames/webpack-hot-server-middleware) - :fire: Hot reload webpack bundles on the server
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
@@ -2554,7 +2551,7 @@
 ## openai 
 
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [e2b-dev/surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -2612,6 +2609,7 @@
 
 ## others 
 
+- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [agentuity/cli](https://github.com/agentuity/cli) - The Agentuity Cloud Platform Tooling 🤖
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -4588,7 +4586,6 @@
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [maxswa/osrs-json-hiscores](https://github.com/maxswa/osrs-json-hiscores) - The Oldschool Runescape API wrapper that does more!
 - [saltyshiomix/ark](https://github.com/saltyshiomix/ark) - An easiest authentication system on top of NestJS, TypeORM, NEXT.js(v9.3) and Material UI(v4).
-- [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 - [cevek/ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
 - [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
 - [alveflo/tsmediator](https://github.com/alveflo/tsmediator) - Tiny flexible mediator implemented in TypeScript
