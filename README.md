@@ -32,6 +32,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Objective-C](#objective-c)
+- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -307,7 +308,7 @@
 
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 - [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [cjlin1/libsvm](https://github.com/cjlin1/libsvm) - LIBSVM -- A Library for Support Vector Machines
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -583,7 +584,7 @@
 - [peterolson/BigInteger.js](https://github.com/peterolson/BigInteger.js) - An arbitrary length integer library for Javascript
 - [NaturalNode/node-lapack](https://github.com/NaturalNode/node-lapack) - 
 - [vukicevic/crunch](https://github.com/vukicevic/crunch) - JavaScript arbitrary-precision arithmetic library. Built for speed.
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [google/mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [wmonk/create-react-app](https://github.com/wmonk/create-react-app) - Create React apps with no build configuration.
@@ -702,6 +703,10 @@
 - [Mathpix/ios-sample](https://github.com/Mathpix/ios-sample) - Sample iOS app.
 - [card-io/card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
 - [watsonbox/fuber](https://github.com/watsonbox/fuber) - Parse/Stripe/Swift iOS Spike
+
+## Objective-C++ 
+
+- [software-mansion-labs/react-native-enriched](https://github.com/software-mansion-labs/react-native-enriched) - Rich text input component for React Native.
 
 ## Others 
 
@@ -940,7 +945,7 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [MotleyAI/motleycrew](https://github.com/MotleyAI/motleycrew) - Flexible and powerful multi-agent AI framework
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Inference engine powering open source models on OpenRouter
+- [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Deprecated inference engine
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 - [MeltanoLabs/meltano-map-transform](https://github.com/MeltanoLabs/meltano-map-transform) - A map transformer which implements the `Stream Maps` capability from Meltano's tap and target SDK: https://sdk.meltano.com/
@@ -1224,6 +1229,11 @@
 
 ## TypeScript 
 
+- [0rtbo/convexpo](https://github.com/0rtbo/convexpo) - Convex + Better Auth + Expo + Hero UI Native
+- [get-convex/convex-react-query](https://github.com/get-convex/convex-react-query) - 
+- [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com) - The marketing and docs site for all TanStack projects
+- [eersnington/obby-dev](https://github.com/eersnington/obby-dev) - AI Background Agent - v0 for your codebase (WIP)
+- [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Infrastructure as TypeScript
 - [megh-bari/pattern-craft](https://github.com/megh-bari/pattern-craft) - Professional-grade background patterns and gradients for your websites and apps. Easily copy and paste into your next project. Crafted with modern CSS and Tailwind for seamless integration.
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Backed by ▲Vercel OSS Program
@@ -1727,7 +1737,7 @@
 - [vantezzen/autoform](https://github.com/vantezzen/autoform) - 🌟 Automatically render forms for your existing data schema
 - [damianricobelli/shadcn-cal-com](https://github.com/damianricobelli/shadcn-cal-com) - 
 - [lightdash/lightdash](https://github.com/lightdash/lightdash) - Self-serve BI to 10x your data team ⚡️
-- [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc) - Remark plugin to support MDC syntax.
+- [nuxt-content/remark-mdc](https://github.com/nuxt-content/remark-mdc) - Remark plugin to support MDC syntax.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
