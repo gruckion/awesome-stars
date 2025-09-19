@@ -819,6 +819,7 @@
 - [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 - [honeycombio/stdlib](https://github.com/honeycombio/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
 - [yehiaabdelm/headful-playwright-lambda](https://github.com/yehiaabdelm/headful-playwright-lambda) - Headful playwright on AWS lambda
+- [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
@@ -1072,7 +1073,7 @@
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [irvineAlgotrading/consciousness](https://github.com/irvineAlgotrading/consciousness) - 
-- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [seanpixel/Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
 - [swyddfa/esbonio](https://github.com/swyddfa/esbonio) - A language server for working with Sphinx projects.
@@ -1138,7 +1139,7 @@
 
 ## Rust 
 
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports blocking your dev work.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
@@ -1230,6 +1231,8 @@
 
 ## TypeScript 
 
+- [mrpotatodip/ts-form-builder](https://github.com/mrpotatodip/ts-form-builder) - tanstack builder for tanstack query, form etc.
+- [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [Ali-Hussein-dev/formcn](https://github.com/Ali-Hussein-dev/formcn) - Build production-ready forms with a few clicks
@@ -1363,7 +1366,6 @@
 - [psteinroe/supasample](https://github.com/psteinroe/supasample) - A sample monorepo with supabase and turborepo
 - [microsoft/typescript-analyze-trace](https://github.com/microsoft/typescript-analyze-trace) - A tool for analyzing the output of `tsc --generateTrace`
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
-- [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [changesets/action](https://github.com/changesets/action) - 
 - [Effect-TS/effect-days-2025-workshop](https://github.com/Effect-TS/effect-days-2025-workshop) - 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
