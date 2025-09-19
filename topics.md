@@ -156,6 +156,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -361,6 +362,7 @@
 
 ## analytics 
 
+- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [HamedMP/CursorLens](https://github.com/HamedMP/CursorLens) - An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.
@@ -1453,6 +1455,7 @@
 
 ## hacktoberfest 
 
+- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
@@ -2218,6 +2221,7 @@
 
 ## nextjs 
 
+- [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
 - [eersnington/obby-dev](https://github.com/eersnington/obby-dev) - AI Background Agent - v0 for your codebase (WIP)
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [mcrovero/effect-nextjs](https://github.com/mcrovero/effect-nextjs) - Typed helpers for building Next.js App Router pages, layouts, server components, and actions with Effect.
@@ -2247,7 +2251,7 @@
 - [nrjdalal/rdt-li](https://github.com/nrjdalal/rdt-li) - rdt.li self hostable, feature rich, minimalistic and open source URL shortener. Built with Next.js, Drizzle, NextAuth and Postgres.
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [SandroMaglione/convertkit-nextjs-newsletter-form](https://github.com/SandroMaglione/convertkit-nextjs-newsletter-form) - Custom form to add subscriber from email to ConvertKit using NextJs and Effect・Newsletter sandromaglione.com
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [nolly-studio/ai-chatbot-supabase](https://github.com/nolly-studio/ai-chatbot-supabase) - A full-featured, hackable Next.js x Supabase AI chatbot. Fork of the original built by Vercel
@@ -2556,6 +2560,12 @@
 
 - [arifshariati/react-native-instagram-clone](https://github.com/arifshariati/react-native-instagram-clone) - react native instagram clone 🔥  designed and developed in react-native and AWS amplify. This project does not cover entire functionalities of Instagram, rather focuses on few basic features.
 
+## obsidian 
+
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
 ## obsidian-md 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -2669,6 +2679,7 @@
 
 ## others 
 
+- [mrpotatodip/ts-form-builder](https://github.com/mrpotatodip/ts-form-builder) - tanstack builder for tanstack query, form etc.
 - [nkzw-tech/expo-app-template](https://github.com/nkzw-tech/expo-app-template) - Modern, sensible defaults and fast Expo app template.
 - [letstri/tanstack-db-pglite](https://github.com/letstri/tanstack-db-pglite) - 
 - [fbeccaceci/react-native-fast-squircle](https://github.com/fbeccaceci/react-native-fast-squircle) - A performant component that renders Squircles in React Native
@@ -2684,7 +2695,7 @@
 - [tjjfvi/solid-native](https://github.com/tjjfvi/solid-native) - Solid Native expands the Solid ecosystem to include development of native mobile applications.
 - [openstatusHQ/openstatus-template](https://github.com/openstatusHQ/openstatus-template) - 
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports blocking your dev work.
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with token efficient search over public and private documentation.
@@ -2703,7 +2714,6 @@
 - [get-convex/turbo-expo-nextjs-clerk-convex-monorepo](https://github.com/get-convex/turbo-expo-nextjs-clerk-convex-monorepo) - Monorepo template with Turborepo, Next.js, Expo, Clerk, Convex
 - [boxabirds/awesome-hooks](https://github.com/boxabirds/awesome-hooks) - A repo of the best Claude Hooks to plug into your projects.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
-- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [agentuity/cli](https://github.com/agentuity/cli) - The Agentuity Cloud Platform Tooling 🤖
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -2991,7 +3001,7 @@
 - [geldata/create-t3-turbo-gel](https://github.com/geldata/create-t3-turbo-gel) - 
 - [LewTrn/lookfeel](https://github.com/LewTrn/lookfeel) - lookfeel is a design inspiration tool for developers that supports generating, visualising and discovering beautiful UI themes.
 - [nainglinnkhant/lingua-time](https://github.com/nainglinnkhant/lingua-time) - A smart datetime picker which understands natural language input.
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -3227,7 +3237,7 @@
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [irvineAlgotrading/consciousness](https://github.com/irvineAlgotrading/consciousness) - 
-- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
+- [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [seanpixel/Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
 - [swyddfa/esbonio](https://github.com/swyddfa/esbonio) - A language server for working with Sphinx projects.
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
@@ -3480,6 +3490,7 @@
 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres. (beta)
+- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3518,6 +3529,7 @@
 
 ## privacy 
 
+- [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
@@ -3587,7 +3599,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -3739,7 +3751,7 @@
 - [typeonce-dev/snippets](https://github.com/typeonce-dev/snippets) - A collection of free and reusable code that you can copy-paste in your own project. Every snippet is self-contained and can be used without additional setup 🪄
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [nucleartux/react-query-read](https://github.com/nucleartux/react-query-read) - useSuspenseQuery without waterfalls
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [typeonce-dev/xstate-complete-getting-started-guide](https://github.com/typeonce-dev/xstate-complete-getting-started-guide) - Complete XState getting started course: learn how to use all the features of XState to build powerful state charts and actor systems 🚀
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [nolly-studio/ai-chatbot-supabase](https://github.com/nolly-studio/ai-chatbot-supabase) - A full-featured, hackable Next.js x Supabase AI chatbot. Fork of the original built by Vercel
@@ -4520,7 +4532,7 @@
 - [desko27/react-call](https://github.com/desko27/react-call) - ⚛️ 📡 Call your React components
 - [typeonce-dev/snippets](https://github.com/typeonce-dev/snippets) - A collection of free and reusable code that you can copy-paste in your own project. Every snippet is self-contained and can be used without additional setup 🪄
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
 - [saiashirwad/parserator](https://github.com/saiashirwad/parserator) - An elegant parser combinators library for Typescript (WIP!)
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
