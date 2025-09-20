@@ -165,7 +165,7 @@
 
 ## CSS 
 
-- [intentuilabs/next.js](https://github.com/intentuilabs/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
+- [intentui/next.js](https://github.com/intentui/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [gruckion/nextjs-performance-first](https://github.com/gruckion/nextjs-performance-first) - NextJS mono repo that focuses on monitoring and maintaining performance
 - [Tencent/Hunyuan-TurboS](https://github.com/Tencent/Hunyuan-TurboS) - 
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
@@ -917,7 +917,7 @@
 - [daniel-lxs/mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity) - MCP Server for the Perplexity API.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [superagent-ai/reag](https://github.com/superagent-ai/reag) - Reasoning Augmented Generation
 - [slimslenderslacks/mcp-hello-world](https://github.com/slimslenderslacks/mcp-hello-world) - 
@@ -1231,6 +1231,7 @@
 
 ## TypeScript 
 
+- [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Synchronized Skeleton Loaders for your favorite framework
 - [mrpotatodip/ts-form-builder](https://github.com/mrpotatodip/ts-form-builder) - tanstack builder for tanstack query, form etc.
 - [4lejandrito/next-plausible](https://github.com/4lejandrito/next-plausible) - Simple integration for https://nextjs.org and https://plausible.io analytics
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
