@@ -271,6 +271,7 @@
 
 ## HCL 
 
+- [danielgafni/website](https://github.com/danielgafni/website) - My personal website
 - [1Mill/serverless-tf-examples](https://github.com/1Mill/serverless-tf-examples) - 
 - [jetbrains-infra/terraform-aws-ecs-cluster](https://github.com/jetbrains-infra/terraform-aws-ecs-cluster) - AWS ECS cluster terraform module
 - [karl-cardenas-coding/dynamodb-local-example](https://github.com/karl-cardenas-coding/dynamodb-local-example) - This is an example project to showcase how to use DynamoDB locally while leveraging Terraform, localstack, and noSQL Workbench for DynamoDB 💻
@@ -813,7 +814,7 @@
 
 ## Python 
 
-- [teremterem/claude-code-gpt-5](https://github.com/teremterem/claude-code-gpt-5) - Run Anthropic's Claude Code CLI using OpenAl's GPT-5 as the model backend (OR, if you need, use this repo as a LiteLLM Server boilerplate for creating your own AI assistants with LibreChat as the UI)
+- [teremterem/claude-code-gpt-5-codex](https://github.com/teremterem/claude-code-gpt-5-codex) - Run Anthropic's Claude Code CLI with OpenAI models such as GPT-5-Codex, GPT-5.1, and others via a local LiteLLM proxy.
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [fangwentong/openai-proxy](https://github.com/fangwentong/openai-proxy) - Transparent proxy for OpenAI API
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
@@ -1243,6 +1244,7 @@
 
 ## TypeScript 
 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 - [effect-app/libs](https://github.com/effect-app/libs) - The core libraries to build apps with Effect
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
