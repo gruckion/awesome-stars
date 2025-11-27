@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -42,6 +43,7 @@
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -103,6 +105,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [homebrew](#homebrew)
 - [html](#html)
@@ -308,7 +311,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [udecode/dotai](https://github.com/udecode/dotai) - Context Manager for Claude Code Plugins + Codex + Cursor.
+- [udecode/dotai](https://github.com/udecode/dotai) - Context manager for all agents
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -351,7 +354,7 @@
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
@@ -387,6 +390,13 @@
 
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+## algorithms 
+
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+- [dotnet/machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
 
 ## analytics 
 
@@ -726,7 +736,7 @@
 ## chrome-extension 
 
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -813,6 +823,16 @@
 
 - [code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org) - The code powering code.org and studio.code.org
 - [HamedMP/CursorLens](https://github.com/HamedMP/CursorLens) - An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.
+
+## command-line 
+
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [ThinkThinkAI/CommandAI](https://github.com/ThinkThinkAI/CommandAI) - Experience the power of Command AI: your AI-powered command line companion that makes complex tasks simple and intuitive.
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [axiomhq/cli](https://github.com/axiomhq/cli) - The power of Axiom on the command line.
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
 ## compiler 
 
@@ -952,7 +972,7 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
@@ -1093,7 +1113,7 @@
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [newrelic/terraform-provider-newrelic](https://github.com/newrelic/terraform-provider-newrelic) - Terraform provider for New Relic
 - [stoat-dev/stoat-action](https://github.com/stoat-dev/stoat-action) - Turn pull request comments into developer dashboards.
@@ -1492,6 +1512,13 @@
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
 - [este/este](https://github.com/este/este) - This repo is suspended.
+
+## gui 
+
+- [e2b-dev/desktop](https://github.com/e2b-dev/desktop) - E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## hacktoberfest 
 
@@ -2040,7 +2067,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
+- [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -2127,7 +2154,7 @@
 - [enochkan/awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) - A curated list of GAN & Deepfake papers and repositories.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
+- [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [lazyprogrammer/machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) - A collection of machine learning examples and tutorials.
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
@@ -3810,7 +3837,7 @@
 - [astoilkov/use-local-storage-state](https://github.com/astoilkov/use-local-storage-state) - React hook that persists data in localStorage
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
@@ -4598,7 +4625,7 @@
 - [ixahmedxi/unverceled-nextjs](https://github.com/ixahmedxi/unverceled-nextjs) - A Next.js 15 Starter Kit Deployed to Cloudflare
 - [encoredev/examples](https://github.com/encoredev/examples) - Examples for Encore
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
 - [supavec/supavec](https://github.com/supavec/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) - Build production-ready AI agents in both Python and Typescript.
