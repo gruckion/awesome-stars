@@ -813,6 +813,10 @@
 
 ## Python 
 
+- [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
+- [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
+- [yeger00/pylspclient](https://github.com/yeger00/pylspclient) - LSP client implementation in Python
+- [python-lsp/python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) - Fork of the python-jsonrpc-server project, maintained by the Spyder IDE team and the community
 - [teremterem/claude-code-gpt-5-codex](https://github.com/teremterem/claude-code-gpt-5-codex) - Run Anthropic's Claude Code CLI with OpenAI models such as GPT-5-Codex, GPT-5.1, and others via a local LiteLLM proxy.
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [fangwentong/openai-proxy](https://github.com/fangwentong/openai-proxy) - Transparent proxy for OpenAI API
