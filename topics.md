@@ -255,6 +255,7 @@
 
 ## agent 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
@@ -283,7 +284,11 @@
 
 ## ai 
 
-- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres. (beta)
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
+- [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
+- [trypear/pearai-app](https://github.com/trypear/pearai-app) - PearAI: Open Source AI Code Editor (Fork of VSCode). The PearAI Submodule (https://github.com/trypear/pearai-submodule) is a fork of Continue.
+- [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
+- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres and MySQL. (beta)
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [firecrawl/firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples) - 🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
@@ -548,6 +553,7 @@
 
 ## automation 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
@@ -702,6 +708,7 @@
 
 ## chatgpt 
 
+- [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -1029,7 +1036,7 @@
 
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres. (beta)
+- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres and MySQL. (beta)
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [antonycourtney/tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -2052,6 +2059,10 @@
 
 ## llm 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
+- [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
@@ -2286,6 +2297,7 @@
 ## mysql 
 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres and MySQL. (beta)
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2743,6 +2755,8 @@
 
 ## openai 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
+- [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [teremterem/claude-code-gpt-5-codex](https://github.com/teremterem/claude-code-gpt-5-codex) - Run Anthropic's Claude Code CLI with OpenAI models such as GPT-5-Codex, GPT-5.1, and others via a local LiteLLM proxy.
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
@@ -2806,6 +2820,7 @@
 
 ## others 
 
+- [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [neomutt/lsp-tree-sitter](https://github.com/neomutt/lsp-tree-sitter) - A library to create language servers.
 - [python-lsp/python-lsp-jsonrpc](https://github.com/python-lsp/python-lsp-jsonrpc) - Fork of the python-jsonrpc-server project, maintained by the Spyder IDE team and the community
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
@@ -3616,7 +3631,7 @@
 ## postgresql 
 
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres. (beta)
+- [wannabespace/conar](https://github.com/wannabespace/conar) - AI-powered tool for working with Postgres and MySQL. (beta)
 - [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -3708,6 +3723,7 @@
 
 ## python 
 
+- [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) - Code generator and generated types for Language Server Protocol.
 - [yeger00/pylspclient](https://github.com/yeger00/pylspclient) - LSP client implementation in Python
 - [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - Locally run web app and Chrome extension to remove duplicates from Google Photos
@@ -4253,6 +4269,7 @@
 
 ## self-hosted 
 
+- [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
@@ -4977,6 +4994,7 @@
 
 ## web 
 
+- [nottelabs/notte](https://github.com/nottelabs/notte) - 🔥 Reliable Browser AI Agents (YC S25)
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
 - [tus/tus-js-client](https://github.com/tus/tus-js-client) - A pure JavaScript client for the tus resumable upload protocol
