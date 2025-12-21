@@ -346,7 +346,7 @@
 
 ## JavaScript 
 
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 21 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [biomejs/tree-sitter-gritql](https://github.com/biomejs/tree-sitter-gritql) - The official grammar for GritQL, implemented as a tree sitter parser
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
@@ -727,7 +727,7 @@
 
 - [Saibo-creator/Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding) - A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.
 - [DeepSoftwareAnalytics/Awesome-Agent4SE](https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE) - 
-- [QiushiSun/Awesome-Code-Intelligence](https://github.com/QiushiSun/Awesome-Code-Intelligence) - Neural Code Intelligence Survey 2024; Reading lists and resources
+- [QiushiSun/Awesome-Code-Intelligence](https://github.com/QiushiSun/Awesome-Code-Intelligence) - Neural Code Intelligence Survey 2024-25; Reading lists and resources
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [boxabirds/awesome-claude-hooks](https://github.com/boxabirds/awesome-claude-hooks) - THIS HAS MOVED to https://github.com/boxabirds/awesome-hooks
@@ -828,6 +828,7 @@
 
 ## Python 
 
+- [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jimmc414/claude_n_codex_api_proxy](https://github.com/jimmc414/claude_n_codex_api_proxy) - Claude Code and Codex API Routing Proxy
 - [jimmc414/claudecode_gemini_and_codex_swebench](https://github.com/jimmc414/claudecode_gemini_and_codex_swebench) - Toolkit for measuring Claude Code and Codex performance over time against a baseline using SWEbench-lite dataset **No API key required for Max or Pro subscribers**
@@ -1301,6 +1302,7 @@
 
 ## TypeScript 
 
+- [poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique](https://github.com/poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique) - 🏴‍☠️ Supreme polyglot CLI engineering research &amp; implementation using Bun, TypeScript, and advanced LSP/Git techniques. Autonomous development with multi-language project scaffolding.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [software-mansion/setup-ci](https://github.com/software-mansion/setup-ci) - CLI to spin your CI/CD for react-native!
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
