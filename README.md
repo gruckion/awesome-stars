@@ -725,6 +725,7 @@
 
 ## Others 
 
+- [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [Saibo-creator/Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding) - A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.
 - [DeepSoftwareAnalytics/Awesome-Agent4SE](https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE) - 
 - [QiushiSun/Awesome-Code-Intelligence](https://github.com/QiushiSun/Awesome-Code-Intelligence) - Neural Code Intelligence Survey 2024-25; Reading lists and resources
@@ -1302,6 +1303,8 @@
 
 ## TypeScript 
 
+- [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique](https://github.com/poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique) - 🏴‍☠️ Supreme polyglot CLI engineering research &amp; implementation using Bun, TypeScript, and advanced LSP/Git techniques. Autonomous development with multi-language project scaffolding.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [software-mansion/setup-ci](https://github.com/software-mansion/setup-ci) - CLI to spin your CI/CD for react-native!
