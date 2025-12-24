@@ -289,6 +289,8 @@
 
 ## HTML 
 
+- [gruckion/claude-code-reactnative-expo-agent-system](https://github.com/gruckion/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
+- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Vanilla CSS Synchronized Skeleton Loaders
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
 - [tc39/proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
@@ -346,6 +348,7 @@
 
 ## JavaScript 
 
+- [Strawberry-Computer/speakbuild](https://github.com/Strawberry-Computer/speakbuild) - Mobile voice assistant that can generate UI on the go
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 20 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [biomejs/tree-sitter-gritql](https://github.com/biomejs/tree-sitter-gritql) - The official grammar for GritQL, implemented as a tree sitter parser
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
@@ -829,6 +832,7 @@
 
 ## Python 
 
+- [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jimmc414/claude_n_codex_api_proxy](https://github.com/jimmc414/claude_n_codex_api_proxy) - Claude Code and Codex API Routing Proxy
@@ -837,7 +841,7 @@
 - [logic-star-ai/swt-bench](https://github.com/logic-star-ai/swt-bench) - [NeurIPS 2024] Evaluation harness for SWT-Bench, a benchmark for evaluating LLM repository-level test-generation
 - [epfl-dlab/GCD](https://github.com/epfl-dlab/GCD) - 
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [DeepSoftwareAnalytics/swe-factory](https://github.com/DeepSoftwareAnalytics/swe-factory) - SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
+- [DeepSoftwareAnalytics/swe-factory](https://github.com/DeepSoftwareAnalytics/swe-factory) - [FSE 2026] SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
 - [DeepSoftwareAnalytics/CodeFast](https://github.com/DeepSoftwareAnalytics/CodeFast) - 
 - [HaoFengyuan/X-TF-GridNet](https://github.com/HaoFengyuan/X-TF-GridNet) - The implementation of "X-TF-GridNet: A Time-Frequency Domain Target Speaker Extraction Network with Adaptive Speaker Embedding Fusion", which is accepted by Information Fusion.
 - [yxlu-0102/MP-SENet](https://github.com/yxlu-0102/MP-SENet) - Explicit Estimation of Magnitude and Phase Spectra in Parallel for High-Quality Speech Enhancement
@@ -883,7 +887,6 @@
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [xnl-h4ck3r/waymore](https://github.com/xnl-h4ck3r/waymore) - Find way more from the Wayback Machine, Common Crawl, Alien Vault OTX, URLScan, VirusTotal & Intelligence X!
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
 - [duedil-ltd/address-parser](https://github.com/duedil-ltd/address-parser) - Parse UK addresses to extract structured components using RNNs
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
 - [hi-primus/optimus](https://github.com/hi-primus/optimus) - :truck: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF, Vaex and PySpark
@@ -1303,12 +1306,16 @@
 
 ## TypeScript 
 
+- [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
+- [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) - Long Task Harness for AI agents - feature-driven development with external memory
+- [gauravsaini/gluestack-ui-mcp-server](https://github.com/gauravsaini/gluestack-ui-mcp-server) - 
+- [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique](https://github.com/poisontr33s/Claudine_Supreme-Polyglot-Git-Cli-Lsp-Repo-Clone-Engineering-Bun-Technique) - 🏴‍☠️ Supreme polyglot CLI engineering research &amp; implementation using Bun, TypeScript, and advanced LSP/Git techniques. Autonomous development with multi-language project scaffolding.
 - [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 - [software-mansion/setup-ci](https://github.com/software-mansion/setup-ci) - CLI to spin your CI/CD for react-native!
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [jmagly/ai-writing-guide](https://github.com/jmagly/ai-writing-guide) - Context stack for autonomous agentic coding. 94 specialized agents, 65+ workflow commands, multi-agent coordination. Less babysitting, longer runtime. Claude Code / Warp / Factory AI.
