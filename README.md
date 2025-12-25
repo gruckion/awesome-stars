@@ -832,6 +832,11 @@
 
 ## Python 
 
+- [safety-research/bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
 - [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -1021,7 +1026,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
 - [Aider-AI/refactor-benchmark](https://github.com/Aider-AI/refactor-benchmark) - Aider's refactoring benchmark exercises based on popular python repos
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin) - The most popular ClickHouse plugin for Airflow. 🔝 Top-1% downloads on PyPI: https://pypi.org/project/airflow-clickhouse-plugin! Based on mymarilyn/clickhouse-driver.
@@ -1294,6 +1299,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
 - [xtools-at/iOS-PWA-Wrapper](https://github.com/xtools-at/iOS-PWA-Wrapper) - An iOS Wrapper application to create a native iOS App from an offline-capable Progressive Web App.
 - [Marxon13/M13Checkbox](https://github.com/Marxon13/M13Checkbox) - A customizeable checkbox for iOS
 - [Insfgg99x/CollectionHeaderView_Swift](https://github.com/Insfgg99x/CollectionHeaderView_Swift) - 用swift写的collectionView的demo，包含显示头部视图和脚部视图的实现方法
@@ -1306,8 +1312,10 @@
 
 ## TypeScript 
 
+- [markmanx/isoflow](https://github.com/markmanx/isoflow) - 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
-- [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) - Long Task Harness for AI agents - feature-driven development with external memory
+- [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) - Stop AI agents from half-building features. Ship complete code in one session.
 - [gauravsaini/gluestack-ui-mcp-server](https://github.com/gauravsaini/gluestack-ui-mcp-server) - 
 - [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
