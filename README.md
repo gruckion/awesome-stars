@@ -832,11 +832,12 @@
 
 ## Python 
 
+- [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [safety-research/bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -1773,7 +1774,7 @@
 - [arihanv/Shush](https://github.com/arihanv/Shush) - Shush is an app that deploys a WhisperV3 model with Flash Attention v2 on Modal and makes requests to it via a NextJS app
 - [Illyism/gradient-picker](https://github.com/Illyism/gradient-picker) - Fancy Gradient Picker built with Shadcn UI, Radix UI and Tailwind CSS.
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
-- [nisabmohd/ChatGPT](https://github.com/nisabmohd/ChatGPT) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
+- [nisabmohd/openapi-wrapper](https://github.com/nisabmohd/openapi-wrapper) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
 - [ObservedObserver/convertfast-ui](https://github.com/ObservedObserver/convertfast-ui) - Build beautiful landing pages with prebuild code blocks. All based on shadcn-ui and tailwind.
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component) - A multi-select component designed with shadcn/ui
 - [alifarooq9/launchmvpfast](https://github.com/alifarooq9/launchmvpfast) - Starterkits, components, ui blocks
@@ -1926,7 +1927,7 @@
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
 - [get-convex/convex-demos](https://github.com/get-convex/convex-demos) - Demo apps built on Convex.
 - [deepgram/deepgram-js-sdk](https://github.com/deepgram/deepgram-js-sdk) - Official JavaScript SDK for Deepgram.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [zxh0/vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
