@@ -261,6 +261,7 @@
 
 ## agent 
 
+- [hidai25/eval-view](https://github.com/hidai25/eval-view) - EvalView: pytest-style test harness for AI agents - YAML scenarios, tool-call checks, cost/latency & safety evals, CI-friendly reports
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
@@ -294,6 +295,9 @@
 
 ## ai 
 
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - AI DevOps gives you and your AI assistant the superpowers of managed infrastructure with AI chat
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [Strawberry-Computer/speakbuild](https://github.com/Strawberry-Computer/speakbuild) - Mobile voice assistant that can generate UI on the go
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -423,7 +427,9 @@
 
 ## ai-agents 
 
-- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - AI DevOps gives you and your AI assistant the superpowers of managed infrastructure with AI chat
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [hidai25/eval-view](https://github.com/hidai25/eval-view) - EvalView: pytest-style test harness for AI agents - YAML scenarios, tool-call checks, cost/latency & safety evals, CI-friendly reports
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
@@ -542,6 +548,7 @@
 
 ## artificial-intelligence 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [microsoft/monitors4codegen](https://github.com/microsoft/monitors4codegen) - Code and Data artifact for NeurIPS 2023 paper - "Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context". `multispy` is a lsp client library in Python intended to be used to bu
 - [microsoft/multilspy](https://github.com/microsoft/multilspy) - multilspy is a lsp client library in Python intended to be used to build applications around language servers.
@@ -619,6 +626,7 @@
 
 ## awesome-list 
 
+- [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [Hiflylabs/awesome-dbt](https://github.com/Hiflylabs/awesome-dbt) - A curated list of awesome dbt resources
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -880,7 +888,6 @@
 
 ## code-quality 
 
-- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -1165,7 +1172,6 @@
 
 ## developer-tools 
 
-- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [jmagly/ai-writing-guide](https://github.com/jmagly/ai-writing-guide) - Context stack for autonomous agentic coding. 94 specialized agents, 65+ workflow commands, multi-agent coordination. Less babysitting, longer runtime. Claude Code / Warp / Factory AI.
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv.
 - [TimMikeladze/react-devbar](https://github.com/TimMikeladze/react-devbar) - 📏 A customizable floating toolbar for React applications. Build and integrate your own dev tools with a draggable interface inspired by the Vercel toolbar. Perfect for adding debugging panels, theme c
@@ -1206,6 +1212,7 @@
 
 ## devops 
 
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - AI DevOps gives you and your AI assistant the superpowers of managed infrastructure with AI chat
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [testsigmahq/testsigma](https://github.com/testsigmahq/testsigma) - Testsigma is an agentic test automation platform powered by AI-coworkers that work alongside QA teams to simplify testing, accelerate releases and improve quality across web, mobile, desktop, API, and
@@ -1677,7 +1684,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [hatemhosny/racing-bars](https://github.com/hatemhosny/racing-bars) - Bar chart race made easy 🎉
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -2138,6 +2144,7 @@
 
 ## llm 
 
+- [hidai25/eval-view](https://github.com/hidai25/eval-view) - EvalView: pytest-style test harness for AI agents - YAML scenarios, tool-call checks, cost/latency & safety evals, CI-friendly reports
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [logic-star-ai/swt-bench](https://github.com/logic-star-ai/swt-bench) - [NeurIPS 2024] Evaluation harness for SWT-Bench, a benchmark for evaluating LLM repository-level test-generation
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
@@ -2316,6 +2323,7 @@
 
 ## markdown 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [firecrawl/firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples) - 🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
@@ -2927,6 +2935,19 @@
 
 ## others 
 
+- [jeffjacobsen/YokeFlow](https://github.com/jeffjacobsen/YokeFlow) - Autonomous Coding Agent with GUI using Claude Code - based on Anthropic Harness (https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
+- [169Pi/Alpie-Core](https://github.com/169Pi/Alpie-Core) - Alpie Core: 4-bit Quantized Reasoning Model - First from India | Top Global Performance
+- [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
+- [guidance-ai/llguidance](https://github.com/guidance-ai/llguidance) - Super-fast Structured Outputs
+- [guidance-ai/jsonschemabench](https://github.com/guidance-ai/jsonschemabench) - 
+- [QuixiAI/agi-memory](https://github.com/QuixiAI/agi-memory) - 
+- [jgh0sh/memory-skill](https://github.com/jgh0sh/memory-skill) - A skill that enables an agent to learn and apply user preferences
+- [EvanBacon/expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors) - Use native Apple colors on all platforms
+- [AnswerLayer/sniffbench](https://github.com/AnswerLayer/sniffbench) - Evaluate coding agents. Like a sniff test, but it's a benchmark.
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+- [parcadei/Continuous-Claude-v2](https://github.com/parcadei/Continuous-Claude-v2) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+- [dcrebbin/cursor-unchained](https://github.com/dcrebbin/cursor-unchained) - Cursor's Tab complete for all: Reverse engineering Cursors AI Tab completion to allow for it to be used in other IDEs
+- [moddi3/opencode-wrapped](https://github.com/moddi3/opencode-wrapped) - Generate year-in-review stats and visualizations for your opencode coding sessions
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [safety-research/bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -2935,7 +2956,6 @@
 - [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) - Stop AI agents from half-building features. Ship complete code in one session.
 - [gauravsaini/gluestack-ui-mcp-server](https://github.com/gauravsaini/gluestack-ui-mcp-server) - 
-- [gruckion/claude-code-reactnative-expo-agent-system](https://github.com/gruckion/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
@@ -2947,7 +2967,7 @@
 - [epfl-dlab/GCD](https://github.com/epfl-dlab/GCD) - 
 - [Saibo-creator/Awesome-LLM-Constrained-Decoding](https://github.com/Saibo-creator/Awesome-LLM-Constrained-Decoding) - A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [DeepSoftwareAnalytics/swe-factory](https://github.com/DeepSoftwareAnalytics/swe-factory) - [FSE 2026] SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
+- [DeepSoftwareAnalytics/swe-factory](https://github.com/DeepSoftwareAnalytics/swe-factory) - [FSE'2026] SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks
 - [DeepSoftwareAnalytics/Awesome-Agent4SE](https://github.com/DeepSoftwareAnalytics/Awesome-Agent4SE) - 
 - [DeepSoftwareAnalytics/CodeFast](https://github.com/DeepSoftwareAnalytics/CodeFast) - 
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
@@ -3042,7 +3062,7 @@
 - [experianplc/Experian-Address-Validation](https://github.com/experianplc/Experian-Address-Validation) - International address capture optimized for your use case
 - [lucas-barake/building-an-app-with-effect](https://github.com/lucas-barake/building-an-app-with-effect) - 
 - [ThatGuySam/nasa-biome](https://github.com/ThatGuySam/nasa-biome) - Biome Config Inspired by Gerard J. Holzmann's "Rules for Developing Safety Critical Code"
-- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation.
+- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [tc39/proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 - [isaacs/tshy](https://github.com/isaacs/tshy) - 
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
@@ -3811,7 +3831,6 @@
 
 ## powershell 
 
-- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## privacy 
@@ -4016,6 +4035,7 @@
 
 ## rag 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [firecrawl/firecrawl-app-examples](https://github.com/firecrawl/firecrawl-app-examples) - 🔥 This repository contains complete application examples, including websites and other projects, developed using Firecrawl.
@@ -4273,7 +4293,6 @@
 ## react-native 
 
 - [uni-stack/uniwind](https://github.com/uni-stack/uniwind) - From the creators of Unistyles: The fastest Tailwind bindings for React Native
-- [senaiverse/claude-code-reactnative-expo-agent-system](https://github.com/senaiverse/claude-code-reactnative-expo-agent-system) - AI-powered development toolkit with 7 production agents for React Native/Expo mobile apps. Automates   accessibility, design systems, security, performance, and testing. Built for Claude Code v2.0.5+
 - [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars).
 - [heroui-inc/heroui-native](https://github.com/heroui-inc/heroui-native) - 📱Beautiful, fast and modern React Native UI library
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
@@ -4596,6 +4615,7 @@
 
 ## sqlite 
 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -4671,6 +4691,8 @@
 
 ## swift 
 
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [orazz/CalendarPopUp](https://github.com/orazz/CalendarPopUp) - CalendarPopUp - JTAppleCalendar library
@@ -4812,6 +4834,7 @@
 
 ## testing 
 
+- [hidai25/eval-view](https://github.com/hidai25/eval-view) - EvalView: pytest-style test harness for AI agents - YAML scenarios, tool-call checks, cost/latency & safety evals, CI-friendly reports
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
 - [epicweb-dev/testing-fundamentals](https://github.com/epicweb-dev/testing-fundamentals) - Learn the fundamentals of automated testing in TypeScript.
 - [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
