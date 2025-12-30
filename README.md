@@ -462,7 +462,6 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [mirahi-io/figma-tokens-example-tailwindcss-using-css-variables-reference](https://github.com/mirahi-io/figma-tokens-example-tailwindcss-using-css-variables-reference) - Export your Design System Tokens to css-variables reference and use them with TailwindCSS
-- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [amazon-connect/amazon-connect-streams](https://github.com/amazon-connect/amazon-connect-streams) - Amazon Connect Streams - a browser-based contact center integration API, typically with CRM systems.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
@@ -837,8 +836,9 @@
 
 ## Python 
 
+- [gruckion/claudecode_gemini_and_codex_swebench](https://github.com/gruckion/claudecode_gemini_and_codex_swebench) - Toolkit for measuring Claude Code and Codex performance over time against a baseline using SWEbench-lite dataset **No API key required for Max or Pro subscribers**
+- [gruckion/DeepCode](https://github.com/gruckion/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
-- [jeffjacobsen/YokeFlow](https://github.com/jeffjacobsen/YokeFlow) - Autonomous Coding Agent with GUI using Claude Code - based on Anthropic Harness (https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents)
 - [guidance-ai/jsonschemabench](https://github.com/guidance-ai/jsonschemabench) - 
 - [QuixiAI/agi-memory](https://github.com/QuixiAI/agi-memory) - 
 - [hidai25/eval-view](https://github.com/hidai25/eval-view) - EvalView: pytest-style test harness for AI agents - YAML scenarios, tool-call checks, cost/latency & safety evals, CI-friendly reports
@@ -1038,7 +1038,7 @@
 - [mrphrazer/reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [Aider-AI/refactor-benchmark](https://github.com/Aider-AI/refactor-benchmark) - Aider's refactoring benchmark exercises based on popular python repos
 - [exercism/python](https://github.com/exercism/python) - Exercism exercises in Python.
 - [bryzgaloff/airflow-clickhouse-plugin](https://github.com/bryzgaloff/airflow-clickhouse-plugin) - The most popular ClickHouse plugin for Airflow. 🔝 Top-1% downloads on PyPI: https://pypi.org/project/airflow-clickhouse-plugin! Based on mymarilyn/clickhouse-driver.
@@ -1067,6 +1067,7 @@
 - [MeltanoLabs/tap-mysql](https://github.com/MeltanoLabs/tap-mysql) - Singer compliant tap for mysql
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Bklieger/ScribeWizard](https://github.com/Bklieger/ScribeWizard) - ScribeWizard: Generate organized notes from audio using Groq, Whisper, and Llama3
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [gouline/dbt-metabase](https://github.com/gouline/dbt-metabase) - dbt + Metabase integration
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ironjr/grokfast](https://github.com/ironjr/grokfast) - Official repository for the paper "Grokfast: Accelerated Grokking by Amplifying Slow Gradients"
@@ -1222,6 +1223,8 @@
 
 ## Rust 
 
+- [agentclientprotocol/agent-client-protocol](https://github.com/agentclientprotocol/agent-client-protocol) - A protocol for connecting any editor to any agent
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [guidance-ai/llguidance](https://github.com/guidance-ai/llguidance) - Super-fast Structured Outputs
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1900,7 +1903,6 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [zustandjs/zustand-slices](https://github.com/zustandjs/zustand-slices) - A slice utility for Zustand
 - [IdoPesok/zsa](https://github.com/IdoPesok/zsa) - 
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jeasonstudio/chrome-ai](https://github.com/jeasonstudio/chrome-ai) - Vercel AI provider for Chrome built-in model (Gemini Nano)
 - [bracesproul/gen-ui](https://github.com/bracesproul/gen-ui) - 🧬 Generative UI web application built with LangChain.js, AI SDK & Next.js
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
@@ -2040,6 +2042,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
+- [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
 - [CarterGrimmeisen/zod-prisma](https://github.com/CarterGrimmeisen/zod-prisma) - A custom prisma generator that creates Zod schemas from your Prisma model.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
