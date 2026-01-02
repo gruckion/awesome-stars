@@ -271,7 +271,6 @@
 - [Paperspace/terraform-provider-paperspace](https://github.com/Paperspace/terraform-provider-paperspace) - Paperspace terraform provider
 - [newrelic/terraform-provider-newrelic](https://github.com/newrelic/terraform-provider-newrelic) - Terraform provider for New Relic
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [lgallard/terraform-aws-secrets-manager](https://github.com/lgallard/terraform-aws-secrets-manager) - Terraform module to create Amazon Secrets Manager resources.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [mitchellh/terraform-provider-multispace](https://github.com/mitchellh/terraform-provider-multispace) - Terraform Provider for cascading runs across multiple workspaces.
@@ -285,6 +284,7 @@
 
 - [danielgafni/website](https://github.com/danielgafni/website) - My personal website
 - [1Mill/serverless-tf-examples](https://github.com/1Mill/serverless-tf-examples) - 
+- [lgallard/terraform-aws-secrets-manager](https://github.com/lgallard/terraform-aws-secrets-manager) - Terraform module to create Amazon Secrets Manager resources.
 - [jetbrains-infra/terraform-aws-ecs-cluster](https://github.com/jetbrains-infra/terraform-aws-ecs-cluster) - AWS ECS cluster terraform module
 - [karl-cardenas-coding/dynamodb-local-example](https://github.com/karl-cardenas-coding/dynamodb-local-example) - This is an example project to showcase how to use DynamoDB locally while leveraging Terraform, localstack, and noSQL Workbench for DynamoDB 💻
 - [ksatirli/terraform-aws-route53-workmail-records](https://github.com/ksatirli/terraform-aws-route53-workmail-records) - Terraform Module: Route 53 Records for AWS WorkMail
@@ -840,6 +840,7 @@
 
 ## Python 
 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [Not-Diamond/RoRF](https://github.com/Not-Diamond/RoRF) - Routing on Random Forest (RoRF)
 - [open-tinker/OpenTinker](https://github.com/open-tinker/OpenTinker) - OpenTinker is an RL-as-a-Service infrastructure for foundation models
@@ -1289,6 +1290,7 @@
 
 ## Shell 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [jes5199/chief-wiggum](https://github.com/jes5199/chief-wiggum) - like Ralph Wiggum but bigger
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - AI DevOps gives you and your AI assistant the superpowers of managed infrastructure with AI chat
@@ -1347,6 +1349,7 @@
 
 ## TypeScript 
 
+- [vtemian/micode](https://github.com/vtemian/micode) - RPI OpenCode Plugin
 - [andrisgauracs/sam3d-mobile](https://github.com/andrisgauracs/sam3d-mobile) - 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [EvanBacon/expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors) - Use native Apple colors on all platforms
