@@ -302,6 +302,7 @@
 
 ## HTML 
 
+- [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Vanilla CSS Synchronized Skeleton Loaders
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
@@ -753,6 +754,8 @@
 
 ## Others 
 
+- [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - The awesome collection of Claude Skills and resources.
+- [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [openprose/prose](https://github.com/openprose/prose) - 
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [chheplo/recursive-claude-code-subagents](https://github.com/chheplo/recursive-claude-code-subagents) - Recursive Claude Code Subagent Orchestration
@@ -863,6 +866,9 @@
 
 ## Python 
 
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
+- [gmickel/gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace) - Claude Code plugins for reliable AI coding. Flow-Next: plan-first workflows, Ralph autonomous mode (overnight coding with fresh context), multi-model review gates via RepoPrompt/Codex, re-anchoring to
+- [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [vllm-project/vllm-metal](https://github.com/vllm-project/vllm-metal) - Community maintained hardware plugin for vLLM on Apple Silicon
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
 - [aydinnyunus/ai-captcha-bypass](https://github.com/aydinnyunus/ai-captcha-bypass) - AI Captcha Bypass
@@ -1428,6 +1434,8 @@
 
 ## TypeScript 
 
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [pawicao/react-native-header-motion](https://github.com/pawicao/react-native-header-motion) - High-level APIs for orchestrating header motion driven by scroll — built on top of React Native Reanimated.
 - [callstackincubator/voltra](https://github.com/callstackincubator/voltra) - Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes 
