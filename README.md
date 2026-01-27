@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -362,6 +363,7 @@
 
 ## JavaScript 
 
+- [ahabhgk/react-flight](https://github.com/ahabhgk/react-flight) - ⚛️ Primitives of React Server Components and Server Actions
 - [fleetbase/fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
@@ -758,6 +760,7 @@
 
 ## Others 
 
+- [resend/email-best-practices](https://github.com/resend/email-best-practices) - Best practices for building and sending emails aided by agents.
 - [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - The awesome collection of Claude Skills and resources.
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [openprose/prose](https://github.com/openprose/prose) - 
@@ -869,6 +872,8 @@
 
 ## Python 
 
+- [Adversis/NextjsServerActionAnalyzer](https://github.com/Adversis/NextjsServerActionAnalyzer) - A Burp Suite extension for analyzing Next.js Server Actions - server-side functions identified by hash IDs and `Next-Action` headers.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [brainqub3/claude_code_RLM](https://github.com/brainqub3/claude_code_RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
@@ -915,7 +920,6 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) - Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥
-- [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [coleam00/habit-tracker](https://github.com/coleam00/habit-tracker) - Habit Tracker for the AI Coding Workshop
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
@@ -950,7 +954,6 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
-- [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jimmc414/claude_n_codex_api_proxy](https://github.com/jimmc414/claude_n_codex_api_proxy) - Claude Code and Codex API Routing Proxy
@@ -1024,7 +1027,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [google-research/kauldron](https://github.com/google-research/kauldron) - Modular, scalable library to train ML models
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
-- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation
+- [vladmandic/sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
 - [VAST-AI-Research/MIDI-3D](https://github.com/VAST-AI-Research/MIDI-3D) - [CVPR 2025] MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation
@@ -1324,6 +1327,7 @@
 
 ## Rust 
 
+- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1385,11 +1389,13 @@
 
 ## Shell 
 
+- [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 - [lpasqualis/lpclaude](https://github.com/lpasqualis/lpclaude) - Agents and Commands for Claude Code.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) - GitHub template for creating Claude Code plugin marketplaces. Includes plugin scaffolding, validation commands, hooks, skills, agents, and CI/CD workflows. Ready-to-use toolkit for teams distributing 
 - [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) - 
+- [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScri
 - [gruckion/marathon-ralph](https://github.com/gruckion/marathon-ralph) - 
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
@@ -1397,7 +1403,8 @@
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [jes5199/chief-wiggum](https://github.com/jes5199/chief-wiggum) - it's just Ralph with a hat on
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - AI DevOps gives you and your AI assistant the superpowers of managed infrastructure with AI chat
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. AI DevOps gives you and your army of AI assistants god-level 100x developer superpowers, with guided managed infrastructure & automation, through AI chat in OpenCo
+- [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
@@ -1434,6 +1441,7 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
@@ -1450,6 +1458,14 @@
 
 ## TypeScript 
 
+- [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser) - A parser for the React Server Components when sent over the network
+- [normal-computing/fuji-web](https://github.com/normal-computing/fuji-web) - Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!
+- [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
+- [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app) - Ghostwriter app created with GitHub Copilot SDK
+- [trycua/launchpad](https://github.com/trycua/launchpad) - 
+- [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
 - [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [braintrustdata/braintrust-proxy](https://github.com/braintrustdata/braintrust-proxy) - 
@@ -2088,7 +2104,7 @@
 - [daniel-nagy/transporter](https://github.com/daniel-nagy/transporter) - Typesafe distributed computing in TypeScript.
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling mult
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
