@@ -128,6 +128,7 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
+- [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -324,7 +325,7 @@
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
@@ -463,7 +464,7 @@
 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kaymen99/ai-web-scraper](https://github.com/kaymen99/ai-web-scraper) - AI web scraper built with Crawl4AI for extracting structured leads data from websites.
@@ -472,7 +473,7 @@
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. AI DevOps gives you and your army of AI assistants god-level 100x developer superpowers, with guided managed infrastructure & automation, through AI chat in OpenCo
@@ -694,7 +695,7 @@
 
 ## awesome-list 
 
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -826,7 +827,7 @@
 ## chatgpt 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
@@ -1029,7 +1030,7 @@
 
 ## computer-vision 
 
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [prakashchhipa/MNIST-Digit-Recognizer](https://github.com/prakashchhipa/MNIST-Digit-Recognizer) - Solution for CNN based digit recognition on MNIST dataset from Kaggle competition
@@ -1542,6 +1543,7 @@
 
 ## express 
 
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [SashenJayathilaka/Project-Management-App](https://github.com/SashenJayathilaka/Project-Management-App) - This repository provides a guide to building a full-stack Project Management Dashboard. The frontend uses Next.js, Tailwind CSS, and Material UI Data Grid. The backend is powered by Node.js, Express, 
@@ -2240,6 +2242,7 @@
 
 ## json 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
@@ -2263,6 +2266,10 @@
 
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
+
+## koa 
+
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 
 ## kotlin 
 
@@ -2345,7 +2352,7 @@
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac
 - [xpander-ai/xpander.ai](https://github.com/xpander-ai/xpander.ai) - xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
@@ -2475,7 +2482,7 @@
 
 ## machine-learning 
 
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - Superfast AI decision making and intelligent processing of multi-modal data.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
@@ -2520,7 +2527,7 @@
 
 ## macos 
 
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [receyuki/stable-diffusion-prompt-reader](https://github.com/receyuki/stable-diffusion-prompt-reader) - A simple standalone viewer for reading prompts from Stable Diffusion generated image outside the webui.
 - [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top
@@ -2535,6 +2542,8 @@
 
 ## markdown 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
+- [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -2703,6 +2712,7 @@
 
 ## nestjs 
 
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -2721,6 +2731,7 @@
 
 ## nextjs 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 - [ibelick/nim](https://github.com/ibelick/nim) - Nim is a free and open-source personal website template built with Next.js 15, React 19, Tailwind CSS v4, and Motion-Primitives.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2939,6 +2950,7 @@
 
 ## nodejs 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
@@ -3145,7 +3157,7 @@
 - [brightdata/ai-lead-generator](https://github.com/brightdata/ai-lead-generator) - AI-powered agent that scrapes leads with Bright Data, qualifies them using OpenAI, and delivers outreach-ready results via an easy Streamlit UI.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
@@ -4174,6 +4186,7 @@
 
 ## postgresql 
 
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
@@ -4513,6 +4526,7 @@
 
 ## react 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [normal-computing/fuji-web](https://github.com/normal-computing/fuji-web) - Fuji is an AI agent that lives in your browser's sidepanel. You can now get tasks done online with a single command!
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
@@ -4929,6 +4943,7 @@
 
 ## security 
 
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [aydinnyunus/ai-captcha-bypass](https://github.com/aydinnyunus/ai-captcha-bypass) - AI Captcha Bypass
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -5088,6 +5103,7 @@
 
 ## sqlite 
 
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
@@ -5346,7 +5362,7 @@
 
 ## text-to-speech 
 
-- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI-compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok
+- [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX bac
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
@@ -5357,7 +5373,7 @@
 
 - [remorses/critique](https://github.com/remorses/critique) - TUI for reviewing git changes
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ## twitter 
@@ -5368,11 +5384,12 @@
 
 ## typescript 
 
+- [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [traceloop/openllmetry-js](https://github.com/traceloop/openllmetry-js) - Sister project to OpenLLMetry, but in Typescript. Open-source observability for your LLM application, based on OpenTelemetry
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
