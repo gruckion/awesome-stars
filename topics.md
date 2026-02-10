@@ -527,7 +527,7 @@
 - [gouline/dbt-metabase](https://github.com/gouline/dbt-metabase) - dbt + Metabase integration
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 - [dotnet/spark](https://github.com/dotnet/spark) - .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers.
@@ -556,7 +556,7 @@
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
@@ -695,6 +695,7 @@
 
 ## awesome-list 
 
+- [xyflow/awesome-node-based-uis](https://github.com/xyflow/awesome-node-based-uis) - A curated list with resources about node-based UIs
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 300+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
@@ -933,7 +934,7 @@
 - [sujjeee/svgls](https://github.com/sujjeee/svgls) - A CLI for easily adding SVG icons to your project.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
@@ -1848,7 +1849,7 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
@@ -2084,7 +2085,7 @@
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -2715,7 +2716,6 @@
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -2795,8 +2795,7 @@
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
@@ -2982,7 +2981,7 @@
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
@@ -3134,7 +3133,7 @@
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
@@ -3231,8 +3230,9 @@
 
 ## others 
 
+- [zou-yu/worker-mailer](https://github.com/zou-yu/worker-mailer) - An SMTP library that helps you send email in Cloudflare Workers.
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
-- [The-Vibe-Company/claude-code-controller](https://github.com/The-Vibe-Company/claude-code-controller) - Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesystem protocol
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web UI for Claude Code built on a reverse-engineered WebSocket protocol. Launch sessions, stream responses, approve tools — all from your browser.
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.
 - [cogsec-collaborative/AMITT](https://github.com/cogsec-collaborative/AMITT) - AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents. Includes TTPs and countermeasures.
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory's custom linters
@@ -3266,7 +3266,7 @@
 - [DannyLuna17/RecaptchaV2-IA-Solver](https://github.com/DannyLuna17/RecaptchaV2-IA-Solver) - This project automates the process of solving Google reCAPTCHAs using the Undetected WebDriver and a deep learning model. The main highlight of the project is the integration of the YOLOv8x (You Only 
 - [2captcha/2captcha-python](https://github.com/2captcha/2captcha-python) - Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare turnstile, funcaptcha, geetest and solve any other captchas.
 - [JoshData/python-email-validator](https://github.com/JoshData/python-email-validator) - A robust email syntax and deliverability validation library for Python.
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
 - [TwinPeaksTownie/Claude-to-Speech](https://github.com/TwinPeaksTownie/Claude-to-Speech) - A Claude Code plugin to utilize Elevenlabs TTS for responses when needed
@@ -3278,7 +3278,7 @@
 - [cullenwatson/StaffSpy](https://github.com/cullenwatson/StaffSpy) - Staff fetcher library for LinkedIn - obtain experiences, schools, skills & contact info
 - [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver) - Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems lik
 - [securisec/ripgrepy](https://github.com/securisec/ripgrepy) - python module for ripgrep
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [btriapitsyn/opencode-bas-plugin](https://github.com/btriapitsyn/opencode-bas-plugin) - 
 - [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui.
@@ -4240,6 +4240,7 @@
 - [vemetric/vemetric](https://github.com/vemetric/vemetric) - Simple, yet powerful Web- & Product Analytics.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
@@ -4601,7 +4602,7 @@
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
@@ -4982,6 +4983,7 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) - A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static websites and more.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -5149,7 +5151,7 @@
 ## storybook 
 
 - [chambits/storybook-interaction-test](https://github.com/chambits/storybook-interaction-test) - A demonstration project showcasing Storybook component testing capabilities with React, TypeScript, and Vite
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## sublime-text 
@@ -5481,7 +5483,7 @@
 - [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
