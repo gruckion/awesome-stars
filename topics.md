@@ -308,6 +308,7 @@
 
 ## ai 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [Qredence/fleet-rlm](https://github.com/Qredence/fleet-rlm) - DSPy's Recursive Language Model (RLM) with Modal Sandbox for secure cloud-based code execution
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
@@ -326,6 +327,7 @@
 - [xpander-ai/xpander.ai](https://github.com/xpander-ai/xpander.ai) - xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -474,6 +476,7 @@
 - [xpander-ai/xpander.ai](https://github.com/xpander-ai/xpander.ai) - xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
+- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
@@ -908,6 +911,7 @@
 
 ## cli 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [bcdxn/opencli](https://github.com/bcdxn/opencli) - The OpenCLI Specification and Tooling Repository
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
@@ -3241,6 +3245,7 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [TheSoftwareHouse/copilot-collections](https://github.com/TheSoftwareHouse/copilot-collections) - Opinionated AI-enabled workflows for software engineering
 - [31Carlton7/mobile-use](https://github.com/31Carlton7/mobile-use) - AI-powered mobile task automation using natural language
 - [sharbelxyz/x-bookmarks](https://github.com/sharbelxyz/x-bookmarks) - OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.
@@ -3325,7 +3330,6 @@
 - [alexzhang13/rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [ivo-toby/skynet-mcp](https://github.com/ivo-toby/skynet-mcp) - An MCP Server that acts as an agent and that can spawn more Agents, by using MCP.. MCP Inception!
-- [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) - Universal Claude Code workflow plugin with agents, skills, hooks, and commands
 - [Bitterbot-AI/topas_DSLPv1](https://github.com/Bitterbot-AI/topas_DSLPv1) - 
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
@@ -5408,6 +5412,7 @@
 
 ## typescript 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
