@@ -1493,6 +1493,8 @@
 
 ## TypeScript 
 
+- [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [31Carlton7/mobile-use](https://github.com/31Carlton7/mobile-use) - AI-powered mobile task automation using natural language
 - [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) - Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)
 - [R44VC0RP/pgrok](https://github.com/R44VC0RP/pgrok) - Personal ngrok alternative. Expose local ports to the internet with automatic HTTPS via SSH tunnels + Caddy.
