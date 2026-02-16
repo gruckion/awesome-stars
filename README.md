@@ -232,6 +232,8 @@
 
 ## Go 
 
+- [dl-alexandre/Apple-Map-Server-CLI](https://github.com/dl-alexandre/Apple-Map-Server-CLI) - 
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [bcdxn/opencli](https://github.com/bcdxn/opencli) - The OpenCLI Specification and Tooling Repository
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -516,7 +518,7 @@
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [treosh/lighthouse-plugin-field-performance](https://github.com/treosh/lighthouse-plugin-field-performance) - Add real-user performance data to your Lighthouse report
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [bdeitte/hot-shots](https://github.com/bdeitte/hot-shots) - Node.js client for statsd, DogStatsD, and Telegraf
+- [bdeitte/hot-shots](https://github.com/bdeitte/hot-shots) - A Node.js client for Datadog's DogStatsD server, InfluxDB's Telegraf StatsD server, the OpenTelemetry Collector StatsD receiver, and Etsy's StatsD server.
 - [alexindigo/install-peers](https://github.com/alexindigo/install-peers) - Automatically installs project's peerDependencies (as devDependencies)
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [fram-x/FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
@@ -894,13 +896,13 @@
 - [Qredence/fleet-rlm](https://github.com/Qredence/fleet-rlm) - DSPy's Recursive Language Model (RLM) with Modal Sandbox for secure cloud-based code execution
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
 - [sharbelxyz/x-bookmarks](https://github.com/sharbelxyz/x-bookmarks) - OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.
-- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - 
+- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent toolset to help make your slop code well-engineered and beautiful.
 - [instavm/skill-optimization](https://github.com/instavm/skill-optimization) - Demonstration of DSPy optimization for Skill.md files
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -1493,6 +1495,8 @@
 
 ## TypeScript 
 
+- [gillkyle/agent-tail](https://github.com/gillkyle/agent-tail) - Pipe logs from all your dev servers into a single place accessible to your agents.
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [31Carlton7/mobile-use](https://github.com/31Carlton7/mobile-use) - AI-powered mobile task automation using natural language
