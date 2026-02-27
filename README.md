@@ -34,7 +34,6 @@
 - [Mathematica](#mathematica)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
-- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -72,6 +71,7 @@
 - [jakehilborn/displayplacer](https://github.com/jakehilborn/displayplacer) - macOS command line utility to configure multi-display resolutions and arrangements. Essentially XRandR for macOS.
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
 - [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
+- [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) - Rich Text Editor for React Native
 - [openvenues/libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [cawfree/react-native-webassembly](https://github.com/cawfree/react-native-webassembly) - ⚛️ 🏎 WebAssembly for React Native powered by JSI.
@@ -766,10 +766,6 @@
 - [card-io/card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
 - [watsonbox/fuber](https://github.com/watsonbox/fuber) - Parse/Stripe/Swift iOS Spike
 
-## Objective-C++ 
-
-- [software-mansion/react-native-enriched](https://github.com/software-mansion/react-native-enriched) - Rich Text Editor for React Native
-
 ## Others 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
@@ -894,6 +890,9 @@
 
 ## Python 
 
+- [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark) - 
+- [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
+- [Git-on-my-level/codex-autorunner](https://github.com/Git-on-my-level/codex-autorunner) - 
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [PromtEngineer/agentic-file-search](https://github.com/PromtEngineer/agentic-file-search) - 
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
@@ -940,7 +939,7 @@
 - [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 - [TwinPeaksTownie/Claude-to-Speech](https://github.com/TwinPeaksTownie/Claude-to-Speech) - A Claude Code plugin to utilize Elevenlabs TTS for responses when needed
 - [quantifylabs/aegis-memory](https://github.com/quantifylabs/aegis-memory) - Memory engine for multi-agent AI systems. ACE patterns for persistent learning. Production-ready, self-hostable, Apache 2.0.
-- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [mohammed840/RLM-implementation](https://github.com/mohammed840/RLM-implementation) - RVAA: Recursive Vision-Action Agent for Long Video Understanding. Implementation of the RLM paradigm (Zhang, Kraska, Khattab 2025)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [christivn/mapScraper](https://github.com/christivn/mapScraper) - 🤖🗺️ Headless browser scraper written in python to extract Places data from Google Maps.
@@ -1437,6 +1436,7 @@
 
 ## Shell 
 
+- [platformatic/node-caged](https://github.com/platformatic/node-caged) - 
 - [rjs/shaping-skills](https://github.com/rjs/shaping-skills) - Skills I use with Claude for shaping
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [zhaow-de/rotating-tor-http-proxy](https://github.com/zhaow-de/rotating-tor-http-proxy) - A multi-arch image provides one HTTP proxy endpoint with many concurrent tunnels to the Tor network.
@@ -1493,6 +1493,7 @@
 
 ## Swift 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - A local Apple Documentation crawler and MCP server. Written in Swift.
 - [txtx/axel-app](https://github.com/txtx/axel-app) - Peaceful task list meticulously crafted for Agents in war mode.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -2109,13 +2110,13 @@
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
+- [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [marchaos/jest-mock-extended](https://github.com/marchaos/jest-mock-extended) - Type safe mocking extensions for Jest https://www.npmjs.com/package/jest-mock-extended
 - [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [andrewiggins/afterframe](https://github.com/andrewiggins/afterframe) - ⏱ A simple method to invoke a function after the browser has rendered & painted a frame
 - [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) - 
