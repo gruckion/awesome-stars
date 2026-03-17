@@ -3387,7 +3387,7 @@
 - [run-llama/audio-kb](https://github.com/run-llama/audio-kb) - Record, store and search audio notes from the terminal, powered by LlamaParse and Gemini Embeddings 2
 - [KilleenCode/tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - A Tauri update server, hosted as a Cloudflare edge function
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
-- [togethercomputer/erdos-minimum-overlap](https://github.com/togethercomputer/erdos-minimum-overlap) - New State-of-the-Art on Erdős' Minimum Overlap Problem
+- [togethercomputer/open-problem-bounds](https://github.com/togethercomputer/open-problem-bounds) - New state-of-the-art bounds for an open problem
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - Recursive Language Models (https://arxiv.org/abs/2512.24601)
@@ -4021,7 +4021,7 @@
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
