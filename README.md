@@ -316,7 +316,7 @@
 
 ## HTML 
 
-- [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark) - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.
+- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [hallucinogen/agent-viewer](https://github.com/hallucinogen/agent-viewer) - Kanban board for managing Claude Code agents in tmux
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
@@ -694,7 +694,7 @@
 ## Jupyter Notebook 
 
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [togethercomputer/open-problem-bounds](https://github.com/togethercomputer/open-problem-bounds) - New state-of-the-art bounds for an open problem
+- [togethercomputer/EinsteinArena-new-SOTA](https://github.com/togethercomputer/EinsteinArena-new-SOTA) - New state-of-the-art bounds for open problems
 - [cogsec-collaborative/AMITT](https://github.com/cogsec-collaborative/AMITT) - AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents. Includes TTPs and countermeasures.
 - [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -744,7 +744,6 @@
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [dubinc/docs](https://github.com/dubinc/docs) - Official docs for Dub.co
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 
 ## MLIR 
 
@@ -914,7 +913,7 @@
 - [kwindla/aiewf-eval](https://github.com/kwindla/aiewf-eval) - A long-context eval
 - [TheSeamau5/envoi](https://github.com/TheSeamau5/envoi) - The simplest way to build long-horizon environments
 - [naklecha/simple-llm](https://github.com/naklecha/simple-llm) - ~950 line, minimal, extensible LLM inference engine built from scratch.
-- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
+- [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark) - BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev.
 - [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge base
 - [Git-on-my-level/codex-autorunner](https://github.com/Git-on-my-level/codex-autorunner) - 
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -1167,7 +1166,7 @@
 - [daniel-lxs/mcp-perplexity](https://github.com/daniel-lxs/mcp-perplexity) - MCP Server for the Perplexity API.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) - SWE-bench: Can Language Models Resolve Real-world Github Issues?
 - [superagent-ai/reag](https://github.com/superagent-ai/reag) - Reasoning Augmented Generation
 - [slimslenderslacks/mcp-hello-world](https://github.com/slimslenderslacks/mcp-hello-world) - 
@@ -1323,6 +1322,7 @@
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [seanpixel/Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
@@ -1431,7 +1431,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
@@ -1781,7 +1781,7 @@
 - [ertgl/export-map-generator](https://github.com/ertgl/export-map-generator) - Automate exports generation for multi-format packages.
 - [vercel/analytics](https://github.com/vercel/analytics) - Privacy-friendly, real-time traffic insights
 - [mswjs/interceptors](https://github.com/mswjs/interceptors) - Low-level network interception library.
-- [mswjs/playwright](https://github.com/mswjs/playwright) - Mock Service Worker binding for Playwright.
+- [mswjs/playwright](https://github.com/mswjs/playwright) - Mock APIs in Playwright using Mock Service Worker.
 - [Stivooo/mimicry-js](https://github.com/Stivooo/mimicry-js) - TS library for generating fake data for tests
 - [jackfranklin/test-data-bot](https://github.com/jackfranklin/test-data-bot) - 
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
@@ -2037,7 +2037,7 @@
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [panaverse/learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [Blobscan/blobscan](https://github.com/Blobscan/blobscan) - The pioneer blockchain explorer dedicated to navigate and visualize shard blob transactions.
 - [ajmnz/prisma-enum-generator](https://github.com/ajmnz/prisma-enum-generator) - Automatically generate enums with your Prisma model names
 - [inrupt/solid-client-js](https://github.com/inrupt/solid-client-js) - Library for accessing data and managing permissions on data stored in a Solid Pod
