@@ -385,6 +385,7 @@
 
 ## JavaScript 
 
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [vultuk/claude-code-web](https://github.com/vultuk/claude-code-web) - Web-based interface for Claude Code CLI with multi-session support
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [Factory-AI/eslint-plugin](https://github.com/Factory-AI/eslint-plugin) - Factory's custom linters
@@ -538,7 +539,6 @@
 - [dev-andremonteiro/react-native-twitter-clone](https://github.com/dev-andremonteiro/react-native-twitter-clone) - Twitter Clone as of Mar/2019
 - [LimeDeck/nodemailer-stub](https://github.com/LimeDeck/nodemailer-stub) - ✉️️ Stub transport for Nodemailer. Testing your mails in Node.js is now easy.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
-- [foundation/inky](https://github.com/foundation/inky) - Convert a simple HTML syntax into tables compatible with Foundation for Emails.
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [aFarkas/html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
 - [nodemailer/nodemailer-sendgrid](https://github.com/nodemailer/nodemailer-sendgrid) - SendGrid transport for Nodemailer
@@ -1468,6 +1468,7 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [m0at/consciousness](https://github.com/m0at/consciousness) - 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [foundation/inky](https://github.com/foundation/inky) - An email framework that converts simple HTML into responsive email-ready HTML.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 
 ## SCSS 
