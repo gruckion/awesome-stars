@@ -1499,7 +1499,7 @@
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [jes5199/chief-wiggum](https://github.com/jes5199/chief-wiggum) - it's just Ralph with a hat on
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. Automate your app, business, and personal development with managed infrastructure through AI chat in OpenCode. Opinionated tools, services, CLI & API stack for spe
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. Automate your app, business, and personal development with token-efficient AI chat in OpenCode & Git. Opinionated tools, services, CLI & API stack for speed, secur
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [trypear/pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
