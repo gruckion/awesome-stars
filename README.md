@@ -405,6 +405,7 @@
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [biomejs/tree-sitter-gritql](https://github.com/biomejs/tree-sitter-gritql) - The official grammar for GritQL, implemented as a tree sitter parser
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
+- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - A Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [adamhaile/surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications
 - [sokra/todo-mvc-react-hooks-experiments](https://github.com/sokra/todo-mvc-react-hooks-experiments) - Some experiments with ReactJS Hooks based on TodoMVC
@@ -698,7 +699,7 @@
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [togethercomputer/EinsteinArena-new-SOTA](https://github.com/togethercomputer/EinsteinArena-new-SOTA) - New state-of-the-art bounds for open problems
 - [cogsec-collaborative/AMITT](https://github.com/cogsec-collaborative/AMITT) - AMITT (Adversarial Misinformation and Influence Tactics and Techniques) framework for describing disinformation incidents. Includes TTPs and countermeasures.
-- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - Runs 405B LLMs on 8GB VRAM
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [xpander-ai/xpander.ai](https://github.com/xpander-ai/xpander.ai) - xpander.ai is the runtime and control plane to build, run, and ship reliable AI agents fast and anywhere
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -741,6 +742,7 @@
 
 ## MDX 
 
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [crowdin/docs](https://github.com/crowdin/docs) - Crowdin Knowledge Base and Dev Portal
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [dubinc/docs](https://github.com/dubinc/docs) - Official docs for Dub.co
@@ -1442,7 +1444,6 @@
 - [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 - [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -1733,7 +1734,6 @@
 - [openstatusHQ/openstatus-template](https://github.com/openstatusHQ/openstatus-template) - 
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
-- [mtalcott/google-photos-deduper](https://github.com/mtalcott/google-photos-deduper) - A Chrome extension that finds and removes duplicate photos from your Google Photos library
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - Helping coding agents never make mistakes working with public or private libraries without wasting the context window.
 - [mcrovero/effect-nextjs](https://github.com/mcrovero/effect-nextjs) - Typed helpers for building Next.js App Router pages, layouts, server components, and actions with Effect.
