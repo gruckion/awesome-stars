@@ -374,6 +374,7 @@
 - [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, securi
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [Strawberry-Computer/speakbuild](https://github.com/Strawberry-Computer/speakbuild) - Mobile voice assistant that can generate UI on the go
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -717,6 +718,7 @@
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [nottelabs/notte](https://github.com/nottelabs/notte) - 🌸 Best framework to build web agents, and deploy serverless web automation functions on reliable browser infra.
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
@@ -1421,6 +1423,7 @@
 
 ## deployment 
 
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1530,6 +1533,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -1794,6 +1798,7 @@
 
 ## game 
 
+- [Guthix/Jagex-Store-5](https://github.com/Guthix/Jagex-Store-5) - A library for modifying Jagex Store 5 game files
 - [devrsi0n/React-2048-game](https://github.com/devrsi0n/React-2048-game) - :video_game: A fancy 2048 game build with react, redux best practices.
 
 ## generative-ai 
@@ -2463,6 +2468,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -2801,6 +2807,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [hidai25/eval-view](https://github.com/hidai25/eval-view) - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) - Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
@@ -3337,6 +3344,7 @@
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [dembrandt/dembrandt](https://github.com/dembrandt/dembrandt) - Extract any website’s design system into tokens in seconds: logo, colors, typography, borders & more. One command.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [frappe/crm](https://github.com/frappe/crm) - Fully featured, open source CRM
@@ -3470,6 +3478,10 @@
 
 ## others 
 
+- [alterorb/launcher](https://github.com/alterorb/launcher) - 
+- [alterorb/funorb-tools](https://github.com/alterorb/funorb-tools) - 
+- [Elendrial/aog2d](https://github.com/Elendrial/aog2d) - Recreation of Armies of Gielinor in Java. Trying to be as extensible as possible. WIP - Requires my RPGEngine
+- [openrs2/openrs2](https://github.com/openrs2/openrs2) - Open-source multiplayer game server compatible with the RuneScape client
 - [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit) - 
 - [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
@@ -3647,7 +3659,6 @@
 - [safety-research/bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
 - [markmanx/isoflow](https://github.com/markmanx/isoflow) - 
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
-- [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
 - [mylukin/agent-foreman](https://github.com/mylukin/agent-foreman) - Stop AI agents from half-building features. Ship complete code in one session.
 - [gauravsaini/gluestack-ui-mcp-server](https://github.com/gauravsaini/gluestack-ui-mcp-server) - 
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
@@ -5306,6 +5317,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -5828,7 +5840,7 @@
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [anayatkhan1/Writora-AI](https://github.com/anayatkhan1/Writora-AI) - Writora AI is a powerful tool that transforms your video or audio content into a blog post in seconds, powered by cutting-edge AI technology.
 - [novuhq/inbox-playground](https://github.com/novuhq/inbox-playground) - Example application to show in-app notifications powered by Novu.
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [rphlmr/comply](https://github.com/rphlmr/comply) - Comply is a tiny library to help you define policies in your app
 - [ory/polis](https://github.com/ory/polis) - Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via th
 - [sujjeee/svgls](https://github.com/sujjeee/svgls) - A CLI for easily adding SVG icons to your project.
