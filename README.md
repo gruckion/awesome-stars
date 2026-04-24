@@ -185,7 +185,6 @@
 ## CSS 
 
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
-- [intentui/next.js](https://github.com/intentui/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [gruckion/nextjs-performance-first](https://github.com/gruckion/nextjs-performance-first) - NextJS mono repo that focuses on monitoring and maintaining performance
 - [Tencent/Hunyuan-TurboS](https://github.com/Tencent/Hunyuan-TurboS) - 
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
@@ -355,6 +354,9 @@
 
 ## Java 
 
+- [alterorb/launcher](https://github.com/alterorb/launcher) - 
+- [alterorb/funorb-tools](https://github.com/alterorb/funorb-tools) - 
+- [Elendrial/aog2d](https://github.com/Elendrial/aog2d) - Recreation of Armies of Gielinor in Java. Trying to be as extensible as possible. WIP - Requires my RPGEngine
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [fbeccaceci/react-native-fast-squircle](https://github.com/fbeccaceci/react-native-fast-squircle) - A performant component that renders Squircles in React Native
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
@@ -732,6 +734,8 @@
 
 ## Kotlin 
 
+- [Guthix/Jagex-Store-5](https://github.com/Guthix/Jagex-Store-5) - A library for modifying Jagex Store 5 game files
+- [openrs2/openrs2](https://github.com/openrs2/openrs2) - Open-source multiplayer game server compatible with the RuneScape client
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 
 ## Lean 
@@ -1021,7 +1025,7 @@
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
-- [TesslateAI/Studio](https://github.com/TesslateAI/Studio) - Open Source Locally Hosted Lovable with Full Stack Support
+- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - Open platform for building, running, and sharing AI workspace agents and apps with any model, self-hosted or cloud, no lock-in.
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jimmc414/claude_n_codex_api_proxy](https://github.com/jimmc414/claude_n_codex_api_proxy) - Claude Code and Codex API Routing Proxy
@@ -1762,6 +1766,7 @@
 - [callstackincubator/ai](https://github.com/callstackincubator/ai) - On-device LLM execution in React Native with Vercel AI SDK compatibility
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
 - [arthurfiorette/prisma-json-types-generator](https://github.com/arthurfiorette/prisma-json-types-generator) - ⚒️ Changes JsonValues to your custom typescript type.
+- [intentui/next.js](https://github.com/intentui/next.js) - A Next.js starter kit with Intent UI installed. You don't need to set up anything, just run clone it and you're good to go!
 - [ethanniser/terpc](https://github.com/ethanniser/terpc) - 
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [tigerabrodi/eiwaal](https://github.com/tigerabrodi/eiwaal) - A lightweight animation library for React. Built on top of the View Transitions API.
@@ -2016,7 +2021,7 @@
 - [typeonce-dev/effect-react-19-project-template](https://github.com/typeonce-dev/effect-react-19-project-template) - Learn how to organize Effect services, layers, and runtime to execute both client and server code in React 19
 - [shipgtm/router](https://github.com/shipgtm/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [oxidecomputer/console](https://github.com/oxidecomputer/console) - Oxide Web Console
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [rajeshdavidbabu/s3-upload-thing](https://github.com/rajeshdavidbabu/s3-upload-thing) - A simple Next.js + Uppy file-uploader built using S3 AWS SDK
