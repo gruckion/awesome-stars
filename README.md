@@ -38,6 +38,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
+- [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Reason](#reason)
@@ -149,6 +150,7 @@
 
 ## C++ 
 
+- [Runescape-Reversed/OSRS-Steam](https://github.com/Runescape-Reversed/OSRS-Steam) - Reverse engineering of the OSRS Steam client.
 - [chromiumembedded/cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
@@ -354,6 +356,8 @@
 
 ## Java 
 
+- [cfoust/jane](https://github.com/cfoust/jane) - A robust Old School RuneScape bot that was built on an imaginary custom client.
+- [chsami/Microbot](https://github.com/chsami/Microbot) - Modified Version of the Open source Runelite client
 - [alterorb/launcher](https://github.com/alterorb/launcher) - 
 - [alterorb/funorb-tools](https://github.com/alterorb/funorb-tools) - 
 - [Elendrial/aog2d](https://github.com/Elendrial/aog2d) - Recreation of Armies of Gielinor in Java. Trying to be as extensible as possible. WIP - Requires my RPGEngine
@@ -892,6 +896,10 @@
 - [GaryAustin1/supa-file-helper](https://github.com/GaryAustin1/supa-file-helper) - SQL code for managing deletion of storage objects in Supabase
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 
+## Pascal 
+
+- [Villavu/Simba](https://github.com/Villavu/Simba) - Simba is a program used to repeat certain (complicated) tasks. Typically these tasks involve using the mouse and keyboard. Simba is programmable, which means you can design your own logic and steps th
+
 ## PowerShell 
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -900,6 +908,8 @@
 
 ## Python 
 
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [slyautomation/osrs_yolov5](https://github.com/slyautomation/osrs_yolov5) - Yolov5 Object Detection In OSRS using Python code, Detecting Cows - Botting
 - [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack) - One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [nikmcfly/MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline) - Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack.
@@ -1301,7 +1311,7 @@
 - [safetensors/safetensors](https://github.com/safetensors/safetensors) - Simple, safe way to store and distribute tensors
 - [bitsandbytes-foundation/bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 - [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Convert Machine Learning Code Between Frameworks
 - [sdv-dev/SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data
 - [kyegomez/Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
 - [Liuhong99/Sophia](https://github.com/Liuhong99/Sophia) - The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”
@@ -1438,7 +1448,7 @@
 - [sigoden/upt](https://github.com/sigoden/upt) - Universal Package-management Tool for any OS.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
