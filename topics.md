@@ -3484,6 +3484,7 @@
 
 ## others 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [Runescape-Reversed/OSRS-Steam](https://github.com/Runescape-Reversed/OSRS-Steam) - Reverse engineering of the OSRS Steam client.
 - [chsami/Microbot](https://github.com/chsami/Microbot) - Modified Version of the Open source Runelite client
 - [alterorb/launcher](https://github.com/alterorb/launcher) - 
