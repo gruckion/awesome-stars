@@ -375,7 +375,6 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [linkedin/rest.li](https://github.com/linkedin/rest.li) - Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [swedenconnect/eidas-eu-mock](https://github.com/swedenconnect/eidas-eu-mock) - Repository for creating mockup instances based on the EU eIDAS reference implementation code
 - [minhtechie/tiktok-clone](https://github.com/minhtechie/tiktok-clone) - 
 - [thedaneeffect/RuneScape-Beta-Public](https://github.com/thedaneeffect/RuneScape-Beta-Public) - 
@@ -1247,6 +1246,7 @@
 - [vye16/shape-of-motion](https://github.com/vye16/shape-of-motion) - 
 - [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos) - Run your dbt Core or dbt Fusion projects as Apache Airflow DAGs and Task Groups with a few lines of code
 - [manmeetkaur/etl-airflow](https://github.com/manmeetkaur/etl-airflow) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [meltano/squared](https://github.com/meltano/squared) - Where the Meltano team runs Meltano! Get it???
@@ -2461,7 +2461,7 @@
 - [aws-samples/aws-dynamodb-examples](https://github.com/aws-samples/aws-dynamodb-examples) - DynamoDB Examples
 - [meliorence/react-native-render-html](https://github.com/meliorence/react-native-render-html) - iOS/Android pure javascript react-native component that renders your HTML into 100% native views
 - [runejs/server](https://github.com/runejs/server) - RuneJS is a RuneScape game server written in TypeScript and JavaScript. The goal of the project is to create a comprehensive game engine, while also providing simple and easy to use content developmen
-- [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
+- [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [lucafalasco/scroll-snap](https://github.com/lucafalasco/scroll-snap) - ↯ Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behaviour
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [getsentry/sentry-react-native](https://github.com/getsentry/sentry-react-native) - Official Sentry SDK for React Native
