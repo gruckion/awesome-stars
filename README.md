@@ -226,7 +226,6 @@
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams, queues, and search indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [hiett/serverless-redis-http](https://github.com/hiett/serverless-redis-http) - HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits!
 
 ## F# # 
@@ -236,7 +235,6 @@
 
 ## Go 
 
-- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [ku9nov/faynoSync](https://github.com/ku9nov/faynoSync) - Self-hosted API server for desktop app updates (Windows/macOS/Linux)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -1576,6 +1574,7 @@
 
 ## TypeScript 
 
+- [supabase/cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 - [laravel/react-starter-kit](https://github.com/laravel/react-starter-kit) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -1584,7 +1583,7 @@
 - [kunchenguid/chrome-devtools-axi](https://github.com/kunchenguid/chrome-devtools-axi) - The most agent-ergonomic browser automation
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [vladkens/apigen-ts](https://github.com/vladkens/apigen-ts) - Generate a fully typed TypeScript fetch client from OpenAPI/Swagger in one file. Supports OpenAPI 2.0, 3.0, and 3.1.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
@@ -2124,7 +2123,7 @@
 - [LewTrn/lookfeel](https://github.com/LewTrn/lookfeel) - lookfeel is a design inspiration tool for developers that supports generating, visualising and discovering beautiful UI themes.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [nainglinnkhant/lingua-time](https://github.com/nainglinnkhant/lingua-time) - A smart datetime picker which understands natural language input.
-- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
+- [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
@@ -2204,6 +2203,7 @@
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [coryhouse/react-switchboard](https://github.com/coryhouse/react-switchboard) - Quickly create custom DevTools for your React app
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
