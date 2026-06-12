@@ -405,7 +405,6 @@
 - [btriapitsyn/opencode-bas-plugin](https://github.com/btriapitsyn/opencode-bas-plugin) - 
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [Strawberry-Computer/speakbuild](https://github.com/Strawberry-Computer/speakbuild) - Mobile voice assistant that can generate UI on the go
@@ -1055,7 +1054,7 @@
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
@@ -1424,7 +1423,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [Pauan/rust-dominator](https://github.com/Pauan/rust-dominator) - Zero-cost ultra-high-performance declarative DOM library using FRP signals for Rust!
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across agent fleets. 🦀
+- [DecapodLabs/decapod](https://github.com/DecapodLabs/decapod) - Repo-native governance kernel that enriches context and turns natural-language intent into governed, proof-backed work across looping agent fleets. 🦀
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [flaneur2020/rimio](https://github.com/flaneur2020/rimio) - 
@@ -1521,6 +1520,7 @@
 - [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScri
 - [gruckion/marathon-ralph](https://github.com/gruckion/marathon-ralph) - 
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
 - [tokenbender/mHC-manifold-constrained-hyper-connections](https://github.com/tokenbender/mHC-manifold-constrained-hyper-connections) - implementations and experimentation on mHC by deepseek - https://arxiv.org/abs/2512.24880
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1634,7 +1634,7 @@
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [cruzyjapan/Claude-Code-Kanban-Automator](https://github.com/cruzyjapan/Claude-Code-Kanban-Automator) - AI-powered Kanban board with Claude Code automation. Tasks, real-time execution, feedback loops.
 - [cablate/Claude-Code-Board](https://github.com/cablate/Claude-Code-Board) - Use Claude Code on Kanban WebUI
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [d-gangz/ai-sdk-chat-mcp](https://github.com/d-gangz/ai-sdk-chat-mcp) - Testing the MCP client and server features from the Vercel AI SDK
 - [supermemoryai/llm-bridge](https://github.com/supermemoryai/llm-bridge) - Interoperability between input formats of various LLMs, with observability, error handling, etc. built in.
 - [supermemoryai/install-mcp](https://github.com/supermemoryai/install-mcp) - A simple CLI to install MCP servers into any client - auth included!
