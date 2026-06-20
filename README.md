@@ -246,7 +246,7 @@
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -407,7 +407,6 @@
 - [btriapitsyn/opencode-bas-plugin](https://github.com/btriapitsyn/opencode-bas-plugin) - 
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [Strawberry-Computer/speakbuild](https://github.com/Strawberry-Computer/speakbuild) - Mobile voice assistant that can generate UI on the go
@@ -751,6 +750,7 @@
 
 ## MDX 
 
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [crowdin/docs](https://github.com/crowdin/docs) - Crowdin Knowledge Base and Dev Portal
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [dubinc/docs](https://github.com/dubinc/docs) - Official docs for Dub.co
@@ -910,6 +910,7 @@
 
 ## Python 
 
+- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [BowTiedSwan/rlm-skill](https://github.com/BowTiedSwan/rlm-skill) - 
 - [bhimrazy/receipt-ocr](https://github.com/bhimrazy/receipt-ocr) - An efficient OCR engine for receipt image processing.
 - [zohaibbashir/Google-Maps-Scrapper](https://github.com/zohaibbashir/Google-Maps-Scrapper) - This code is used to perform web scraping and data extraction from Google Maps. It is particularly designed for obtaining information about businesses, including their name, address, website, phone nu
@@ -965,7 +966,7 @@
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
-- [brainqub3/claude_code_RLM](https://github.com/brainqub3/claude_code_RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
+- [brainqub3/RLM](https://github.com/brainqub3/RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your GenAI or LLM application, based on OpenTelemetry
@@ -1462,7 +1463,6 @@
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [pionxzh/wakaru](https://github.com/pionxzh/wakaru) - 🔪📦 Javascript decompiler for modern frontend
 - [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
@@ -1524,6 +1524,7 @@
 - [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScri
 - [gruckion/marathon-ralph](https://github.com/gruckion/marathon-ralph) - 
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
 - [tokenbender/mHC-manifold-constrained-hyper-connections](https://github.com/tokenbender/mHC-manifold-constrained-hyper-connections) - implementations and experimentation on mHC by deepseek - https://arxiv.org/abs/2512.24880
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1585,6 +1586,7 @@
 
 ## TypeScript 
 
+- [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - Cross-platform text data detection for React Native. Uses NSDataDetector on iOS and ML Kit Entity Extraction on Android to detect phone numbers, URLs, emails, dates, and addresses.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.
@@ -1600,7 +1602,7 @@
 - [kunchenguid/chrome-devtools-axi](https://github.com/kunchenguid/chrome-devtools-axi) - The most agent-ergonomic browser automation
 - [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
 - [vladkens/apigen-ts](https://github.com/vladkens/apigen-ts) - Generate a fully typed TypeScript fetch client from OpenAPI/Swagger in one file. Supports OpenAPI 2.0, 3.0, and 3.1.
-- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 🌀 OpenAPI to Python and TypeScript codegen. Production-grade SDKs, Zod schemas, TanStack Query hooks, Pydantic models, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
+- [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Ecosystem for turning API specifications into production-ready code. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
