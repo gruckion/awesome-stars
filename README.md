@@ -954,7 +954,6 @@
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively.
-- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -963,7 +962,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Adversis/NextjsServerActionAnalyzer](https://github.com/Adversis/NextjsServerActionAnalyzer) - A Burp Suite extension for analyzing Next.js Server Actions - server-side functions identified by hash IDs and `Next-Action` headers.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [brainqub3/RLM](https://github.com/brainqub3/RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
@@ -1437,6 +1436,7 @@
 - [tower-rs/tower](https://github.com/tower-rs/tower) - async fn(Request) -&gt; Result&lt;Response, Error&gt;
 - [agentika-labs/grepika](https://github.com/agentika-labs/grepika) - 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it!
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -1566,7 +1566,7 @@
 
 ## Swift 
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
 - [mihaelamj/cupertino](https://github.com/mihaelamj/cupertino) - A local Apple Documentation crawler and MCP server. Written in Swift.
 - [scarce/axel](https://github.com/scarce/axel) - Peaceful task list meticulously crafted for Agents in war mode.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -1616,7 +1616,7 @@
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
-- [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - A feature rich implementation of Recursive Language Models, with advanced visualization and logging tools.
+- [avbiswas/fast-rlm](https://github.com/avbiswas/fast-rlm) - A feature rich implementation of Recursive Language Models, with ACP integration, REPL tool support, structured IO, advanced visualization, logging tools.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [DaveDev42/tauri-plugin-mcp](https://github.com/DaveDev42/tauri-plugin-mcp) - 
@@ -2493,7 +2493,7 @@
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [microsoft/azure-devops-node-api](https://github.com/microsoft/azure-devops-node-api) - Azure DevOps Client for Node.js
-- [indiespirit/react-native-chart-kit](https://github.com/indiespirit/react-native-chart-kit) - 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+- [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit) - 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 - [woutervh-/typescript-is](https://github.com/woutervh-/typescript-is) - 
 - [aws-amplify/amplify-cli](https://github.com/aws-amplify/amplify-cli) - The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
