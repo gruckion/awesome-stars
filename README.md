@@ -501,7 +501,7 @@
 - [jamiebuilds/tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - A Tailwind CSS plugin for creating beautiful animations
 - [twilio-labs/dev-phone](https://github.com/twilio-labs/dev-phone) - A developer tool for testing SMS and Voice applications
 - [jshint/jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
-- [salahlalami/idurar-erp-crm](https://github.com/salahlalami/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) - Twilio Function templates for different Voice, SMS, Video, Chat, Sync, etc use cases
@@ -805,7 +805,6 @@
 - [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [boxabirds/awesome-claude-hooks](https://github.com/boxabirds/awesome-claude-hooks) - THIS HAS MOVED to https://github.com/boxabirds/awesome-hooks
-- [experianplc/Experian-BIS-Postman-Collection](https://github.com/experianplc/Experian-BIS-Postman-Collection) - Experian BIS Postman Collection
 - [ThatGuySam/nasa-biome](https://github.com/ThatGuySam/nasa-biome) - Biome Config Inspired by Gerard J. Holzmann's "Rules for Developing Safety Critical Code"
 - [ThatGuySam/node-upgrade-checklist](https://github.com/ThatGuySam/node-upgrade-checklist) - Handy checklist for everywhere and anywhere you might need to set the version when upgrading to the latest Node.
 - [total-typescript/tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig.json
