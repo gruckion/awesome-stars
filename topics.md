@@ -2948,6 +2948,7 @@
 - [madarco/ragrabbit](https://github.com/madarco/ragrabbit) - Open Source, Self-Hosted, AI Search and LLM.txt for your website
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -2993,7 +2994,7 @@
 
 ## mongoose 
 
-- [salahlalami/idurar-erp-crm](https://github.com/salahlalami/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
 
 ## monitoring 
 
@@ -3877,7 +3878,6 @@
 - [epicweb-dev/full-stack-testing](https://github.com/epicweb-dev/full-stack-testing) - Confidently ship your full-stack app with automated tests
 - [kettanaito/playwright-persona](https://github.com/kettanaito/playwright-persona) - Authentication in Playwright using personas.
 - [biomejs/gritql-stdlib](https://github.com/biomejs/gritql-stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code.
-- [experianplc/Experian-BIS-Postman-Collection](https://github.com/experianplc/Experian-BIS-Postman-Collection) - Experian BIS Postman Collection
 - [experianplc/Experian-Address-Validation](https://github.com/experianplc/Experian-Address-Validation) - International address capture optimized for your use case
 - [lucas-barake/building-an-app-with-effect](https://github.com/lucas-barake/building-an-app-with-effect) - 
 - [ThatGuySam/nasa-biome](https://github.com/ThatGuySam/nasa-biome) - Biome Config Inspired by Gerard J. Holzmann's "Rules for Developing Safety Critical Code"
