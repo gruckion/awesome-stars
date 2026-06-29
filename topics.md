@@ -3968,7 +3968,7 @@
 - [balazik/ComfyUI-PuLID-Flux](https://github.com/balazik/ComfyUI-PuLID-Flux) - PuLID-Flux ComfyUI implementation
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
