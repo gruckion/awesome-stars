@@ -280,6 +280,7 @@
 ## agent 
 
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -381,7 +382,7 @@
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
@@ -548,7 +549,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [SawyerHood/tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [vercel-labs/gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
 - [sgomez/ollama-ai-provider](https://github.com/sgomez/ollama-ai-provider) - Vercel AI Provider for running LLMs locally using Ollama
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -630,7 +631,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -1623,7 +1624,7 @@
 - [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
@@ -2798,7 +2799,7 @@
 - [afondiel/LangChain-For-LLM-Application-Dev-DeepLearningAI](https://github.com/afondiel/LangChain-For-LLM-Application-Dev-DeepLearningAI) - Crash course on LangChain for LLM Application Developement by DeepLearningAI
 - [ikergarcia1996/Easy-Translate](https://github.com/ikergarcia1996/Easy-Translate) - Easy-Translate is a script for translating large text files with a SINGLE COMMAND. Easy-Translate is designed to be as easy as possible for beginners and as seamlesscustomizable and  as possible for a
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -2952,6 +2953,7 @@
 ## mcp 
 
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -3334,7 +3336,7 @@
 - [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal) - node's assert.deepEqual algorithm
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
@@ -3404,7 +3406,7 @@
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [sniptt-official/guards](https://github.com/sniptt-official/guards) - 🛡 Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir
 - [graphql-hive/envelop](https://github.com/graphql-hive/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [ewfian/faiss-node](https://github.com/ewfian/faiss-node) - Node.js bindings for faiss
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
@@ -4884,7 +4886,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [julep-ai/julep](https://github.com/julep-ai/julep) - Firebase for AI agents
+- [julep-ai/julep](https://github.com/julep-ai/julep) - Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
