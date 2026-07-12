@@ -248,7 +248,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System level intelligent runtime for Mixture-of-Models across edge, data center and cloud
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1217,7 +1217,6 @@
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [MotleyAI/motleycrew](https://github.com/MotleyAI/motleycrew) - Flexible and powerful multi-agent AI framework
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [OpenRouterTeam/openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) - Deprecated inference engine
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
@@ -2195,6 +2194,7 @@
 - [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
 - [clerk/t3-turbo-and-clerk](https://github.com/clerk/t3-turbo-and-clerk) - A t3 Turbo starter with Clerk as the auth provider.
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [9d8dev/next-wp](https://github.com/9d8dev/next-wp) - Headless WordPress built with the Next.js App Router and React Server Components
 - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small & sweet
 - [Aslam97/minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) - Minimal Tiptap Editor
