@@ -629,7 +629,7 @@
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - 
+- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - Open-source platform for multi-agent AI orchestration, real-world asset tokenization, and institutional-grade workflow automation. Includes OAuth 2.1 MCP agent management, a 44-field RWA schema, Strip
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
@@ -3012,6 +3012,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - Open-source platform for multi-agent AI orchestration, real-world asset tokenization, and institutional-grade workflow automation. Includes OAuth 2.1 MCP agent management, a 44-field RWA schema, Strip
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -3225,6 +3226,7 @@
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
 - [Marc-Kruiss/supabase_ssr_auth-nextjs_14-shadcn-template](https://github.com/Marc-Kruiss/supabase_ssr_auth-nextjs_14-shadcn-template) - Next.js 14 Project with Prisma ORM, Supabase, and Shadcn
+- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - Open-source platform for multi-agent AI orchestration, real-world asset tokenization, and institutional-grade workflow automation. Includes OAuth 2.1 MCP agent management, a 44-field RWA schema, Strip
 - [wpcodevo/nextjs14-supabase-ssr-authentication](https://github.com/wpcodevo/nextjs14-supabase-ssr-authentication) - In this article, you'll learn how to integrate Supabase with Next.js 14 for email and password authentication, as well as Google and GitHub OAuth.
 - [rajput-hemant/lipi](https://github.com/rajput-hemant/lipi) - [WIP] 🚀 A SAAS web app, a Notion.so replica, featuring real-time collaboration and customizable workspaces built using ▲ Next.js, shadcn/ui, TailwindCSS
 - [Illyism/gradient-picker](https://github.com/Illyism/gradient-picker) - Fancy Gradient Picker built with Shadcn UI, Radix UI and Tailwind CSS.
@@ -3611,7 +3613,6 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - 
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [minimaxir/gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
@@ -6070,7 +6071,6 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
 - [next-safe-action/next-safe-action](https://github.com/next-safe-action/next-safe-action) - Type safe and validated Server Actions in your Next.js project.
-- [Kronova-Intelligent-Systems/asset-intel-orchestration-engine](https://github.com/Kronova-Intelligent-Systems/asset-intel-orchestration-engine) - 
 - [rajput-hemant/lipi](https://github.com/rajput-hemant/lipi) - [WIP] 🚀 A SAAS web app, a Notion.so replica, featuring real-time collaboration and customizable workspaces built using ▲ Next.js, shadcn/ui, TailwindCSS
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [alifarooq9/launchmvpfast](https://github.com/alifarooq9/launchmvpfast) - Starterkits, components, ui blocks
