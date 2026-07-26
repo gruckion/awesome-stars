@@ -2234,7 +2234,7 @@
 - [marchaos/jest-mock-extended](https://github.com/marchaos/jest-mock-extended) - Type safe mocking extensions for Jest https://www.npmjs.com/package/jest-mock-extended
 - [datawrapper/datawrapper](https://github.com/datawrapper/datawrapper) - Utility functions developed for Datawrapper
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [andrewiggins/afterframe](https://github.com/andrewiggins/afterframe) - ⏱ A simple method to invoke a function after the browser has rendered & painted a frame
 - [Anber/wyw-in-js](https://github.com/Anber/wyw-in-js) - 
 - [storybookjs/icons](https://github.com/storybookjs/icons) - Library of icons used in apps and marketing sites
