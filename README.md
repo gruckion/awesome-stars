@@ -946,7 +946,7 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [puppygraph/puppygraph-getting-started](https://github.com/puppygraph/puppygraph-getting-started) - 
-- [Qredence/fleet-rlm](https://github.com/Qredence/fleet-rlm) - DSPy's Recursive Language Model (RLM) with Daytona Sandbox for secure cloud-based code execution
+- [Qredence/fleet-rlm](https://github.com/Qredence/fleet-rlm) - Agentic RLM workbench on DSPy 3.3: sandboxed code execution, live operator streaming over SSE, durable sessions & artifacts, terminal-first client
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
 - [sharbelxyz/x-bookmarks](https://github.com/sharbelxyz/x-bookmarks) - OpenClaw skill: turn your X bookmarks into agent actions. Stop hoarding. Start applying.
 - [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful.
@@ -989,7 +989,7 @@
 - [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 - [TwinPeaksTownie/Claude-to-Speech](https://github.com/TwinPeaksTownie/Claude-to-Speech) - A Claude Code plugin to utilize Elevenlabs TTS for responses when needed
 - [quantifylabs/aegis-memory](https://github.com/quantifylabs/aegis-memory) - Secure context engineering for AI agents. Content security · integrity verification · trust hierarchy · ACE patterns. Self-hosted, Apache 2.0.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [mohammed840/RLM-implementation](https://github.com/mohammed840/RLM-implementation) - RVAA: Recursive Vision-Action Agent for Long Video Understanding. Implementation of the RLM paradigm (Zhang, Kraska, Khattab 2025)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [christivn/mapScraper](https://github.com/christivn/mapScraper) - 🤖🗺️ Headless browser scraper written in python to extract Places data from Google Maps.
@@ -1368,7 +1368,7 @@
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [El-Sam/flask-dummy-microservice](https://github.com/El-Sam/flask-dummy-microservice) - A Flask dummy API to show how to setup a dockerized microservice with a Postgres db and gradle.
-- [n1nj4t4nuk1/python-ddd-example](https://github.com/n1nj4t4nuk1/python-ddd-example) - 🐍 Example of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
+- [otsobide/python-ddd-example](https://github.com/otsobide/python-ddd-example) - 🐍 Example of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
 - [Enforcer/implementing-the-clean-architecture](https://github.com/Enforcer/implementing-the-clean-architecture) - 
 - [NEONKID/fastapi-ddd-example](https://github.com/NEONKID/fastapi-ddd-example) - FastAPI and SQLAlchemy DDD (Domain Driven Development) Example
 - [t-tiger/Python-CleanArchitecture-Example](https://github.com/t-tiger/Python-CleanArchitecture-Example) - Sample Python(Flask) web application with Clean Architecture.
@@ -1595,7 +1595,7 @@
 - [pablogdcr/react-native-data-detector](https://github.com/pablogdcr/react-native-data-detector) - Cross-platform text data detection for React Native. Uses NSDataDetector on iOS and ML Kit Entity Extraction on Android to detect phone numbers, URLs, emails, dates, and addresses.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.
+- [JuliusBrussee/cavemem](https://github.com/JuliusBrussee/cavemem) - Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman.
 - [enzomanuelmangano/ennio](https://github.com/enzomanuelmangano/ennio) - maestro-compatible e2e test runner for React Native
 - [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
@@ -1618,7 +1618,7 @@
 - [atlassian/nucleus](https://github.com/atlassian/nucleus) - A configurable and versatile update server for all your Electron apps
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [langchain-ai/agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
