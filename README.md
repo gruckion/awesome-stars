@@ -972,7 +972,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Adversis/NextjsServerActionAnalyzer](https://github.com/Adversis/NextjsServerActionAnalyzer) - A Burp Suite extension for analyzing Next.js Server Actions - server-side functions identified by hash IDs and `Next-Action` headers.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,100+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [brainqub3/RLM](https://github.com/brainqub3/RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
@@ -1205,7 +1205,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [robbyant-research/MagicQuill](https://github.com/robbyant-research/MagicQuill) - [CVPR'25] Official Implementations for Paper - MagicQuill: An Intelligent Interactive Image Editing System
@@ -1723,7 +1723,7 @@
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [vtemian/micode](https://github.com/vtemian/micode) - RPI OpenCode Plugin
 - [andrisgauracs/sam3d-mobile](https://github.com/andrisgauracs/sam3d-mobile) - 
 - [EvanBacon/expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors) - Use native Apple colors on all platforms
