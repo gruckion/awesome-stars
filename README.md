@@ -326,6 +326,7 @@
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
+- [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) - 
 - [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Vanilla CSS Synchronized Skeleton Loaders
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
@@ -412,7 +413,6 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [btriapitsyn/opencode-bas-plugin](https://github.com/btriapitsyn/opencode-bas-plugin) - 
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-- [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) - 
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
 - [Onewon/claude-code](https://github.com/Onewon/claude-code) - claude-code full original source code from source maps
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code
@@ -1215,7 +1215,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 an
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Pla
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
@@ -2118,7 +2118,7 @@
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
-- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -2454,7 +2454,7 @@
 - [Kreshnik/d2lang-js](https://github.com/Kreshnik/d2lang-js) - An unofficial interface for building D2 diagram files in javascript.
 - [SashenJayathilaka/Project-Management-App](https://github.com/SashenJayathilaka/Project-Management-App) - This repository provides a guide to building a full-stack Project Management Dashboard. The frontend uses Next.js, Tailwind CSS, and Material UI Data Grid. The backend is powered by Node.js, Express, 
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
