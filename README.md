@@ -870,6 +870,7 @@
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [Decodo/SERP-Scraping-API](https://github.com/Decodo/SERP-Scraping-API) - SERP Scraping API code examples for Python, PHP and Node.js
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
 - [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) - [WordPress] A foundation for WordPress Plugin Development that aims to provide a clear and consistent guide for building your plugins.
@@ -1047,7 +1048,6 @@
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
-- [TesslateAI/OpenSail](https://github.com/TesslateAI/OpenSail) - OpenSail is the open-source alternative to Codex App, Claude Desktop, Cursor, and Cowork for agentic software work.
 - [unibe-cns/nla-code](https://github.com/unibe-cns/nla-code) - Code repository for the paper "A neuronal least-action principle for real-time learning in cortical circuits"
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [jimmc414/claude_n_codex_api_proxy](https://github.com/jimmc414/claude_n_codex_api_proxy) - Claude Code and Codex API Routing Proxy
@@ -1708,7 +1708,7 @@
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli) - Generate editable Excalidraw diagrams from text or JSON for agents and developer workflows
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
-- [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
+- [vm0-ai/okou](https://github.com/vm0-ai/okou) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [MrgSub/opencode-debug](https://github.com/MrgSub/opencode-debug) - 
 - [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) - 
@@ -2122,7 +2122,6 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
