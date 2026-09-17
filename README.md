@@ -133,7 +133,7 @@
 - [ruidfigueiredo/WebApiJwtExample](https://github.com/ruidfigueiredo/WebApiJwtExample) - Web Api built using ASP.NET Core secured with JWT tokens
 - [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [wesdoyle/lightlib-lms](https://github.com/wesdoyle/lightlib-lms) - A lightweight library management system built in .NET 5.0 MVC with Postgres and EF Core
-- [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that e
+- [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store for .NET desktop and mobile applications, backed by SQLite. Suited to both durable data such as user settings and cached data that expires, with optional en
 - [NLog/NLog](https://github.com/NLog/NLog) - NLog - Flexible and Structured Logging for various .NET Platforms
 - [aspnet/Logging](https://github.com/aspnet/Logging) - [Archived] Common logging abstractions and a few implementations. Project moved to https://github.com/aspnet/Extensions
 - [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
@@ -833,6 +833,7 @@
 - [graphql-hive/envelop](https://github.com/graphql-hive/envelop) - Envelop is a lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer. Envelop is the missing GraphQL plugin system.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Coming soon.
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
@@ -911,6 +912,7 @@
 
 ## Python 
 
+- [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) - 
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 - [ssd-moe/deepseek-v4-flash-mlx](https://github.com/ssd-moe/deepseek-v4-flash-mlx) - Run DeepSeek V4-Flash (~100B MoE) on a 48GB Apple Silicon Mac via SSD expert-streaming — a custom MLX offload engine. ~4.5-5 tok/s.
 - [0xBakeer/deepseek-v41-flash-spark](https://github.com/0xBakeer/deepseek-v41-flash-spark) - DeepSeek-V4.1-Flash on a single DGX Spark (GB10): resident hot experts + NVMe streaming, DSpark, OpenAI API. Work in progress.
@@ -1152,7 +1154,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
-- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - A Python library powered by Language Models (LLMs) for conversational data discovery and analysis.
+- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - An LLM-driven data analyst that works in a persistent Python kernel. Web app, Docker-isolated execution, your own model keys. Full support for open weights models via provider or local.
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [bakhti-ai/Wan2.1](https://github.com/bakhti-ai/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
@@ -1429,7 +1431,6 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs) - 
 - [P3GLEG/tauri-plugin-mcp](https://github.com/P3GLEG/tauri-plugin-mcp) - Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs.
@@ -1494,7 +1495,6 @@
 - [dbt-labs/dbt](https://github.com/dbt-labs/dbt) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1596,6 +1596,8 @@
 
 ## TypeScript 
 
+- [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) - Proof of concept MCP for Typesafe's new Jev AI model
+- [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev.
 - [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad) - Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so this builds on Chrono Divide's from-scratch TypeScript engine — proprietary, used with the author's
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
@@ -1623,6 +1625,7 @@
 - [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [wovnep/tauri-update-server](https://github.com/wovnep/tauri-update-server) - Tauri update Server
 - [KilleenCode/tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - A Tauri update server, hosted as a Cloudflare edge function
 - [mackenly/tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) - Maintained fork for Tauri update server powered by Cloudflare Workers
@@ -1674,7 +1677,7 @@
 - [zce/velite](https://github.com/zce/velite) - Turns Markdown / MDX, YAML, JSON, or others into app's data layer with Zod schema.
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
-- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Companion — self-hostable Skills Hub for organizations and coding agents.
+- [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Persistent AI companions on Box, powered by Pi. Simple web, durable execution, reproducible local development.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
@@ -1987,7 +1990,7 @@
 - [g-todorov/xstate-persistent-state-example](https://github.com/g-todorov/xstate-persistent-state-example) - Example of using xState 4 along with Next.js 13 to create web app with the ability to persist and rehydrate global state.
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [lucas-barake/effect-t3-trpc](https://github.com/lucas-barake/effect-t3-trpc) - 
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK for browser agents. Interact, search, extract, and fetch any site reliably across the web
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
@@ -2165,7 +2168,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -2322,7 +2325,6 @@
 - [daniel-nagy/transporter](https://github.com/daniel-nagy/transporter) - Typesafe distributed computing in TypeScript.
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
