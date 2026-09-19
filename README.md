@@ -244,7 +244,7 @@
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store and Google Play. Scans code, privacy manifests, Android manifests, and IPA/APK/AAB binaries against the review guidelines. Offline, no account
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - A programmable Mixture-of-Models router for heterogeneous LLM inference
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -360,7 +360,7 @@
 
 ## Java 
 
-- [stephanj/parallelConstraintDecoding](https://github.com/stephanj/parallelConstraintDecoding) - Parallel Constraint Decoding using both Java and Python
+- [stephanj/parallelConstraintDecoding](https://github.com/stephanj/parallelConstraintDecoding) - Parallel Constraint Decoding using Java and Llama.cpp compared to Python 🔥
 - [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning prob
 - [apache/fineract](https://github.com/apache/fineract) - Apache Fineract
 - [MJHylkema/spirit-tree-map](https://github.com/MJHylkema/spirit-tree-map) - Provides an interactive map interface as a replacement to the traditional spirit tree interface.
@@ -912,9 +912,10 @@
 
 ## Python 
 
+- [ekzhang/openjev-sglang](https://github.com/ekzhang/openjev-sglang) - Jev-compatible API endpoint based on open models (prefill-only)
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [typesafeainate/dspy-typesafeify](https://github.com/typesafeainate/dspy-typesafeify) - Add a decorator for dspy Signatures that automatically uses TypeSafe where relevant
-- [thruwire/foreman](https://github.com/thruwire/foreman) - Software Factory Foreman based on TypeSafe Jev model
+- [thruwire/foreman](https://github.com/thruwire/foreman) - Software factory foreman based on TypeSafe's Jev model
 - [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) - i. am. speed.
 - [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) - 
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthrop
@@ -1435,6 +1436,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [tauri-apps/cef-rs](https://github.com/tauri-apps/cef-rs) - 
 - [P3GLEG/tauri-plugin-mcp](https://github.com/P3GLEG/tauri-plugin-mcp) - Allows AI agents (e.g., Cursor, Claude Code) to debug within Tauri apps via screenshot capture, window management, DOM access, and simulated user inputs.
@@ -1600,10 +1602,11 @@
 
 ## TypeScript 
 
+- [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
 - [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 - [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) - Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbati
 - [BeLazy167/typesafe-mod](https://github.com/BeLazy167/typesafe-mod) - Claude Code mod that routes decisions to TypeSafe's Jev model: ranks installed skills per prompt, and answers the agent's own this-or-that questions when confident.
-- [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) - Proof of concept MCP for Typesafe's new Jev AI model
+- [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp) - Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools.
 - [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - A staged code-review workflow and local dashboard built with TypeSafe Jev.
 - [ammaarreshi/RedAlert2-Mac-iOS-iPad](https://github.com/ammaarreshi/RedAlert2-Mac-iOS-iPad) - Red Alert 2 + Yuri's Revenge running natively on iPhone and iPad. EA never released RA2's source, so this builds on Chrono Divide's from-scratch TypeScript engine — proprietary, used with the author's
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
@@ -1632,7 +1635,6 @@
 - [vercel-labs/lat.md](https://github.com/vercel-labs/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [wovnep/tauri-update-server](https://github.com/wovnep/tauri-update-server) - Tauri update Server
 - [KilleenCode/tauri-update-cloudflare](https://github.com/KilleenCode/tauri-update-cloudflare) - A Tauri update server, hosted as a Cloudflare edge function
 - [mackenly/tauri-update-cloudflare](https://github.com/mackenly/tauri-update-cloudflare) - Maintained fork for Tauri update server powered by Cloudflare Workers
