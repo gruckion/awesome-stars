@@ -326,7 +326,7 @@
 - [L1AD/claude-task-viewer](https://github.com/L1AD/claude-task-viewer) - A web-based Kanban board for viewing Claude Code tasks
 - [wilsonzlin/fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
-- [vm0-ai/vm0-skills](https://github.com/vm0-ai/vm0-skills) - 
+- [okou-ai/vm0-skills](https://github.com/okou-ai/vm0-skills) - 
 - [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Various things I had to figure out recently to make things work better...
 - [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Vanilla CSS Synchronized Skeleton Loaders
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
@@ -979,7 +979,7 @@
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Adversis/NextjsServerActionAnalyzer](https://github.com/Adversis/NextjsServerActionAnalyzer) - A Burp Suite extension for analyzing Next.js Server Actions - server-side functions identified by hash IDs and `Next-Action` headers.
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,115+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalo
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
 - [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) - Python toolkit for building graph-enhanced GenAI applications
 - [brainqub3/RLM](https://github.com/brainqub3/RLM) - Claude code setup as an RLM scaffhold Implemented by Brainqub3
@@ -1721,7 +1721,7 @@
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli) - Generate editable Excalidraw diagrams from text or JSON for agents and developer workflows
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
-- [vm0-ai/okou](https://github.com/vm0-ai/okou) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
+- [okou-ai/okou](https://github.com/okou-ai/okou) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [MrgSub/opencode-debug](https://github.com/MrgSub/opencode-debug) - 
 - [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) - 
