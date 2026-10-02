@@ -997,7 +997,7 @@
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything i
+- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code 
 - [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [vllm-project/vllm-metal](https://github.com/vllm-project/vllm-metal) - Community maintained hardware plugin for vLLM on Apple Silicon
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
@@ -1012,7 +1012,7 @@
 - [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
 - [TwinPeaksTownie/Claude-to-Speech](https://github.com/TwinPeaksTownie/Claude-to-Speech) - A Claude Code plugin to utilize Elevenlabs TTS for responses when needed
 - [quantifylabs/aegis-memory](https://github.com/quantifylabs/aegis-memory) - Secure context engineering for AI agents. Content security · integrity verification · trust hierarchy · ACE patterns. Self-hosted, Apache 2.0.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [mohammed840/RLM-implementation](https://github.com/mohammed840/RLM-implementation) - RVAA: Recursive Vision-Action Agent for Long Video Understanding. Implementation of the RLM paradigm (Zhang, Kraska, Khattab 2025)
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [christivn/mapScraper](https://github.com/christivn/mapScraper) - 🤖🗺️ Headless browser scraper written in python to extract Places data from Google Maps.
@@ -1388,7 +1388,6 @@
 - [NeilJed/aws-sso-credentials](https://github.com/NeilJed/aws-sso-credentials) - A simple Python tool to get short-term access tokens for CLI/Boto3 operations when using AWS SSO
 - [antis0007/sd-webui-multiple-hypernetworks](https://github.com/antis0007/sd-webui-multiple-hypernetworks) - 
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [El-Sam/flask-dummy-microservice](https://github.com/El-Sam/flask-dummy-microservice) - A Flask dummy API to show how to setup a dockerized microservice with a Postgres db and gradle.
 - [otsobide/python-ddd-example](https://github.com/otsobide/python-ddd-example) - 🐍 Example of a Python & FastAPI application using Domain-Driven Design and Command Query Response Segregation principles.
 - [Enforcer/implementing-the-clean-architecture](https://github.com/Enforcer/implementing-the-clean-architecture) - 
@@ -2113,7 +2112,7 @@
 - [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
 - [sujjeee/starter](https://github.com/sujjeee/starter) - Build full-stack web apps with Next.js, Shadcn UI, and Supabase
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
-- [antoineross/Hikari](https://github.com/antoineross/Hikari) - A complete & open source Nextjs.14, Stripe and Supabase SaaS Starter Template using App Router
+- [coremvp/Hikari](https://github.com/coremvp/Hikari) - A complete & open source Nextjs.14, Stripe and Supabase SaaS Starter Template using App Router
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [vercel-labs/next-partial-prerendering](https://github.com/vercel-labs/next-partial-prerendering) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -2500,6 +2499,7 @@
 - [matheuspelegrino/tiktok-clone](https://github.com/matheuspelegrino/tiktok-clone) - Clone of the TikTok app layout with React Native
 - [Trancever/twitterClone](https://github.com/Trancever/twitterClone) - 
 - [andrecrimb/twitter_clone_rn](https://github.com/andrecrimb/twitter_clone_rn) - Twitter clone App using React Native
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
