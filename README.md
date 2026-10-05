@@ -789,6 +789,7 @@
 
 ## Others 
 
+- [aliceisjustplaying/pi-extensions](https://github.com/aliceisjustplaying/pi-extensions) - Index of my Pi extensions (future monorepo)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [avinash201199/founders-kit](https://github.com/avinash201199/founders-kit) - A curated collection of essential resources, tools, and playbooks to help founders build, launch, and scale startups successfully.
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
@@ -1437,6 +1438,7 @@
 
 ## Rust 
 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [Yasu-umi/pytest-rs](https://github.com/Yasu-umi/pytest-rs) - A fast, drop-in compatible pytest runner written in Rust
 - [neul-labs/rpytest](https://github.com/neul-labs/rpytest) - Run your pytest suite faster. Change nothing.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -1596,6 +1598,7 @@
 
 ## Swift 
 
+- [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [scarce/axel](https://github.com/scarce/axel) - Peaceful task list meticulously crafted for Agents in war mode.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
