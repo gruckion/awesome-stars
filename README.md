@@ -246,7 +246,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb) - Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - A programmable Mixture-of-Models router for heterogeneous LLM inference
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - An open, programmable decision layer for models and compute.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -913,6 +913,7 @@
 
 ## Python 
 
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [0xpili/simplified-technical-english](https://github.com/0xpili/simplified-technical-english) - An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved word list, and a check tool.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
@@ -1438,6 +1439,7 @@
 
 ## Rust 
 
+- [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
 - [Yasu-umi/pytest-rs](https://github.com/Yasu-umi/pytest-rs) - A fast, drop-in compatible pytest runner written in Rust
 - [neul-labs/rpytest](https://github.com/neul-labs/rpytest) - Run your pytest suite faster. Change nothing.
@@ -1554,7 +1556,7 @@
 - [callstackincubator/agent-skills](https://github.com/callstackincubator/agent-skills) - A collection of agent-optimized React Native skills for AI coding assistants.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ivan-magda/claude-code-plugin-template](https://github.com/ivan-magda/claude-code-plugin-template) - GitHub template for creating Claude Code plugin marketplaces. Includes plugin scaffolding, validation commands, hooks, skills, agents, and CI/CD workflows. Ready-to-use toolkit for teams distributing 
-- [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/JavaScri
+- [boostvolt/claude-code-lsps](https://github.com/boostvolt/claude-code-lsps) - LSP plugins for Claude Code — Astro, Bash/Shell, C/C++/Objective-C, C#, Clojure, Dart/Flutter, Elixir, Gleam, Go, Java, Kotlin, Lua, Nix, OCaml, PHP, Python, Ruby, Rust, Swift, Terraform, TypeScript/J
 - [gruckion/marathon-ralph](https://github.com/gruckion/marathon-ralph) - 
 - [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
@@ -1598,6 +1600,8 @@
 
 ## Swift 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [tailscale/libtailscale](https://github.com/tailscale/libtailscale) - Tailscale C library
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [scarce/axel](https://github.com/scarce/axel) - Peaceful task list meticulously crafted for Agents in war mode.
@@ -1618,10 +1622,11 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
 - [davekiss/env](https://github.com/davekiss/env) - Claude Code mod: edit dotenv files in a pane; Claude manages keys without ever seeing values
 - [sevq1993-cyber/claude-code-kids](https://github.com/sevq1993-cyber/claude-code-kids) - Claude Code mod: a pane with the tree of child chats and what is left to merge
-- [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) - A collection of Claude Code mods: live lines above the prompt, guards, panes and games.
+- [hamzafer/claude-code-mods](https://github.com/hamzafer/claude-code-mods) - Claude Code mods: plugins built on hooks that add live lines above the prompt, guards, panes and games. Context bar, usage meter, Codex review watch, Markdown preview, Spotify now playing and more.
 - [jarrodwatts/claude-image-view](https://github.com/jarrodwatts/claude-image-view) - See the images you paste into Claude Code: thumbnails above the prompt instead of bare [Image #1] tags
 - [dzhng/jevgrep](https://github.com/dzhng/jevgrep) - Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) - 
@@ -2369,7 +2374,7 @@
 - [giscus/giscus-component](https://github.com/giscus/giscus-component) - Component library for giscus, a comment system powered by GitHub Discussions.
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [alexreardon/tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A tiny invariant function
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework Rea
