@@ -94,6 +94,7 @@
 - [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [LesFerch/LaunchIE](https://github.com/LesFerch/LaunchIE) - Launch Internet Explorer 11 on Windows 10 or Windows 11
+- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - The Redis client for .NET
 - [ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
@@ -229,6 +230,8 @@
 
 ## Go 
 
+- [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
+- [kristofferR/codereview-queue](https://github.com/kristofferR/codereview-queue) - Account-wide code review queue: coordinate CodeRabbit/Codex PR reviews across many parallel agents sharing one rate limit (GitHub-native lock + FIFO + live dashboard).
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev
@@ -278,7 +281,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and SDKs
+- [teamhanko/passkeys](https://github.com/teamhanko/passkeys) - FIDO2-certified passkey server and JS SDK
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
@@ -342,6 +345,7 @@
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [ideal-postcodes/postcodes.io](https://github.com/ideal-postcodes/postcodes.io) - UK postcode & geolocation API, serving up open data
 - [whatwg/streams](https://github.com/whatwg/streams) - Streams Standard
 - [WordPress/Security-White-Paper](https://github.com/WordPress/Security-White-Paper) - The WordPress Security White Paper, available directly on the WordPress.org site at https://wordpress.org/about/security/
@@ -449,6 +453,7 @@
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [zsodur/chatgpt-api-by-browser-script](https://github.com/zsodur/chatgpt-api-by-browser-script) - This project runs on users' browsers through the Tampermonkey script and converts the web version of ChatGPT operations into an API interface. This way, you can use GPT-4 in chatgpt web pages to play 
 - [JoakimCh/grok-archiver](https://github.com/JoakimCh/grok-archiver) - Just an archiver for X's Grok image generator.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
@@ -528,7 +533,6 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [mirahi-io/figma-tokens-example-tailwindcss-using-css-variables-reference](https://github.com/mirahi-io/figma-tokens-example-tailwindcss-using-css-variables-reference) - Export your Design System Tokens to css-variables reference and use them with TailwindCSS
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [amazon-connect/amazon-connect-streams](https://github.com/amazon-connect/amazon-connect-streams) - Amazon Connect Streams - a browser-based contact center integration API, typically with CRM systems.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
@@ -773,6 +777,7 @@
 
 ## Markdown 
 
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -1609,7 +1614,6 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [scarce/axel](https://github.com/scarce/axel) - Peaceful task list meticulously crafted for Agents in war mode.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [swiftlang/swift-package-manager](https://github.com/swiftlang/swift-package-manager) - The Package Manager for the Swift Programming Language
@@ -1625,6 +1629,12 @@
 
 ## TypeScript 
 
+- [OpenAPI-Qraft/openapi-qraft](https://github.com/OpenAPI-Qraft/openapi-qraft) - ⚡ Full TanStack Query power in type-safe OpenAPI hooks for React
+- [povio/openapi-codegen-cli](https://github.com/povio/openapi-codegen-cli) - 
+- [humanlayer/fold](https://github.com/humanlayer/fold) - Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated coding agent, CLI, and TUI. It supports multiple model providers (including openai/anthropic-compatible 
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tester-army/e2e](https://github.com/tester-army/e2e) - Next generation e2e testing framework for web and mobile apps.
@@ -1976,7 +1986,6 @@
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [mattpocock/node-DeepResearch](https://github.com/mattpocock/node-DeepResearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [mrasu/echoed](https://github.com/mrasu/echoed) - Observable Integration Testing using OpenTelemetry on top of Jest/Playwright/Cypress.
 - [hipstersmoothie/jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) - Report jest test errors directly in pull requests
 - [lucas-barake/effect-monorepo](https://github.com/lucas-barake/effect-monorepo) - 
@@ -2016,7 +2025,7 @@
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [mckaywrigley/r1-automated-pr-example](https://github.com/mckaywrigley/r1-automated-pr-example) - 
 - [nrjdalal/rdt-li](https://github.com/nrjdalal/rdt-li) - rdt.li self hostable, feature rich, minimalistic and open source URL shortener. Built with Next.js, Drizzle, NextAuth and Postgres.
@@ -2130,7 +2139,7 @@
 - [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
 - [sujjeee/starter](https://github.com/sujjeee/starter) - Build full-stack web apps with Next.js, Shadcn UI, and Supabase
 - [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecateed) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
-- [coremvp/Hikari](https://github.com/coremvp/Hikari) - A complete & open source Nextjs.14, Stripe and Supabase SaaS Starter Template using App Router
+- [coremvp/Hikari](https://github.com/coremvp/Hikari) - OPEN SOURCE: Next.js 16 starter with updated Supabase API keys, authentication, protected pages, Stripe subscription billing, docs and a blog. Clone it, customize it and build your own subscription ap
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [vercel-labs/next-partial-prerendering](https://github.com/vercel-labs/next-partial-prerendering) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -2165,7 +2174,7 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [hexclave/hexclave](https://github.com/hexclave/hexclave) - The user infrastructure platform. You choose the frontend, backend, and database. Hexclave handles everything else.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
@@ -2178,7 +2187,7 @@
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [armandsalle/my-site](https://github.com/armandsalle/my-site) - My small website
-- [ErikDakoda/zenstack-prisma-nextjs-monorepo](https://github.com/ErikDakoda/zenstack-prisma-nextjs-monorepo) - ZenStack Monorepo Demo
+- [ErikDakoda/zenstack-v3-nextjs-monorepo](https://github.com/ErikDakoda/zenstack-v3-nextjs-monorepo) - ZenStack Monorepo Demo
 - [shuding/next-ts-plugin-vscode](https://github.com/shuding/next-ts-plugin-vscode) - Always-on Next.js TypeScript Plugin in VSCode
 - [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters) - React data tables for shadcn/ui: faceted filters, sorting, infinite scroll. Filtering, faceted counts and cursor pagination can run in SQL with Drizzle.
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium) - Chromium for Serverless Platforms
@@ -2413,7 +2422,6 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [playht/playht-nodejs-sdk](https://github.com/playht/playht-nodejs-sdk) - NodeJS SDK to use PlayHT generative AI text-to-speech APIs
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [aptabase/aptabase](https://github.com/aptabase/aptabase) - ✨ Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps
 - [featurevisor/featurevisor](https://github.com/featurevisor/featurevisor) - Feature flags, experiments, and remote config management with version control
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -2449,7 +2457,7 @@
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [sachinraja/trpc-playground](https://github.com/sachinraja/trpc-playground) - playground for running tRPC queries in the browser
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
-- [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
+- [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - ⚠️ No longer maintained — do not use. This repository is archived.
 - [wmalarski/qwik-trpc-supabase](https://github.com/wmalarski/qwik-trpc-supabase) - Learning Qwik and Qwik City
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [vercel/nextjs-postgres-nextauth-tailwindcss-template](https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template) - Admin dashboard template.
