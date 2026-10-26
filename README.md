@@ -1465,7 +1465,7 @@
 
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [DioxusLabs/rustd](https://github.com/DioxusLabs/rustd) - a rust compiler daemon for up to 25x faster cargo builds
-- [indexable-inc/ra-jit](https://github.com/indexable-inc/ra-jit) - Incremental rust builds up to 92x faster than cargo/rustc
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) - An experimental Rust port of the TypeScript 7 compiler (tsc)
 - [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.
