@@ -183,6 +183,7 @@
 
 ## CSS 
 
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [knadh/oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.
 - [TheSoftwareHouse/copilot-collections](https://github.com/TheSoftwareHouse/copilot-collections) - Opinionated AI-enabled workflows for product engineering
 - [gruckion/nextjs-performance-first](https://github.com/gruckion/nextjs-performance-first) - NextJS mono repo that focuses on monitoring and maintaining performance
@@ -233,6 +234,8 @@
 
 ## Go 
 
+- [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [Agent-Field/pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
 - [kristofferR/codereview-queue](https://github.com/kristofferR/codereview-queue) - Account-wide code review queue: coordinate CodeRabbit/Codex PR reviews across many parallel agents sharing one rate limit (GitHub-native lock + FIFO + live dashboard).
@@ -265,6 +268,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -929,6 +933,12 @@
 
 ## Python 
 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser 
+- [alibaba/aacr-bench](https://github.com/alibaba/aacr-bench) - An Alibaba open-source multi-language benchmark for evaluating LLMs in repository-level automatic code review, featuring an AI-assisted and expert-verified dataset.
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) - 
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
+- [alejandrohdez00/alien-space-of-science](https://github.com/alejandrohdez00/alien-space-of-science) - Code for the paper “The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions”
 - [promptromp/pytest-impacted](https://github.com/promptromp/pytest-impacted) - A pytest plugin that selectively runs tests affected by codechanges via git introspection, ASL parsing, and dependency graph analysis.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [warpdotdev/common-skills](https://github.com/warpdotdev/common-skills) - 
@@ -1193,7 +1203,7 @@
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
-- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - AI data analyst for transparent, reproducible analysis. Works step by step in Python, verifies the evidence behind its reports, and supports a wide selection of models, including local open-weight mod
+- [pgalko/BambooAI](https://github.com/pgalko/BambooAI) - AI-powered data analysis workbench built for transparency, reproducibility and user control. Inspect the code and evidence behind results, verify calculations through replay, and choose from a wide ra
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [bakhti-ai/Wan2.1](https://github.com/bakhti-ai/Wan2.1) - Wan: Open and Advanced Large-Scale Video Generative Models
@@ -1461,6 +1471,7 @@
 
 ## Rust 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [DioxusLabs/rustd](https://github.com/DioxusLabs/rustd) - a rust compiler daemon for up to 25x faster cargo builds
@@ -1649,6 +1660,8 @@
 
 ## TypeScript 
 
+- [callstackincubator/simlock](https://github.com/callstackincubator/simlock) - A control plane so parallel coding agents stop fighting over the same simulator.
+- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -&gt; Exhaust -
 - [uigraph-oss/uigraph](https://github.com/uigraph-oss/uigraph) - Open-source local viewer for software architecture. Use the UIGraph skill with your coding agent to generate service maps, API specs, dependency graphs, and diagrams.
 - [mgratzer/forge](https://github.com/mgratzer/forge) - A collection of agent skills for structured, GitHub-centric development.
 - [ivarvong/lantern](https://github.com/ivarvong/lantern) - Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.
@@ -1949,7 +1962,6 @@
 - [Stivooo/mimicry-js](https://github.com/Stivooo/mimicry-js) - TS library for generating fake data for tests
 - [jackfranklin/test-data-bot](https://github.com/jackfranklin/test-data-bot) - 
 - [mattpocock/total-typescript-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM
 - [colinhacks/live-typescript-monorepo](https://github.com/colinhacks/live-typescript-monorepo) - Strategies for live-updating TypeScript types in monorepos
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
