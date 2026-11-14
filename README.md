@@ -22,6 +22,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -333,7 +334,7 @@
 
 ## HTML 
 
-- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.
+- [dzhng/skills](https://github.com/dzhng/skills) - Reusable AI agent skills for growing software farms: explore ideas, write specs, let agents build unattended, then curate what grew — weed, prune, and review. Works with Claude Code, Codex, and other 
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 - [vinilana/jev-eval-agent](https://github.com/vinilana/jev-eval-agent) - 
 - [hallucinogen/agent-viewer](https://github.com/hallucinogen/agent-viewer) - Kanban board for managing Claude Code agents in tmux
@@ -342,6 +343,7 @@
 - [ClaytonFarr/ralph-playbook](https://github.com/ClaytonFarr/ralph-playbook) - A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇
 - [Dicklesworthstone/misc_coding_agent_tips_and_scripts](https://github.com/Dicklesworthstone/misc_coding_agent_tips_and_scripts) - Practical guides and scripts for AI coding agents, terminal customization, and remote dev tooling. Each documents a real problem and a copy-paste fix: git safety hooks, WezTerm/Ghostty setup, MCP conf
 - [crutchcorn/sync-skeleton](https://github.com/crutchcorn/sync-skeleton) - Vanilla CSS Synchronized Skeleton Loaders
+- [GenWaveLLC/svgmaker-mcp](https://github.com/GenWaveLLC/svgmaker-mcp) - Model Context Protocol server for SVGMaker - AI-powered SVG generation and editing. Seamlessly integrate SVG creation into AI workflows.
 - [filippofinke/web-to-pdf](https://github.com/filippofinke/web-to-pdf) - 📝 Simple web to pdf converter using Playwright hosted as a serverless function on Vercel
 - [tc39/proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 - [ampproject/amp-toolbox](https://github.com/ampproject/amp-toolbox) - A collection of AMP tools making it easier to publish and host AMP pages.
@@ -367,6 +369,10 @@
 - [llSourcell/quantum_machine_learning](https://github.com/llSourcell/quantum_machine_learning) - This is the code for "Quantum Machine Learning" By Siraj Raval on Youtube
 - [wasiahmad/paraphrase_identification](https://github.com/wasiahmad/paraphrase_identification) - Examine two sentences and determine whether they have the same meaning.
 - [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
+
+## Haskell 
+
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Inno Setup 
 
@@ -487,7 +493,6 @@
 - [nickscamara/firecrawl-openai-realtime](https://github.com/nickscamara/firecrawl-openai-realtime) - Realtime API with Firecrawl Tool - Forked from the OpenAI Realtime Console
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
-- [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
 - [theKashey/react-focus-lock](https://github.com/theKashey/react-focus-lock) - It is a trap! A lock for a Focus. 🔓
 - [transitive-bullshit/lqip-modern](https://github.com/transitive-bullshit/lqip-modern) - Modern approach to Low Quality Image Placeholders (LQIP) using webp and sharp.
 - [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json) - Sort an Object or package.json based on the well-known package.json keys
@@ -939,6 +944,7 @@
 
 ## Python 
 
+- [Neywa-Labs/mlx-vlm](https://github.com/Neywa-Labs/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [python-effect/effect](https://github.com/python-effect/effect) - effect isolation in Python, to facilitate more purely functional code
 - [suned/stateless](https://github.com/suned/stateless) - Statically typed, purely functional effects for Python.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -997,7 +1003,7 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [run-llama/audio-kb](https://github.com/run-llama/audio-kb) - Record, store and search audio notes from the terminal, powered by LlamaParse and Gemini Embeddings 2
 - [glanzz/context-branching](https://github.com/glanzz/context-branching) - A Python SDK for checkpoint-based conversation branching in LLM applications. Solve context pollution by creating isolated exploration branches without losing your context in the main conversation.
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehan
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [aegra/aegra](https://github.com/aegra/aegra) - Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.
 - [swyxio/claude-compaction-viewer](https://github.com/swyxio/claude-compaction-viewer) - A TUI and CLI tool for inspecting Claude Code conversation history and compaction events.
@@ -1094,7 +1100,6 @@
 - [andrisgauracs/sam3d-api](https://github.com/andrisgauracs/sam3d-api) - 
 - [repomirrorhq/open-dedalus](https://github.com/repomirrorhq/open-dedalus) - 
 - [zankner/Hydra](https://github.com/zankner/Hydra) - 
-- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [gruckion/claudecode_gemini_and_codex_swebench](https://github.com/gruckion/claudecode_gemini_and_codex_swebench) - Toolkit for measuring Claude Code and Codex performance over time against a baseline using SWEbench-lite dataset **No API key required for Max or Pro subscribers**
 - [gruckion/DeepCode](https://github.com/gruckion/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
@@ -1276,7 +1281,7 @@
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 - [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 an
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
@@ -1481,7 +1486,7 @@
 ## Rust 
 
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
-- [BridgLabs/opencodereview](https://github.com/BridgLabs/opencodereview) - Source-available AI code review for GitHub pull requests. Runs Claude Code or Codex on your own machine with the plan you already pay for.
+- [BridgLabs/opencodereview](https://github.com/BridgLabs/opencodereview) - Source-available AI code review for GitHub pull requests. Runs Claude Code, OpenCode or Codex on your own machine with the plan you already pay for.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [DioxusLabs/rustd](https://github.com/DioxusLabs/rustd) - a rust compiler daemon for up to 25x faster cargo builds
@@ -1540,7 +1545,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls) - LSP server leveraging LLMs for code completion (and more?)
 - [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
@@ -1674,10 +1679,11 @@
 
 ## TypeScript 
 
+- [crosshatch/traits](https://github.com/crosshatch/traits) - Teach your agent to code like you
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [foldkit/foldkit](https://github.com/foldkit/foldkit) - 
 - [callstackincubator/simlock](https://github.com/callstackincubator/simlock) - A control plane so parallel coding agents stop fighting over the same simulator.
-- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -&gt; Exhaust -
+- [qybaihe/bla](https://github.com/qybaihe/bla) - 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI rev
 - [uigraph-oss/uigraph](https://github.com/uigraph-oss/uigraph) - Open-source local viewer for software architecture. Use the UIGraph skill with your coding agent to generate service maps, API specs, dependency graphs, and diagrams.
 - [mgratzer/forge](https://github.com/mgratzer/forge) - A collection of agent skills for structured, GitHub-centric development.
 - [ivarvong/lantern](https://github.com/ivarvong/lantern) - Animated, steppable code explainers. Zero-dependency TypeScript, SVG output, browser and Cloudflare Workers.
@@ -1698,7 +1704,7 @@
 - [povio/openapi-codegen-cli](https://github.com/povio/openapi-codegen-cli) - 
 - [humanlayer/fold](https://github.com/humanlayer/fold) - Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated coding agent, CLI, and TUI. It supports multiple model providers (including openai/anthropic-compatible 
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as Effects
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [aidenybai/bippy](https://github.com/aidenybai/bippy) - ⚠️ hack into react internals
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -1840,6 +1846,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [vtemian/micode](https://github.com/vtemian/micode) - RPI OpenCode Plugin
 - [andrisgauracs/sam3d-mobile](https://github.com/andrisgauracs/sam3d-mobile) - 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [EvanBacon/expo-apple-colors](https://github.com/EvanBacon/expo-apple-colors) - Use native Apple colors on all platforms
 - [AnswerLayer/sniffbench](https://github.com/AnswerLayer/sniffbench) - Evaluate coding agents. Like a sniff test, but it's a benchmark.
@@ -1872,7 +1879,7 @@
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - PearAI: Open Source AI Code Editor (Fork of VSCode). The PearAI Submodule (https://github.com/trypear/pearai-submodule) is a fork of Continue.
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or us
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [effect-app/libs](https://github.com/effect-app/libs) - The core libraries to build apps with Effect
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
@@ -1890,7 +1897,6 @@
 - [TimMikeladze/react-devbar](https://github.com/TimMikeladze/react-devbar) - 📏 A customizable floating toolbar for React applications. Build and integrate your own dev tools with a draggable interface inspired by the Vercel toolbar. Perfect for adding debugging panels, theme c
 - [vercel/flags](https://github.com/vercel/flags) - Flags SDK by Vercel
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
-- [GenWaveLLC/svgmaker-mcp](https://github.com/GenWaveLLC/svgmaker-mcp) - Model Context Protocol server for SVGMaker - AI-powered SVG generation and editing. Seamlessly integrate SVG creation into AI workflows.
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
 - [merge-api/merge-node-client](https://github.com/merge-api/merge-node-client) - The Node SDK for accessing various Merge Unified APIs
@@ -2122,7 +2128,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [privatenumber/dtsroll](https://github.com/privatenumber/dtsroll) - TypeScript declaration (.d.ts) bundler
 - [turbostarter/cli](https://github.com/turbostarter/cli) - Create your TurboStarter app with one command 🚀
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [electric-sql/electric-pglite](https://github.com/electric-sql/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui) - A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production.
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
@@ -2231,6 +2237,7 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [serenity-js/serenity-js](https://github.com/serenity-js/serenity-js) - A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [infinite-table/infinite-react](https://github.com/infinite-table/infinite-react) - The modern React DataGrid for building apps — faster
 - [medusajs/nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant frontend ecommerce starter template with Next.js
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
@@ -2347,7 +2354,7 @@
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [coryhouse/react-switchboard](https://github.com/coryhouse/react-switchboard) - Quickly create custom DevTools for your React app
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
@@ -2549,7 +2556,7 @@
 - [CarterGrimmeisen/zod-prisma](https://github.com/CarterGrimmeisen/zod-prisma) - A custom prisma generator that creates Zod schemas from your Prisma model.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
-- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
+- [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui desktop app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
